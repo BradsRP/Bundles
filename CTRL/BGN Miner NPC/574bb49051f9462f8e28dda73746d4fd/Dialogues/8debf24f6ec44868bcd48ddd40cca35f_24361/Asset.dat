@@ -1,0 +1,502 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8debf24f6ec44868bcd48ddd40cca35f
+Type Dialogue
+ID 24361
+Messages 4
+Message_0_Pages 1
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 29
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 24361
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 24361
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+
+Message_2_Pages 1
+Message_2_Responses 2
+Message_2_Response_0 3
+Message_2_Response_1 29
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 24361
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+
+Message_3_Pages 1
+Message_3_Responses 26
+Message_3_Response_0 4
+Message_3_Response_1 5
+Message_3_Response_2 6
+Message_3_Response_3 7
+Message_3_Response_4 8
+Message_3_Response_5 9
+Message_3_Response_6 10
+Message_3_Response_7 11
+Message_3_Response_8 12
+Message_3_Response_9 13
+Message_3_Response_10 14
+Message_3_Response_11 15
+Message_3_Response_12 16
+Message_3_Response_13 17
+Message_3_Response_14 18
+Message_3_Response_15 19
+Message_3_Response_16 20
+Message_3_Response_17 21
+Message_3_Response_18 22
+Message_3_Response_19 23
+Message_3_Response_20 24
+Message_3_Response_21 25
+Message_3_Response_22 26
+Message_3_Response_23 27
+Message_3_Response_24 28
+Message_3_Response_25 29
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 24361
+Message_3_Condition_0_Value 3
+Message_3_Condition_0_Logic Equal
+
+Responses 30
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24361
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 24361
+Response_0_Reward_0_Value 1
+Response_0_Reward_0_Modification Assign
+
+Response_1_Messages 1
+Response_1_Message_0 1
+Response_1_Dialogue 24361
+Response_1_Rewards 1
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 24361
+Response_1_Reward_0_Value 2
+Response_1_Reward_0_Modification Assign
+
+Response_2_Messages 1
+Response_2_Message_0 1
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Short
+Response_2_Reward_0_ID 24361
+Response_2_Reward_0_Value 0
+Response_2_Reward_0_Modification Assign
+
+Response_3_Messages 1
+Response_3_Message_0 2
+Response_3_Dialogue 24361
+Response_3_Rewards 3
+Response_3_Reward_0_Type Flag_Short
+Response_3_Reward_0_ID 24361
+Response_3_Reward_0_Value 3
+Response_3_Reward_0_Modification Assign
+
+Response_3_Reward_1_Type Item
+Response_3_Reward_1_ID 1198
+Response_3_Reward_1_Amount 1
+Response_3_Reward_1_Auto_Equip True
+
+Response_3_Reward_2_Type Item
+Response_3_Reward_2_ID 1199
+Response_3_Reward_2_Amount 1
+Response_3_Reward_2_Auto_Equip True
+
+Response_4_Messages 1
+Response_4_Message_0 3
+Response_4_Vendor 24362
+Response_5_Messages 1
+Response_5_Message_0 3
+Response_5_Dialogue 24363
+Response_6_Messages 1
+Response_6_Message_0 3
+Response_6_Rewards 1
+Response_6_Reward_0_Type Teleport
+Response_6_Reward_0_Spawnpoint mine_1
+
+Response_7_Messages 1
+Response_7_Message_0 3
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 26102
+Response_7_Condition_0_Status Completed
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Ignore_NPC False
+
+Response_7_Rewards 1
+Response_7_Reward_0_Type Teleport
+Response_7_Reward_0_Spawnpoint mine_2
+
+Response_8_Messages 1
+Response_8_Message_0 3
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 26106
+Response_8_Condition_0_Status Completed
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Ignore_NPC False
+
+Response_8_Rewards 1
+Response_8_Reward_0_Type Teleport
+Response_8_Reward_0_Spawnpoint mine_3
+
+Response_9_Messages 1
+Response_9_Message_0 3
+Response_9_Conditions 1
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 26110
+Response_9_Condition_0_Status Completed
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_Ignore_NPC False
+
+Response_9_Rewards 1
+Response_9_Reward_0_Type Teleport
+Response_9_Reward_0_Spawnpoint mine_4
+
+Response_10_Messages 1
+Response_10_Message_0 3
+Response_10_Conditions 1
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 26114
+Response_10_Condition_0_Status Completed
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_Ignore_NPC False
+
+Response_10_Rewards 1
+Response_10_Reward_0_Type Teleport
+Response_10_Reward_0_Spawnpoint mine_5
+
+Response_11_Messages 1
+Response_11_Message_0 3
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 26100
+Response_11_Condition_0_Status None
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Ignore_NPC False
+
+Response_11_Rewards 2
+Response_11_Reward_0_Type Hint
+Response_11_Reward_0_Duration 4
+
+Response_11_Reward_1_Type Quest
+Response_11_Reward_1_ID 26100
+
+Response_12_Messages 1
+Response_12_Message_0 3
+Response_12_Conditions 2
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_ID 26102
+Response_12_Condition_0_Status None
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_Ignore_NPC False
+
+Response_12_Condition_1_Type Quest
+Response_12_Condition_1_ID 26100
+Response_12_Condition_1_Status Completed
+Response_12_Condition_1_Logic Equal
+Response_12_Condition_1_Ignore_NPC False
+
+Response_12_Rewards 2
+Response_12_Reward_0_Type Hint
+Response_12_Reward_0_Duration 4
+
+Response_12_Reward_1_Type Quest
+Response_12_Reward_1_ID 26102
+
+Response_13_Messages 1
+Response_13_Message_0 3
+Response_13_Conditions 2
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_ID 26102
+Response_13_Condition_0_Status Completed
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_Ignore_NPC False
+
+Response_13_Condition_1_Type Quest
+Response_13_Condition_1_ID 26104
+Response_13_Condition_1_Status None
+Response_13_Condition_1_Logic Equal
+Response_13_Condition_1_Ignore_NPC False
+
+Response_13_Rewards 2
+Response_13_Reward_0_Type Hint
+Response_13_Reward_0_Duration 4
+
+Response_13_Reward_1_Type Quest
+Response_13_Reward_1_ID 26104
+
+Response_14_Messages 1
+Response_14_Message_0 3
+Response_14_Conditions 2
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_ID 26104
+Response_14_Condition_0_Status Completed
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_Ignore_NPC False
+
+Response_14_Condition_1_Type Quest
+Response_14_Condition_1_ID 26106
+Response_14_Condition_1_Status None
+Response_14_Condition_1_Logic Equal
+Response_14_Condition_1_Ignore_NPC False
+
+Response_14_Rewards 2
+Response_14_Reward_0_Type Hint
+Response_14_Reward_0_Duration 4
+
+Response_14_Reward_1_Type Quest
+Response_14_Reward_1_ID 26106
+
+Response_15_Messages 1
+Response_15_Message_0 3
+Response_15_Conditions 2
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_ID 26106
+Response_15_Condition_0_Status Completed
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_Ignore_NPC False
+
+Response_15_Condition_1_Type Quest
+Response_15_Condition_1_ID 26108
+Response_15_Condition_1_Status None
+Response_15_Condition_1_Logic Equal
+Response_15_Condition_1_Ignore_NPC False
+
+Response_15_Rewards 2
+Response_15_Reward_0_Type Hint
+Response_15_Reward_0_Duration 4
+
+Response_15_Reward_1_Type Quest
+Response_15_Reward_1_ID 26108
+
+Response_16_Messages 1
+Response_16_Message_0 3
+Response_16_Conditions 2
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_ID 26108
+Response_16_Condition_0_Status Completed
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_Ignore_NPC False
+
+Response_16_Condition_1_Type Quest
+Response_16_Condition_1_ID 26110
+Response_16_Condition_1_Status None
+Response_16_Condition_1_Logic Equal
+Response_16_Condition_1_Ignore_NPC False
+
+Response_16_Rewards 2
+Response_16_Reward_0_Type Hint
+Response_16_Reward_0_Duration 4
+
+Response_16_Reward_1_Type Quest
+Response_16_Reward_1_ID 26110
+
+Response_17_Messages 1
+Response_17_Message_0 3
+Response_17_Conditions 2
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_ID 26110
+Response_17_Condition_0_Status Completed
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_Ignore_NPC False
+
+Response_17_Condition_1_Type Quest
+Response_17_Condition_1_ID 26112
+Response_17_Condition_1_Status None
+Response_17_Condition_1_Logic Equal
+Response_17_Condition_1_Ignore_NPC False
+
+Response_17_Rewards 2
+Response_17_Reward_0_Type Hint
+Response_17_Reward_0_Duration 4
+
+Response_17_Reward_1_Type Quest
+Response_17_Reward_1_ID 26112
+
+Response_18_Messages 1
+Response_18_Message_0 3
+Response_18_Conditions 2
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_ID 26112
+Response_18_Condition_0_Status Completed
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_Ignore_NPC False
+
+Response_18_Condition_1_Type Quest
+Response_18_Condition_1_ID 26114
+Response_18_Condition_1_Status None
+Response_18_Condition_1_Logic Equal
+Response_18_Condition_1_Ignore_NPC False
+
+Response_18_Rewards 2
+Response_18_Reward_0_Type Hint
+Response_18_Reward_0_Duration 4
+
+Response_18_Reward_1_Type Quest
+Response_18_Reward_1_ID 26114
+
+Response_19_Messages 1
+Response_19_Message_0 3
+Response_19_Conditions 2
+Response_19_Condition_0_Type Quest
+Response_19_Condition_0_ID 26114
+Response_19_Condition_0_Status Completed
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_0_Ignore_NPC False
+
+Response_19_Condition_1_Type Quest
+Response_19_Condition_1_ID 26116
+Response_19_Condition_1_Status None
+Response_19_Condition_1_Logic Equal
+Response_19_Condition_1_Ignore_NPC False
+
+Response_19_Rewards 2
+Response_19_Reward_0_Type Hint
+Response_19_Reward_0_Duration 4
+
+Response_19_Reward_1_Type Quest
+Response_19_Reward_1_ID 26116
+
+Response_20_Messages 1
+Response_20_Message_0 3
+Response_20_Conditions 1
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_ID 26100
+Response_20_Condition_0_Status Ready
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_Ignore_NPC False
+Response_20_Condition_0_Reset 
+
+Response_20_Rewards 1
+Response_20_Reward_0_Type Hint
+Response_20_Reward_0_Duration 4
+
+Response_21_Messages 1
+Response_21_Message_0 3
+Response_21_Conditions 1
+Response_21_Condition_0_Type Quest
+Response_21_Condition_0_ID 26102
+Response_21_Condition_0_Status Ready
+Response_21_Condition_0_Logic Equal
+Response_21_Condition_0_Ignore_NPC False
+Response_21_Condition_0_Reset 
+
+Response_21_Rewards 1
+Response_21_Reward_0_Type Hint
+Response_21_Reward_0_Duration 4
+
+Response_22_Messages 1
+Response_22_Message_0 3
+Response_22_Conditions 1
+Response_22_Condition_0_Type Quest
+Response_22_Condition_0_ID 26104
+Response_22_Condition_0_Status Ready
+Response_22_Condition_0_Logic Equal
+Response_22_Condition_0_Ignore_NPC False
+Response_22_Condition_0_Reset 
+
+Response_22_Rewards 1
+Response_22_Reward_0_Type Hint
+Response_22_Reward_0_Duration 4
+
+Response_23_Messages 1
+Response_23_Message_0 3
+Response_23_Conditions 1
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_ID 26106
+Response_23_Condition_0_Status Ready
+Response_23_Condition_0_Logic Equal
+Response_23_Condition_0_Ignore_NPC False
+Response_23_Condition_0_Reset 
+
+Response_23_Rewards 1
+Response_23_Reward_0_Type Hint
+Response_23_Reward_0_Duration 4
+
+Response_24_Messages 1
+Response_24_Message_0 3
+Response_24_Conditions 1
+Response_24_Condition_0_Type Quest
+Response_24_Condition_0_ID 26108
+Response_24_Condition_0_Status Ready
+Response_24_Condition_0_Logic Equal
+Response_24_Condition_0_Ignore_NPC False
+Response_24_Condition_0_Reset 
+
+Response_24_Rewards 1
+Response_24_Reward_0_Type Hint
+Response_24_Reward_0_Duration 4
+
+Response_25_Messages 1
+Response_25_Message_0 3
+Response_25_Conditions 1
+Response_25_Condition_0_Type Quest
+Response_25_Condition_0_ID 26110
+Response_25_Condition_0_Status Ready
+Response_25_Condition_0_Logic Equal
+Response_25_Condition_0_Ignore_NPC False
+Response_25_Condition_0_Reset 
+
+Response_25_Rewards 1
+Response_25_Reward_0_Type Hint
+Response_25_Reward_0_Duration 4
+
+Response_26_Messages 1
+Response_26_Message_0 3
+Response_26_Conditions 1
+Response_26_Condition_0_Type Quest
+Response_26_Condition_0_ID 26112
+Response_26_Condition_0_Status Ready
+Response_26_Condition_0_Logic Equal
+Response_26_Condition_0_Ignore_NPC False
+Response_26_Condition_0_Reset 
+
+Response_26_Rewards 1
+Response_26_Reward_0_Type Hint
+Response_26_Reward_0_Duration 4
+
+Response_27_Messages 1
+Response_27_Message_0 3
+Response_27_Conditions 1
+Response_27_Condition_0_Type Quest
+Response_27_Condition_0_ID 26114
+Response_27_Condition_0_Status Ready
+Response_27_Condition_0_Logic Equal
+Response_27_Condition_0_Ignore_NPC False
+Response_27_Condition_0_Reset 
+
+Response_27_Rewards 1
+Response_27_Reward_0_Type Hint
+Response_27_Reward_0_Duration 4
+
+Response_28_Messages 1
+Response_28_Message_0 3
+Response_28_Conditions 1
+Response_28_Condition_0_Type Quest
+Response_28_Condition_0_ID 26116
+Response_28_Condition_0_Status Ready
+Response_28_Condition_0_Logic Equal
+Response_28_Condition_0_Ignore_NPC False
+Response_28_Condition_0_Reset 
+
+Response_28_Rewards 1
+Response_28_Reward_0_Type Hint
+Response_28_Reward_0_Duration 4
+
+Response_29_Messages 3
+Response_29_Message_0 0
+Response_29_Message_1 2
+Response_29_Message_2 3

@@ -1,0 +1,20 @@
+﻿// Made in NPC Maker by BowieD
+GUID bce033f975db4ea491238d7b092e59dc
+ID 24231
+Type NPC
+Shirt 19118
+Pants 19111
+Mask 19168
+Vest 19113
+Backpack 19254
+Hat 19115
+Glasses 19203
+Primary 59753
+Secondary 58667
+Face 11
+Beard 4
+Hair 9
+Color_Skin #94764B
+Color_Hair #373737
+Pose Stand
+Dialogue 24231

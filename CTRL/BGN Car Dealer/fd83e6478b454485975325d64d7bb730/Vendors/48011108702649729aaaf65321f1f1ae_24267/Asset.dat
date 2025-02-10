@@ -1,0 +1,10 @@
+﻿// Made in NPC Maker by BowieD
+GUID 48011108702649729aaaf65321f1f1ae
+Type Vendor
+ID 24267
+Selling 1
+Selling_0_Type Vehicle
+Selling_0_Spawnpoint car
+Selling_0_ID 39039
+Selling_0_Cost 10000
+Disable_Sorting

@@ -1,0 +1,64 @@
+﻿// Made in NPC Maker by BowieD
+GUID b0ce2923c951464bbac2e5919c889399
+Type Dialogue
+ID 24411
+Messages 2
+Message_0_Pages 1
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 2
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 24411
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 24411
+Message_1_Condition_0_Value True
+Message_1_Condition_0_Allow_Unset 
+Message_1_Condition_0_Logic Equal
+
+Responses 3
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24411
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 24411
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Allow_Unset 
+Response_0_Condition_0_Logic Equal
+
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 24411
+Response_0_Reward_0_Value True
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 1198
+Response_0_Reward_1_Amount 1
+Response_0_Reward_1_Sight 0
+Response_0_Reward_1_Tactical 0
+Response_0_Reward_1_Grip 0
+Response_0_Reward_1_Barrel 0
+Response_0_Reward_1_Magazine 0
+Response_0_Reward_1_Ammo 0
+Response_0_Reward_1_Auto_Equip True
+
+Response_1_Messages 1
+Response_1_Message_0 1
+Response_1_Vendor 24412
+Response_1_Conditions 1
+Response_1_Condition_0_Type Flag_Bool
+Response_1_Condition_0_ID 24411
+Response_1_Condition_0_Value True
+Response_1_Condition_0_Allow_Unset 
+Response_1_Condition_0_Logic Equal
+

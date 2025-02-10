@@ -1,0 +1,26 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Question 1: You are walking through Mallard with an Assault Rifle holstered and in safety mode on your back. What would happen if a police officer spots you?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Question 2: You are in an empty field and you fire your weapon in order to test its recoil. What would happen if you're spotted by a police officer?</b></color>
+Message_2_Page_0 <color=#FFFFFF><b>Question 3: You recently bought a sniper for hunting animals. What would happen if an officer spotted you with this weapon in a forest?</b></color>
+Message_3_Page_0 <color=#FFFFFF><b>Question 4: An officer asks to see your gun license after you pulled out your pistol, however you left the license at home due to being in a rush to leave. What will happen next?</b></color>
+Message_4_Page_0 <color=#FFFFFF><b>Question 5: Which one of these guns is illegal in Bauxenburg?</b></color>
+Response_0 <color=#FFFFFF><b>Nothing, I'm not breaking the law.</b></color>
+Response_1 <color=#FFFFFF><b>My weapon would get confiscated and I'd get arrested and fined.</b></color>
+Response_2 <color=#FFFFFF><b>I'd show them my license and be allowed to leave.</b></color>
+Response_3 <color=#FFFFFF><b>I'd get fined.</b></color>
+Response_4 <color=#FFFFFF><b>Nothing, I'm not in a town so it is allowed.</b></color>
+Response_5 <color=#FFFFFF><b>They would tell me to stop as I'm loud.</b></color>
+Response_6 <color=#FFFFFF><b>I'd simply get fined.</b></color>
+Response_7 <color=#FFFFFF><b>My gun will get confiscated and I'd be arrested and fined.</b></color>
+Response_8 <color=#FFFFFF><b>They would ask me for my license.</b></color>
+Response_9 <color=#FFFFFF><b>They'd wish my luck with my hunting session.</b></color>
+Response_10 <color=#FFFFFF><b>They would confiscate it and I'd get arrested and fined.</b></color>
+Response_11 <color=#FFFFFF><b>They would ask me for my hunting license.</b></color>
+Response_12 <color=#FFFFFF><b>My firearms would be confiscated and I'd get arrested and fined.</b></color>
+Response_13 <color=#FFFFFF><b>The officer will let me go as they can see I have a license in their system.</b></color>
+Response_14 <color=#FFFFFF><b>They'd come home with me to get it and show it.</b></color>
+Response_15 <color=#FFFFFF><b>Nothing as it is only a pistol.</b></color>
+Response_16 <color=#FFFFFF><b>MR 73 Revolver</b></color>
+Response_17 <color=#FFFFFF><b>SPAS-12 Shotgun</b></color>
+Response_18 <color=#FFFFFF><b>AK-9 CAR</b></color>
+Response_19 <color=#FFFFFF><b>SIG XM7 Rifle</b></color>

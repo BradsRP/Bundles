@@ -1,0 +1,15 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Hello mate! Price tags are on the products, just pick whatever you need.</b></color>
+Response_0 <color=#dce319><b>Lighting Products</b></color>
+Response_1 <color=#ed4054><b>Bed Products</b></color>
+Response_2 <color=#49d170><b>Storage Products</b></color>
+Response_3 <color=#49d1b1><b>Display Storage Products</b></color>
+Response_4 <color=#e8f00c><b>Generator Products</b></color>
+Response_5 <color=#f07e0c><b>Heating Products</b></color>
+Response_6 <color=#d47c66><b>Household Furniture Products</b></color>
+Response_7 <color=#a66b4e><b>Door Products</b></color>
+Response_8 <color=#76a891><b>Text Display Products</b></color>
+Response_9 <color=#5271eb><b>Window Products</b></color>
+Response_10 <color=#ff0000><b>CHRISTMAS!</b></color>
+Response_11 <color=#ff3c00><b>HALLOWEEN!</b></color>
+Response_12 Leave

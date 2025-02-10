@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+GUID c275e2590f254db8b523d0b3509840d3
+ID 24111
+Type NPC
+Shirt 46500
+Face 6
+Beard 0
+Hair 0
+Color_Skin #FFFFFF
+Color_Hair #000000
+Pose Sit
+Dialogue 24111

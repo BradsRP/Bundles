@@ -1,0 +1,27 @@
+﻿// Made in NPC Maker by BowieD
+GUID aaddfa79db8d4c69a8bfb515f93d5666
+Type Dialogue
+ID 24211
+Messages 1
+Message_0_Pages 1
+Responses 13
+Response_0_Vendor 24212
+Response_1_Vendor 24213
+Response_2_Vendor 24214
+Response_3_Vendor 24215
+Response_4_Vendor 24216
+Response_5_Vendor 24217
+Response_6_Vendor 24218
+Response_7_Vendor 24219
+Response_8_Vendor 24220
+Response_9_Vendor 24221
+Response_10_Vendor 24222
+Response_10_Conditions 1
+Response_10_Condition_0_Type Holiday
+Response_10_Condition_0_Value Christmas
+
+Response_11_Vendor 24223
+Response_11_Conditions 1
+Response_11_Condition_0_Type Holiday
+Response_11_Condition_0_Value Halloween
+

@@ -1,0 +1,17 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Haven't seen you before.. You aren't with the police are you?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Alright then big man.. What's your name then?</b></color>
+Message_2_Page_0 <color=#FFFFFF><b>Haha.. funny guy. If you were, I'd be arrested by now. I assume you want to get in the business. What's your name?</b></color>
+Message_3_Page_0 <color=#FFFFFF><b>No name? Smart. Alright then, you've earned my trust. Welcome to the business.</b></color>
+Message_4_Page_0 <color=#FFFFFF><b>Little advice, never tell anyone your name in this business. You seem sloppy, but if you mess up I at least know who to look for. You have a lot to learn, but welcome to the business.</b></color>
+Message_5_Page_0 <color=#FFFFFF><b>What can I do for you?</b></color>
+Message_6_Page_0 <color=#FFFFFF><b>What can I do for you <color=rare><name_char></color>?</b></color>
+Response_0 No, I'm just looking to get into your business.
+Response_1 Yes, I am.
+Response_2 My name's <color=rare><name_char></color>.
+Response_3 I'd rather keep that to myself.
+Response_4 Thanks. Let's make some bread now.
+Response_5 Thanks for the advice and giving me a chance.
+Response_6 <color=uncommon>Production Shop</color>
+Response_7 <color=mythical>Drug Market</color>
+Response_8 Leave

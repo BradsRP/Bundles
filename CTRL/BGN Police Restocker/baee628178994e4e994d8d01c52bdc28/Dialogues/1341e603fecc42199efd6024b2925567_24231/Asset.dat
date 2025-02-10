@@ -1,0 +1,21 @@
+﻿// Made in NPC Maker by BowieD
+GUID 1341e603fecc42199efd6024b2925567
+Type Dialogue
+ID 24231
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Item
+Message_0_Condition_0_ID 7471
+Message_0_Condition_0_Amount 1
+
+Message_1_Pages 1
+Message_1_Responses 1
+Message_1_Response_0 2
+Responses 3
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24232
+Response_1_Messages 1
+Response_1_Message_0 0
+Response_1_Vendor 24233

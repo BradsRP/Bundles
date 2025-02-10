@@ -1,0 +1,28 @@
+// This file was generated in BowieD's AssetEditor 0.0.14-alpha
+"Metadata"
+{
+	"GUID" "8cd5739c9af64f8586450a4fbbb1c55d"
+	"Type" "SDG.Unturned.ResourceAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Health" "450"
+	"Radius" "4"
+	"Scale" "0.3"
+	"Explosion" "49"
+	"Log" "46507"
+	"Stick" "46507"
+	"Reward_ID" "0"
+	"Reward_XP" "6"
+	"Reward_Min" "7"
+	"Reward_Max" "14"
+	"BladeID" "2"
+	"Vulnerable_To_Fists" "false"
+	"Vulnerable_To_All_Melee_Weapons" "false"
+	"Reset" "600"
+	"Forage_Reward_Experience" "1"
+	"No_Debris" ""
+	"Chart" "NONE"
+	"ID" "46507"
+	"Asset_Bundle_Version" "1"
+}

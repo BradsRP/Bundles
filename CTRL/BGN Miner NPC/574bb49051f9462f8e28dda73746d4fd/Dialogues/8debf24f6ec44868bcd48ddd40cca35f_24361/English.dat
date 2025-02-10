@@ -1,0 +1,53 @@
+﻿// Made in NPC Maker by BowieD
+Response_11_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_12_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_13_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_14_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_15_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_16_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_17_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_18_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_19_Reward_0 <color=#FFFFFF><b>Quest added!</b></color>
+Response_20_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_21_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_22_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_23_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_24_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_25_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_26_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_27_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Response_28_Reward_0 <color=#FFFFFF><b>Quest completed!</b></color>
+Message_0_Page_0 <color=#FFFFFF><b>Hello! What brings you here mate?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>You sure? This is a difficult job and you'll need to put in many hours of work to advance.</b></color>
+Message_2_Page_0 <color=#FFFFFF><b>Alright then, here's a pickaxe and a headlamp. Good luck and try not to get stuck down there.</b></color>
+Message_3_Page_0 <color=#FFFFFF><b>Welcome back <name_char>! Good luck in there today.</b></color>
+Response_0 I want to become a miner.
+Response_1 I'm sure, just give me some tools please.
+Response_2 Nevermind, this isn't for me.
+Response_3 Thanks!
+Response_4 <color=#ff962e><b>Miner Shop</b></color>
+Response_5 <color=#5cff7f><b>Blacksmith</b></color>
+Response_6 <color=#B87333><b>Copper Mine</b></color>
+Response_7 <color=#a19d94><b>Iron Mine</b></color>
+Response_8 <color=#FFD700><b>Gold Mine</b></color>
+Response_9 <color=#E5E4E2><b>Platinum Mine</b></color>
+Response_10 <color=#0047AB><b>Cobalt Mine</b></color>
+Response_11 <color=#B87333><b>[QUEST] - Upgrades I</b></color>
+Response_12 <color=#a19d94><b>[QUEST] - Mining Forward I</b></color>
+Response_13 <color=#a19d94><b>[QUEST] - Upgrades II</b></color>
+Response_14 <color=#FFD700><b>[QUEST] - Mining Forward II</b></color>
+Response_15 <color=#FFD700><b>[QUEST] - Upgrades III</b></color>
+Response_16 <color=#E5E4E2><b>[QUEST] - Mining Forward III</b></color>
+Response_17 <color=#E5E4E2><b>[QUEST] - Upgrades IV</b></color>
+Response_18 <color=#0047AB><b>[QUEST] - Mining Forward IV</b></color>
+Response_19 <color=#0047AB><b>[QUEST] - Upgrades V</b></color>
+Response_20 <color=#B87333><b>[COMPLETE] - Upgrades I</b></color>
+Response_21 <color=#a19d94><b>[COMPLETE] - Mining Forward I</b></color>
+Response_22 <color=#a19d94><b>[COMPLETE] - Upgrades II</b></color>
+Response_23 <color=#FFD700><b>[COMPLETE] - Mining Forward II</b></color>
+Response_24 <color=#FFD700><b>[COMPLETE] - Upgrades III</b></color>
+Response_25 <color=#E5E4E2><b>[COMPLETE] - Mining Forward III</b></color>
+Response_26 <color=#E5E4E2><b>[COMPLETE] - Upgrades IV</b></color>
+Response_27 <color=#0047AB><b>[COMPLETE] - Mining Forward IV</b></color>
+Response_28 <color=#0047AB><b>[COMPLETE] - Upgrades V</b></color>
+Response_29 Leave

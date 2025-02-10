@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "c8a176f1-7ed5-4e5f-898c-17f96b0487c9"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+
+	"Loading_Screen_Music"
+	[
+		{
+			"Loop" "Music/Loading.mp3"
+			"Outro" "Music/Outro2.mp3"
+		}
+	]
+	"Should_Animate_Background_Image" "true"
+}

@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>SWAT Uniform (Black) : <color=#00FF00>6000$</color><br>SWAT Uniform (Green) : <color=#00FF00>6000$</color><br>FBI Uniform (Incl. Mk.2) : <color=#00FF00>7000$</color><br>Law Uniform : <color=#00FF00>4000$</color></color></b>
+Response_0 <color=#45bbd9><b>SWAT Uniform (Black)</b></color>
+Response_1 <color=#45bbd9><b>SWAT Uniform (Green)</b></color>
+Response_2 <color=#45bbd9><b>FBI Uniform</b></color>
+Response_3 <color=#45bbd9><b>Law Uniform</b></color>
+Response_4 Go back
+Response_5 Leave

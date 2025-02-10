@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#239eeb><b>Stanton → Ravenport: <color=uncommon>500$</color><br>Stanton → Bauxenburg Municipal  : <color=uncommon>500$</color><br>Stanton → Mallard  : <color=uncommon>1000$</color></b></color>
+Response_0 <color=#f7485f><b>Stanton → Ravenport</b></color>
+Response_1 <color=#f7485f><b>Stanton → Bauxenburg Municipal</b></color>
+Response_2 <color=#f7485f><b>Stanton → Mallard</b></color>
+Response_3 Leave

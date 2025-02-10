@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Cash only. You know the rest.</b></color>
+Response_0 <color=rare>DMRs</color>
+Response_1 <color=uncommon>Sniper Rifles</color>
+Response_2 <color=mythical>LMGs</color>
+Response_3 <color=epic>Battle Rifles</color>
+Response_4 <color=legendary>Shotguns</color>
+Response_5 <color=common>Sidearms</color>
+Response_6 Leave

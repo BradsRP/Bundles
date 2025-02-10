@@ -1,0 +1,31 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.16-alpha.5
+"Metadata"
+{
+	"GUID" "e70d80f9f13f4108a46b2db52e3cc55f"
+	"Type" "SDG.Unturned.SpawnAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Roots" "0"
+	"Tables" "9"
+	"Table_0_Weight" "3"
+	"Table_0_GUID" "eb11ecc8943649c4b1f49e2d0b141e22"
+	"Table_1_Weight" "5"
+	"Table_1_GUID" "a3adb1701e854e6e933b96f0d56e271d"
+	"Table_2_Weight" "2"
+	"Table_2_GUID" "9fb0b1fa2924411c830f973c068e6355"
+	"Table_3_Weight" "50"
+	"Table_3_GUID" "a3adb1701e854e6e933b96f0d56e271d"
+	"Table_4_Weight" "50"
+	"Table_4_GUID" "338553d30a464746beef023e048eaca4"
+	"Table_5_Weight" "50"
+	"Table_5_GUID" "1fa1f3ade8b04fd08715b27003b8c584"
+	"Table_6_Weight" "25"
+	"Table_6_GUID" "2d090bab240e4ca88fd577581187c4bc"
+	"Table_7_Weight" "50"
+	"Table_7_GUID" "430dc9e872f04b49ade2602ed5b8d2f9"
+	"Table_8_Weight" "25"
+	"Table_8_GUID" "83688311fef04b1aa599f02d946b64f5"
+	"ID" "25005"
+	"Asset_Bundle_Version" "5"
+}

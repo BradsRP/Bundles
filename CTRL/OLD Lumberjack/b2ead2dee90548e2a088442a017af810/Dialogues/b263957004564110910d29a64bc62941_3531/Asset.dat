@@ -1,0 +1,63 @@
+﻿// Made in NPC Maker by BowieD
+GUID b263957004564110910d29a64bc62941
+Type Dialogue
+ID 3531
+Messages 2
+Message_0_Pages 1
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 2
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 3531
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 3531
+Message_1_Condition_0_Value True
+Message_1_Condition_0_Allow_Unset 
+Message_1_Condition_0_Logic Equal
+
+Responses 3
+Response_0_Messages 5
+Response_0_Message_0 0
+Response_0_Dialogue 3531
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 3531
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Allow_Unset 
+Response_0_Condition_0_Logic Equal
+
+Response_0_Rewards 3
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 3531
+Response_0_Reward_0_Value True
+
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 33
+Response_0_Reward_1_Value 0
+Response_0_Reward_1_Modification Assign
+
+Response_0_Reward_2_Type Item
+Response_0_Reward_2_ID 16
+Response_0_Reward_2_Amount 1
+Response_0_Reward_2_Auto_Equip True
+
+Response_1_Messages 16
+Response_1_Message_0 1
+Response_1_Vendor 3534
+Response_1_Conditions 1
+Response_1_Condition_0_Type Flag_Bool
+Response_1_Condition_0_ID 3531
+Response_1_Condition_0_Value True
+Response_1_Condition_0_Allow_Unset 
+Response_1_Condition_0_Logic Equal
+

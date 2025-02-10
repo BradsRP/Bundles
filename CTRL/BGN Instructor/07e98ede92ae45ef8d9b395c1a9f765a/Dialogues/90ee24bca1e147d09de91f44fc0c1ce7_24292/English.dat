@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Would you like to take a quick lesson regaring Bauxenburg's Driving Laws or would you like to get straight on with the written test?</b></color>
+Response_0 <color=#FFFFFF><b>I'd like to take a lesson please.</b></color>
+Response_1 <color=#FFFFFF><b>I'm confident, please give me the test</b></color>
+Response_2 Back to Licenses
+Response_3 Leave

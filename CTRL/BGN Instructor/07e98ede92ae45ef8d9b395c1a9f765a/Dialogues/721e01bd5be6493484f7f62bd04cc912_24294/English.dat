@@ -1,0 +1,26 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Question 1: What is the speed limit inside a town/city?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Question 2: What may happen to your vehicle if you park it on a sidewalk while you enter a shop?</b></color>
+Message_2_Page_0 <color=#FFFFFF><b>Question 3: What should you do when asked to pull over by a police officer?</b></color>
+Message_3_Page_0 <color=#FFFFFF><b>Question 4: You are driving outside of a town and you decide to drive your car off the road. A police officer witnesses this, what will they do next?</b></color>
+Message_4_Page_0 <color=#FFFFFF><b>Question 5: You are driving through Ravenport (city) at 65mph. What may happen if an officer catches you?</b></color>
+Response_0 <color=#FFFFFF><b>60mph</b></color>
+Response_1 <color=#FFFFFF><b>100mph</b></color>
+Response_2 <color=#FFFFFF><b>60km/h</b></color>
+Response_3 <color=#FFFFFF><b>100km/h</b></color>
+Response_4 <color=#FFFFFF><b>It will get impounded.</b></color>
+Response_5 <color=#FFFFFF><b>I will be arrested.</b></color>
+Response_6 <color=#FFFFFF><b>It will get destroyed.</b></color>
+Response_7 <color=#FFFFFF><b>Nothing, it's not illegal.</b></color>
+Response_8 <color=#FFFFFF><b>Speed up and try to lose them</b></color>
+Response_9 <color=#FFFFFF><b>Keep going.</b></color>
+Response_10 <color=#FFFFFF><b>Pull over immediately.</b></color>
+Response_11 <color=#FFFFFF><b>Ask why you are being pulled over before stopping.</b></color>
+Response_12 <color=#FFFFFF><b>Pull me over, arrest me and fine me.</b></color>
+Response_13 <color=#FFFFFF><b>Nothing, I didn't break any laws.</b></color>
+Response_14 <color=#FFFFFF><b>Pull me over and fine me.</b></color>
+Response_15 <color=#FFFFFF><b>Pull me over and impound my car.</b></color>
+Response_16 <color=#FFFFFF><b>I will get arrested and fined.</b></color>
+Response_17 <color=#FFFFFF><b>I will get arrested, fined and my car will be impounded.</b></color>
+Response_18 <color=#FFFFFF><b>Nothing, I'm not breaking any laws.</b></color>
+Response_19 <color=#FFFFFF><b>I will get fined.</b></color>

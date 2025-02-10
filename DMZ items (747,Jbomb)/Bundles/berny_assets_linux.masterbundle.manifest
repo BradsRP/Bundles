@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2960915047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3357f53ad15a1b6429d1e82a8baffeb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1e6a59d46e150e10956662bb7b52df7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Berny_Assets/Items/Nav_system/Item.prefab
+- Assets/Berny_Assets/Objects/Small/Radio_Logs_Objects/Object.prefab
+- Assets/Berny_Assets/Items/Rare_parts/Item.prefab
+- Assets/Berny_Assets/Objects/Small/Blueprint_Objects/Object.prefab
+- Assets/Berny_Assets/Items/Electrical_Parts/Item.prefab
+- Assets/Berny_Assets/Items/Valuable_Components/Item.prefab
+- Assets/Berny_Assets/Items/Small_Safe/Item.prefab
+- Assets/Berny_Assets/Objects/Small/Nav_system_Objects/Object.prefab
+- Assets/Berny_Assets/Items/Discarded_Flamethrower/Item.prefab
+- Assets/Berny_Assets/Items/Old_pistol/Item.prefab
+- Assets/Berny_Assets/Items/Blueprint/Item.prefab
+- Assets/Berny_Assets/Items/HMG/Item.prefab
+- Assets/Berny_Assets/Items/Radio_Logs/Item.prefab
+- Assets/Berny_Assets/Items/Salvage/Item.prefab
+- Assets/Berny_Assets/Objects/Medium/HMG_Objects/Object.prefab
+- Assets/Berny_Assets/Items/Important_Documents/Item.prefab
+- Assets/Berny_Assets/Items/Old_DMR/Item.prefab
+- Assets/Berny_Assets/Items/old_AR/Item.prefab
+- Assets/Berny_Assets/Items/Old_Safe/Item.prefab
+Dependencies: []

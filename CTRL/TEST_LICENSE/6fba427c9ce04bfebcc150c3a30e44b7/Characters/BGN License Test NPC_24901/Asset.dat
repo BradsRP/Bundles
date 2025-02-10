@@ -1,0 +1,11 @@
+﻿// Made in NPC Maker by BowieD
+GUID 1137350a8ae040f48e2ea67e551ef173
+ID 24901
+Type NPC
+Face 6
+Beard 0
+Hair 0
+Color_Skin #FFFFFF
+Color_Hair #000000
+Pose Stand
+Dialogue 24901

@@ -1,0 +1,50 @@
+﻿// Made in NPC Maker by BowieD
+Response_4_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_5_Reward_0 <color=#ffffff><b>Quest completed!</b></color>
+Response_6_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_7_Reward_0 <color=#ffffff><b>Quest completed! You can now speak to the Trinket Collector.</b></color>
+Response_8_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_9_Reward_0 <color=#ffffff><b>Quest completed! You can now access Rupert's buyback section.</b></color>
+Response_10_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_11_Reward_0 <color=#ffffff><b>Quest completed! You now have access to DMZ Level 2.</b></color>
+Response_13_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_14_Reward_0 <color=#ffffff><b>Quest completed! You can now speak to Junkyard Betty.</b></color>
+Response_15_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_16_Reward_0 <color=#ffffff><b>Quest completed! Sell electrical components to Pete.</b></color>
+Response_17_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_18_Reward_0 <color=#ffffff><b>Quest completed! You now have access to DMZ Level 3 and have been given a gas mask and a filter.</b></color>
+Response_20_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_21_Reward_0 <color=#ffffff><b>Quest completed!</b></color>
+Response_23_Reward_1 <color=#ffffff><b>Quest added!</b></color>
+Response_24_Reward_0 <color=#ffffff><b>Quest completed!</b></color>
+Message_0_Page_0 <color=#ffffff><b>Whoever you are, this isn't the place for you. Turn around and go live a normal life.</b></color>
+Message_1_Page_0 <color=#ffffff><b>Trust me, you have no clue what's behind this tunnel. But since you insist on staying, at least tell me your name so I can write it on a body bag.</b></color>
+Message_2_Page_0 <color=#ffffff><b>Well that's what they all say <color=#63ceff><name_char></color>, but only a few keep their word. Anyways, good luck. You will need it.</b></color>
+Message_3_Page_0 <color=#ffffff><b>Welcome back <color=#63ceff><name_char></color>, nice to see you in one piece. What can I do for you?</b></color>
+Response_0 I know what this place is, and I know the dangers of it. Can you let me in?
+Response_1 My name is <b><color=#63ceff><name_char></b></color>, and I don't plan on dying.
+Response_2 Thanks.
+Response_3 <color=#00ff00><b>DMZ Level 1</b></color>
+Response_4 <color=#ffffff><b>QUEST - Stranger Danger</b></color>
+Response_5 <color=#ffffff><b>COMPLETE - Stranger Danger</b></color>
+Response_6 <color=#ffffff><b>QUEST - Big Guns</b></color>
+Response_7 <color=#ffffff><b>COMPLETE - Big Guns</b></color>
+Response_8 <color=#ffffff><b>QUEST - Arsenal Wares</b></color>
+Response_9 <color=#ffffff><b>COMPLETE - Arsenal Wares</b></color>
+Response_10 <color=#ffffff><b>QUEST - Getting To Know You</b></color>
+Response_11 <color=#ffffff><b>COMPLETE - Getting To Know You</b></color>
+Response_12 <color=#ffef42><b>DMZ Level 2</b></color>
+Response_13 <color=#ffffff><b>QUEST - Scrapper</b></color>
+Response_14 <color=#ffffff><b>COMPLETE - Scrapper</b></color>
+Response_15 <color=#ffffff><b>QUEST - Scavenger Hunt</b></color>
+Response_16 <color=#ffffff><b>COMPLETE - Scavenger Hunt</b></color>
+Response_17 <color=#ffffff><b>QUEST - Wayfinder</b></color>
+Response_18 <color=#ffffff><b>COMPLETE - Wayfinder</b></color>
+Response_19 <color=#ff752b><b>DMZ Level 3</b></color>
+Response_20 <color=#ffffff><b>QUEST - DEFCON 1</b></color>
+Response_21 <color=#ffffff><b>COMPLETE - DEFCON 1</b></color>
+Response_22 <color=#ffffff><b>The Good Soldier</b></color>
+Response_23 <color=#ffffff><b>QUEST - With Strange Power</b></color>
+Response_24 <color=#ffffff><b>COMPLETE - With Strange Power</b></color>
+Response_25 <color=#ffffff><b>Shop</b></color>
+Response_26 Exit

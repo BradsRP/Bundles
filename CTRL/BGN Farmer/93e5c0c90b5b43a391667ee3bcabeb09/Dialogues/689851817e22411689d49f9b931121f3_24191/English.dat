@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Howdy <name_char>! I see you are new around here..<br>Would you like to start your journey as a farmer?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Howdy <name_char>! What can I do for you today?</b></color>
+Response_0 Yes, let go!
+Response_1 <color=epic>Modded Farmer Shop</color>
+Response_2 <color=uncommon>Vanilla Farmer Shop</color>
+Response_3 Leave

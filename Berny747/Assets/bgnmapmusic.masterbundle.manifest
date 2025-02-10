@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1241321174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 795d792c7af8b1578e7b20bde6eb3cc0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bauxenburg/Music/Loading.mp3
+- Assets/Bauxenburg/Music/Outro2.mp3
+Dependencies: []

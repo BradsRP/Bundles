@@ -1,0 +1,248 @@
+﻿// Made in NPC Maker by BowieD
+GUID f2c6b30ee7934ab2bba02a371f44775f
+Type Dialogue
+ID 24298
+Messages 5
+Message_0_Pages 1
+Message_0_Responses 4
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 2
+Message_0_Response_3 3
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 24298
+Message_0_Condition_0_Value 1
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 4
+Message_1_Response_0 4
+Message_1_Response_1 5
+Message_1_Response_2 6
+Message_1_Response_3 7
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 24298
+Message_1_Condition_0_Value 2
+Message_1_Condition_0_Logic Equal
+
+Message_2_Pages 1
+Message_2_Responses 4
+Message_2_Response_0 8
+Message_2_Response_1 9
+Message_2_Response_2 10
+Message_2_Response_3 11
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 24298
+Message_2_Condition_0_Value 3
+Message_2_Condition_0_Logic Equal
+
+Message_3_Pages 1
+Message_3_Responses 4
+Message_3_Response_0 12
+Message_3_Response_1 13
+Message_3_Response_2 14
+Message_3_Response_3 15
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 24298
+Message_3_Condition_0_Value 4
+Message_3_Condition_0_Logic Equal
+
+Message_4_Pages 1
+Message_4_Responses 4
+Message_4_Response_0 16
+Message_4_Response_1 17
+Message_4_Response_2 18
+Message_4_Response_3 19
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 24298
+Message_4_Condition_0_Value 5
+Message_4_Condition_0_Logic Equal
+
+Responses 20
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24298
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 24298
+Response_0_Reward_0_Value 2
+Response_0_Reward_0_Modification Assign
+
+Response_1_Messages 1
+Response_1_Message_0 0
+Response_1_Dialogue 24298
+Response_1_Rewards 2
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 24298
+Response_1_Reward_0_Value 2
+Response_1_Reward_0_Modification Assign
+
+Response_1_Reward_1_Type Flag_Short
+Response_1_Reward_1_ID 24294
+Response_1_Reward_1_Value 1
+Response_1_Reward_1_Modification Increment
+
+Response_2_Messages 1
+Response_2_Message_0 0
+Response_2_Dialogue 24298
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Short
+Response_2_Reward_0_ID 24298
+Response_2_Reward_0_Value 2
+Response_2_Reward_0_Modification Assign
+
+Response_3_Messages 1
+Response_3_Message_0 0
+Response_3_Dialogue 24298
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Short
+Response_3_Reward_0_ID 24298
+Response_3_Reward_0_Value 2
+Response_3_Reward_0_Modification Assign
+
+Response_4_Messages 1
+Response_4_Message_0 1
+Response_4_Dialogue 24298
+Response_4_Rewards 1
+Response_4_Reward_0_Type Flag_Short
+Response_4_Reward_0_ID 24298
+Response_4_Reward_0_Value 3
+Response_4_Reward_0_Modification Assign
+
+Response_5_Messages 1
+Response_5_Message_0 1
+Response_5_Dialogue 24298
+Response_5_Rewards 1
+Response_5_Reward_0_Type Flag_Short
+Response_5_Reward_0_ID 24298
+Response_5_Reward_0_Value 3
+Response_5_Reward_0_Modification Assign
+
+Response_6_Messages 1
+Response_6_Message_0 1
+Response_6_Dialogue 24298
+Response_6_Rewards 1
+Response_6_Reward_0_Type Flag_Short
+Response_6_Reward_0_ID 24298
+Response_6_Reward_0_Value 3
+Response_6_Reward_0_Modification Assign
+
+Response_7_Messages 1
+Response_7_Message_0 1
+Response_7_Dialogue 24298
+Response_7_Rewards 2
+Response_7_Reward_0_Type Flag_Short
+Response_7_Reward_0_ID 24294
+Response_7_Reward_0_Value 1
+Response_7_Reward_0_Modification Increment
+
+Response_7_Reward_1_Type Flag_Short
+Response_7_Reward_1_ID 24298
+Response_7_Reward_1_Value 3
+Response_7_Reward_1_Modification Assign
+
+Response_8_Messages 1
+Response_8_Message_0 2
+Response_8_Dialogue 24298
+Response_8_Rewards 1
+Response_8_Reward_0_Type Flag_Short
+Response_8_Reward_0_ID 24298
+Response_8_Reward_0_Value 4
+Response_8_Reward_0_Modification Assign
+
+Response_9_Messages 1
+Response_9_Message_0 2
+Response_9_Dialogue 24298
+Response_9_Rewards 1
+Response_9_Reward_0_Type Flag_Short
+Response_9_Reward_0_ID 24298
+Response_9_Reward_0_Value 4
+Response_9_Reward_0_Modification Assign
+
+Response_10_Messages 1
+Response_10_Message_0 2
+Response_10_Dialogue 24298
+Response_10_Rewards 2
+Response_10_Reward_0_Type Flag_Short
+Response_10_Reward_0_ID 24294
+Response_10_Reward_0_Value 1
+Response_10_Reward_0_Modification Increment
+
+Response_10_Reward_1_Type Flag_Short
+Response_10_Reward_1_ID 24298
+Response_10_Reward_1_Value 4
+Response_10_Reward_1_Modification Assign
+
+Response_11_Messages 1
+Response_11_Message_0 2
+Response_11_Dialogue 24298
+Response_11_Rewards 1
+Response_11_Reward_0_Type Flag_Short
+Response_11_Reward_0_ID 24298
+Response_11_Reward_0_Value 4
+Response_11_Reward_0_Modification Assign
+
+Response_12_Messages 1
+Response_12_Message_0 3
+Response_12_Dialogue 24298
+Response_12_Rewards 2
+Response_12_Reward_0_Type Flag_Short
+Response_12_Reward_0_ID 24298
+Response_12_Reward_0_Value 5
+Response_12_Reward_0_Modification Assign
+
+Response_12_Reward_1_Type Flag_Short
+Response_12_Reward_1_ID 24294
+Response_12_Reward_1_Value 1
+Response_12_Reward_1_Modification Increment
+
+Response_13_Messages 1
+Response_13_Message_0 3
+Response_13_Dialogue 24298
+Response_13_Rewards 1
+Response_13_Reward_0_Type Flag_Short
+Response_13_Reward_0_ID 24298
+Response_13_Reward_0_Value 5
+Response_13_Reward_0_Modification Assign
+
+Response_14_Messages 1
+Response_14_Message_0 3
+Response_14_Dialogue 24298
+Response_14_Rewards 1
+Response_14_Reward_0_Type Flag_Short
+Response_14_Reward_0_ID 24298
+Response_14_Reward_0_Value 5
+Response_14_Reward_0_Modification Assign
+
+Response_15_Messages 1
+Response_15_Message_0 3
+Response_15_Dialogue 24298
+Response_15_Rewards 1
+Response_15_Reward_0_Type Flag_Short
+Response_15_Reward_0_ID 24298
+Response_15_Reward_0_Value 5
+Response_15_Reward_0_Modification Assign
+
+Response_16_Messages 1
+Response_16_Message_0 4
+Response_16_Dialogue 24299
+Response_17_Messages 1
+Response_17_Message_0 4
+Response_17_Dialogue 24299
+Response_18_Messages 1
+Response_18_Message_0 4
+Response_18_Dialogue 24299
+Response_19_Messages 1
+Response_19_Message_0 4
+Response_19_Dialogue 24299
+Response_19_Rewards 1
+Response_19_Reward_0_Type Flag_Short
+Response_19_Reward_0_ID 24294
+Response_19_Reward_0_Value 1
+Response_19_Reward_0_Modification Increment
+

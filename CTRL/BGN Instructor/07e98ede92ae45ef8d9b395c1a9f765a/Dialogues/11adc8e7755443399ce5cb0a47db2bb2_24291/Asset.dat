@@ -1,0 +1,38 @@
+﻿// Made in NPC Maker by BowieD
+GUID 11adc8e7755443399ce5cb0a47db2bb2
+Type Dialogue
+ID 24291
+Messages 1
+Message_0_Pages 1
+Responses 4
+Response_0_Dialogue 24292
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 24294
+Response_0_Reward_0_Value 0
+Response_0_Reward_0_Modification Assign
+
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 24295
+Response_0_Reward_1_Value 1
+Response_0_Reward_1_Modification Assign
+
+Response_1_Dialogue 24296
+Response_1_Rewards 2
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 24294
+Response_1_Reward_0_Value 0
+Response_1_Reward_0_Modification Assign
+
+Response_1_Reward_1_Type Flag_Short
+Response_1_Reward_1_ID 24298
+Response_1_Reward_1_Value 1
+Response_1_Reward_1_Modification Assign
+
+Response_2_Rewards 2
+Response_2_Reward_0_Type Event
+Response_2_Reward_0_ID 28003
+
+Response_2_Reward_1_Type Hint
+Response_2_Reward_1_Duration 10
+

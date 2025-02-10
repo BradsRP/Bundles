@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#ffffff><b>Hello <name_char>! I see you are new around here..<br>Would you like to start your journey as a miner?</b></color>
+Message_1_Page_0 <color=#ffffff><b>Hello <name_char>! What can I do for you?</b></color>
+Response_0 Yes, let go!
+Response_1 <color=#ffffff><b>Prison Mine Shop</b></color>
+Response_2 Exit

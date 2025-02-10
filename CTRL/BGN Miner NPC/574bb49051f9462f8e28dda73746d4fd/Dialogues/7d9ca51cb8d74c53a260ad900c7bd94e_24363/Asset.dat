@@ -1,0 +1,93 @@
+﻿// Made in NPC Maker by BowieD
+GUID 7d9ca51cb8d74c53a260ad900c7bd94e
+Type Dialogue
+ID 24363
+Messages 1
+Message_0_Pages 1
+Responses 6
+Response_0_Conditions 2
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 46813
+Response_0_Condition_0_Amount 1
+Response_0_Condition_0_Reset 
+
+Response_0_Condition_1_Type Item
+Response_0_Condition_1_ID 46552
+Response_0_Condition_1_Amount 1
+Response_0_Condition_1_Reset 
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 46532
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Auto_Equip True
+
+Response_1_Conditions 2
+Response_1_Condition_0_Type Item
+Response_1_Condition_0_ID 46813
+Response_1_Condition_0_Amount 1
+Response_1_Condition_0_Reset 
+
+Response_1_Condition_1_Type Item
+Response_1_Condition_1_ID 46553
+Response_1_Condition_1_Amount 1
+Response_1_Condition_1_Reset 
+
+Response_1_Rewards 1
+Response_1_Reward_0_Type Item
+Response_1_Reward_0_ID 46533
+Response_1_Reward_0_Amount 1
+Response_1_Reward_0_Auto_Equip True
+
+Response_2_Conditions 2
+Response_2_Condition_0_Type Item
+Response_2_Condition_0_ID 46813
+Response_2_Condition_0_Amount 1
+Response_2_Condition_0_Reset 
+
+Response_2_Condition_1_Type Item
+Response_2_Condition_1_ID 46554
+Response_2_Condition_1_Amount 1
+Response_2_Condition_1_Reset 
+
+Response_2_Rewards 1
+Response_2_Reward_0_Type Item
+Response_2_Reward_0_ID 46534
+Response_2_Reward_0_Amount 1
+Response_2_Reward_0_Auto_Equip True
+
+Response_3_Conditions 2
+Response_3_Condition_0_Type Item
+Response_3_Condition_0_ID 46813
+Response_3_Condition_0_Amount 1
+Response_3_Condition_0_Reset 
+
+Response_3_Condition_1_Type Item
+Response_3_Condition_1_ID 46555
+Response_3_Condition_1_Amount 1
+Response_3_Condition_1_Reset 
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Item
+Response_3_Reward_0_ID 46535
+Response_3_Reward_0_Amount 1
+Response_3_Reward_0_Auto_Equip True
+
+Response_4_Conditions 2
+Response_4_Condition_0_Type Item
+Response_4_Condition_0_ID 46813
+Response_4_Condition_0_Amount 1
+Response_4_Condition_0_Reset 
+
+Response_4_Condition_1_Type Item
+Response_4_Condition_1_ID 46556
+Response_4_Condition_1_Amount 1
+Response_4_Condition_1_Reset 
+
+Response_4_Rewards 1
+Response_4_Reward_0_Type Item
+Response_4_Reward_0_ID 46536
+Response_4_Reward_0_Amount 1
+Response_4_Reward_0_Auto_Equip True
+
+Response_5_Dialogue 24361

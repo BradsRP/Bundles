@@ -1,0 +1,25 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.16-alpha.5
+"Metadata"
+{
+	"GUID" "0d3a2f6677aa4b5cadbd7cafe1778af0"
+	"Type" "SDG.Unturned.SpawnAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Roots" "0"
+	"Tables" "6"
+	"Table_0_Weight" "7"
+	"Table_0_GUID" "90b5cdcbcb3342ea874d9417d7dca3a5"
+	"Table_1_Weight" "3"
+	"Table_1_GUID" "939a886bccd5446e9d486b9206827599"
+	"Table_2_Weight" "50"
+	"Table_2_GUID" "8c25cf28c76a4634855f404c8972c0ae"
+	"Table_3_Weight" "50"
+	"Table_3_GUID" "ae1fc8674d0b4443b3ad9a68776dcf0f"
+	"Table_4_Weight" "50"
+	"Table_4_GUID" "14901f32cd3240179fd6124324cc27e5"
+	"Table_5_Weight" "50"
+	"Table_5_GUID" "21ede8ebffb14c5580e8c7ad149e335e"
+	"ID" "25004"
+	"Asset_Bundle_Version" "5"
+}

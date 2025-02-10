@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <b><color=#FFFFFF>Hello Officer <name_char>. What do you need from the Armory?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Please bring your personal <color=#fffb00>Taser</color> to access my armory.</b></color>
+Response_0 <color=#2254d4><b>Uniforms</b></color>
+Response_1 <color=#45d951><b>Equipment</b></color>
+Response_2 Leave

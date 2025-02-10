@@ -1,0 +1,32 @@
+// This file was generated in BowieD's AssetEditor 0.0.14-alpha
+"Metadata"
+{
+	"GUID" "8fe847b605e34e9faa025424fd9f975a"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions" "0"
+	"Type" "LARGE"
+	"Chart" "NONE"
+	"Causes_Fall_Damage" "true"
+	"LOD" "NONE"
+	"Rubble" "DESTROY"
+	"Rubble_Reset" "300"
+	"Rubble_Health" "275"
+	"Rubble_Effect" "65"
+	"Rubble_Finale" "0"
+	"Rubble_Reward_ID" "0"
+	"Rubble_Reward_Probability" "1"
+	"Rubble_Rewards_Min" "1"
+	"Rubble_Rewards_Max" "1"
+	"Rubble_Reward_XP" "0"
+	"Rubble_Editor" "ALIVE"
+	"Add_Kill_Triggers" "false"
+	"Landmark_Quality" "LOW"
+	"Has_Clip_Prefab" "false"
+	"Exclude_From_Level_Batching" "false"
+	"ID" "2"
+	"Asset_Bundle_Version" "1"
+}

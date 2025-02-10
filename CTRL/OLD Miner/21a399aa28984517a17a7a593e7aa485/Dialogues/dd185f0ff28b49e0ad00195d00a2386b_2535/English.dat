@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Hello <name_char>! I see you are new around here..<br>Would you like to start your journey as a miner?
+Message_1_Page_0 Hello <name_char>! What can I do for you?
+Response_0 Yes, let go!
+Response_1 Miner Shop
+Response_2 Exit..

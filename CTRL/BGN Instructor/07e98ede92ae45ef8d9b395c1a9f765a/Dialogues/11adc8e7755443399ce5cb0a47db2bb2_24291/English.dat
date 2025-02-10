@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+Response_2_Reward_1 <color=#FFFFFF><b>No written test at the moment. Good luck on the practical!</b></color>
+Message_0_Page_0 <color=#FFFFFF><b>Hello <name_char>. What license would you like to apply for?<br><color=#FF0000>(Please make sure you have 250$ before applying for any license)</color></b></color>
+Response_0 <color=legendary><b>BGN-State Drivers License</b></color>
+Response_1 <color=legendary><b>BGN-State Gun License</b></color>
+Response_2 <color=legendary><b>BGN-State Pilots License</b></color>
+Response_3 Leave

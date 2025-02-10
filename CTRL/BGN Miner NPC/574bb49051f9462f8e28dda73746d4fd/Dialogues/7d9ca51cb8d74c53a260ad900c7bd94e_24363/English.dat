@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Bring me a Tool Handle and the Pickaxe Head of your choice and I will combine them. Why can't you do it?  You just can't.</b></color>
+Response_0 <color=#B87333><b>Craft Copper Pickaxe</b></color>
+Response_1 <color=#a19d94><b>Craft Iron Pickaxe</b></color>
+Response_2 <color=#FFD700><b>Craft Gold Pickaxe</b></color>
+Response_3 <color=#E5E4E2><b>Craft Platinum Pickaxe</b></color>
+Response_4 <color=#0047AB><b>Craft Cobalt Pickaxe</b></color>
+Response_5 Go back

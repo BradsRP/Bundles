@@ -1,0 +1,14 @@
+﻿// Made in NPC Maker by BowieD
+GUID bf75be73f62444798cba60affe397bfe
+Type Vendor
+ID 24312
+Selling 2
+Selling_0_Type Vehicle
+Selling_0_Spawnpoint PD_heli
+Selling_0_ID 36558
+Selling_0_Cost 50000
+Selling_1_Type Vehicle
+Selling_1_Spawnpoint PD_heli
+Selling_1_ID 36836
+Selling_1_Cost 115000
+Disable_Sorting

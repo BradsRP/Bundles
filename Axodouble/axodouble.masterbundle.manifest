@@ -1,0 +1,303 @@
+ManifestFileVersion: 0
+CRC: 2375764912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b240c07df847333fcdc9fe60c0a77e67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 057964048581e38a517ef7083ba0cd1e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5dcd01db1ebec4d8f143d933b00964, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac34cd4b251e2854dbc02e56bbf0ddff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Moth.png
+- Assets/Axodouble/Police/Emeight/Item.prefab
+- Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Character_Mesh_3P_Override_0.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Platinum_Axe/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Trees/Coal_0/Stump.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Item.prefab
+- Assets/Axodouble/Police/Emeight/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Entropy/Decal.png
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore/Item.prefab
+- Assets/Axodouble/Mining/Trees/Cobalt_0/Resource.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/crate.fbx
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Barricade.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Cobalt_Axe/Animations.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Item.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Refined/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Animations.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Barricade.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Who Takes Your Vote/Decal.png
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Platinum_Axe_Head/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Iron_Axe_Head/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Gold_Pickaxe/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Barricade.prefab
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Lid/Object.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.png
+- Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Note/Font/Pixelated.ttf
+- Assets/Axodouble/City/Items/Barricades/Note/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Gold_Pickaxe/Animations.prefab
+- Assets/Axodouble/Mining/Trees/Iron_0/Stump.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Animations.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Barricade.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Open.anim
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Barricade.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Gold_Pickaxe_Head/Item.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Materials/Streetlight.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/Mining/Trees/Platinum_0/Stump.prefab
+- Assets/Axodouble/Drugs/Utilities/Rolling_Paper/Item.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Nav.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.mat
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Animations.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Svarta/Decal.png
+- Assets/Axodouble/Mining/Trees/Iron_0/Resource.prefab
+- Assets/Axodouble/Police/Emeight/Throwable.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Iron_Pickaxe_Head/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Platinum_Axe/Item.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Texture.png
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Item.prefab
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Lid/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Platinum_Pickaxe/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Barricade.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Nav.prefab
+- Assets/Axodouble/Mining/Trees/Gold_0/Stump.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore/Item.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Materials/Moth.mat
+- Assets/Axodouble/City/Items/Barricades/Note/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Object.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/1v4/Decal.png
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Object.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Empire/Decal.png
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Animations.prefab
+- Assets/Axodouble/Mining/Trees/Copper_0/Stump.prefab
+- Assets/Axodouble/Mining/Trees/Cobalt_0/Stump.prefab
+- Assets/Axodouble/Drugs/Tools/Cutting_Board/Animations.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.mat
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Iron_Pickaxe/Animations.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Item.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Albedo.png
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Use.mp3
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Bank.mat
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Character_Material_Override.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Items/Barricades/Carlift/Material.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Note/Font/Pixelated.asset
+- Assets/Axodouble/City/Objects/Streetlights/Materials/Light.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Item.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Object.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Cobalt_Axe_Head/Item.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Decal.png
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Copper_Pickaxe_Head/Item.prefab
+- Assets/Axodouble/Mining/Trees/Platinum_0/Resource.prefab
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Animations.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Object.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Cobalt_Axe/Item.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Slots.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Gold_Axe_Head/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Animations.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Ducked/Decal.png
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Nav.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Cobalt_Pickaxe_Head/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Note/Use.mp3
+- Assets/Axodouble/Police/Emeight/Smoke.mp3
+- Assets/Axodouble/Police/Emeight/Use.mp3
+- Assets/Axodouble/Mining/Trees/Gold_0/Resource.prefab
+- Assets/Axodouble/Mining/Trees/Coal_0/Resource.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Use.mp3
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Platinum_Pickaxe/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Platinum_Pickaxe_Head/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Animations.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Dried/Item.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.png
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Source.psd
+- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Barricade.prefab
+- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Iron_Pickaxe/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Texture.png
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Tool_Handle/Item.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Skybox.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Copper_Axe_Head/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Animations.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Animations.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Note/Barricade.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Material.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore/Item.prefab
+- Assets/Axodouble/Drugs/Tools/Cutting_Board/Item.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Bank.png
+- Assets/Axodouble/City/Items/Barricades/Carlift/Close.anim
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Nav.prefab
+- Assets/Axodouble/Drugs/Tools/Cutting_Board/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Use.mp3
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Read the Rules/Decal.png
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Use.mp3
+- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Animations.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves/Item.prefab
+- Assets/Axodouble/Mining/Trees/Copper_0/Resource.prefab
+Dependencies: []

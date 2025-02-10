@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+GUID 07aca9b83bb84024822b169dff3ae916
+Type Dialogue
+ID 24151
+Messages 1
+Message_0_Pages 1
+Responses 7
+Response_0_Vendor 24156
+Response_1_Vendor 24153
+Response_2_Vendor 24154
+Response_3_Vendor 24155
+Response_4_Vendor 24157
+Response_5_Vendor 24152

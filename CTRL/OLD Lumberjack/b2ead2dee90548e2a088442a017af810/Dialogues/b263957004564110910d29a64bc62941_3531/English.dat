@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Hello <name_char>! Would you like to start your journey as a lumberjack?
+Message_1_Page_0 Hello <name_char>! How may I help you?
+Response_0 Yes, let's go!
+Response_1 Lumberjack Shop
+Response_2 Exit..

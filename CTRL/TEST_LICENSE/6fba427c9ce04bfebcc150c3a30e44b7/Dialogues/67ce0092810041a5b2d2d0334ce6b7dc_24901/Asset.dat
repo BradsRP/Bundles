@@ -1,0 +1,29 @@
+﻿// Made in NPC Maker by BowieD
+GUID 67ce0092810041a5b2d2d0334ce6b7dc
+Type Dialogue
+ID 24901
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 24901
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 24901
+Message_1_Condition_0_Value True
+Message_1_Condition_0_Logic Equal
+
+Responses 2
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 24901
+Response_0_Reward_0_Value True
+
+Response_0_Reward_1_Type Event
+Response_0_Reward_1_ID 6969
+

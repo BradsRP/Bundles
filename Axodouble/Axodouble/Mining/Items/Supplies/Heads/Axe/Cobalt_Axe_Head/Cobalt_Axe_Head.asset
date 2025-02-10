@@ -1,0 +1,33 @@
+// This file was generated in BowieD's AssetEditor 0.0.14-alpha
+"Metadata"
+{
+	"GUID" "c09e6922a19b4fc5821c057e39b0bbbf"
+	"Type" "SDG.Unturned.ItemSupplyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Type" "SUPPLY"
+	"Rarity" "LEGENDARY"
+	"Size_X" "1"
+	"Size_Y" "1"
+	"Use_Auto_Icon_Measurements" "true"
+	"Size2_Z" "-1"
+	"Amount" "1"
+	"Count_Min" "1"
+	"Count_Max" "1"
+	"Quality_Min" "10"
+	"Quality_Max" "90"
+	"Left_Handed_Characters_Mirror_Equipable" "true"
+	"Use_Auto_Stat_Descriptions" "true"
+	"Procedurally_Animate_Inertia" "true"
+	"Slot" "None"
+	"Blueprints" "0"
+	"Actions" "0"
+	"Add_Default_Actions" "true"
+	"Should_Drop_On_Death" "true"
+	"Allow_Manual_Drop" "true"
+	"Should_Delete_At_Zero_Quality" "false"
+	"Destroy_Item_Colliders" "true"
+	"ID" "46546"
+	"Asset_Bundle_Version" "4"
+}

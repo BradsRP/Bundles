@@ -1,0 +1,4843 @@
+﻿// Made in NPC Maker by BowieD
+GUID 369b52dc42ad47998dab644efc96fd5f
+Type Vendor
+ID 24202
+Buying 208
+Buying_0_ID 512
+Buying_0_Cost 105
+Buying_0_Conditions 1
+Buying_0_Condition_0_Type Flag_Short
+Buying_0_Condition_0_ID 24202
+Buying_0_Condition_0_Value 50
+Buying_0_Condition_0_Allow_Unset 
+Buying_0_Condition_0_Logic Less_Than
+
+Buying_0_Rewards 1
+Buying_0_Reward_0_Type Flag_Short
+Buying_0_Reward_0_ID 24202
+Buying_0_Reward_0_Value 1
+Buying_0_Reward_0_Modification Increment
+
+Buying_1_ID 512
+Buying_1_Cost 106
+Buying_1_Conditions 2
+Buying_1_Condition_0_Type Flag_Short
+Buying_1_Condition_0_ID 24202
+Buying_1_Condition_0_Value 100
+Buying_1_Condition_0_Allow_Unset 
+Buying_1_Condition_0_Logic Less_Than
+
+Buying_1_Condition_1_Type Flag_Short
+Buying_1_Condition_1_ID 24202
+Buying_1_Condition_1_Value 50
+Buying_1_Condition_1_Allow_Unset 
+Buying_1_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_1_Rewards 1
+Buying_1_Reward_0_Type Flag_Short
+Buying_1_Reward_0_ID 24202
+Buying_1_Reward_0_Value 1
+Buying_1_Reward_0_Modification Increment
+
+Buying_2_ID 512
+Buying_2_Cost 107
+Buying_2_Conditions 2
+Buying_2_Condition_0_Type Flag_Short
+Buying_2_Condition_0_ID 24202
+Buying_2_Condition_0_Value 150
+Buying_2_Condition_0_Allow_Unset 
+Buying_2_Condition_0_Logic Less_Than
+
+Buying_2_Condition_1_Type Flag_Short
+Buying_2_Condition_1_ID 24202
+Buying_2_Condition_1_Value 100
+Buying_2_Condition_1_Allow_Unset 
+Buying_2_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_2_Rewards 1
+Buying_2_Reward_0_Type Flag_Short
+Buying_2_Reward_0_ID 24202
+Buying_2_Reward_0_Value 1
+Buying_2_Reward_0_Modification Increment
+
+Buying_3_ID 512
+Buying_3_Cost 108
+Buying_3_Conditions 2
+Buying_3_Condition_0_Type Flag_Short
+Buying_3_Condition_0_ID 24202
+Buying_3_Condition_0_Value 200
+Buying_3_Condition_0_Allow_Unset 
+Buying_3_Condition_0_Logic Less_Than
+
+Buying_3_Condition_1_Type Flag_Short
+Buying_3_Condition_1_ID 24202
+Buying_3_Condition_1_Value 150
+Buying_3_Condition_1_Allow_Unset 
+Buying_3_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_3_Rewards 1
+Buying_3_Reward_0_Type Flag_Short
+Buying_3_Reward_0_ID 24202
+Buying_3_Reward_0_Value 1
+Buying_3_Reward_0_Modification Increment
+
+Buying_4_ID 512
+Buying_4_Cost 109
+Buying_4_Conditions 2
+Buying_4_Condition_0_Type Flag_Short
+Buying_4_Condition_0_ID 24202
+Buying_4_Condition_0_Value 250
+Buying_4_Condition_0_Allow_Unset 
+Buying_4_Condition_0_Logic Less_Than
+
+Buying_4_Condition_1_Type Flag_Short
+Buying_4_Condition_1_ID 24202
+Buying_4_Condition_1_Value 200
+Buying_4_Condition_1_Allow_Unset 
+Buying_4_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_4_Rewards 1
+Buying_4_Reward_0_Type Flag_Short
+Buying_4_Reward_0_ID 24202
+Buying_4_Reward_0_Value 1
+Buying_4_Reward_0_Modification Increment
+
+Buying_5_ID 512
+Buying_5_Cost 110
+Buying_5_Conditions 2
+Buying_5_Condition_0_Type Flag_Short
+Buying_5_Condition_0_ID 24202
+Buying_5_Condition_0_Value 300
+Buying_5_Condition_0_Allow_Unset 
+Buying_5_Condition_0_Logic Less_Than
+
+Buying_5_Condition_1_Type Flag_Short
+Buying_5_Condition_1_ID 24202
+Buying_5_Condition_1_Value 250
+Buying_5_Condition_1_Allow_Unset 
+Buying_5_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_5_Rewards 1
+Buying_5_Reward_0_Type Flag_Short
+Buying_5_Reward_0_ID 24202
+Buying_5_Reward_0_Value 1
+Buying_5_Reward_0_Modification Increment
+
+Buying_6_ID 512
+Buying_6_Cost 111
+Buying_6_Conditions 2
+Buying_6_Condition_0_Type Flag_Short
+Buying_6_Condition_0_ID 24202
+Buying_6_Condition_0_Value 350
+Buying_6_Condition_0_Allow_Unset 
+Buying_6_Condition_0_Logic Less_Than
+
+Buying_6_Condition_1_Type Flag_Short
+Buying_6_Condition_1_ID 24202
+Buying_6_Condition_1_Value 300
+Buying_6_Condition_1_Allow_Unset 
+Buying_6_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_6_Rewards 1
+Buying_6_Reward_0_Type Flag_Short
+Buying_6_Reward_0_ID 24202
+Buying_6_Reward_0_Value 1
+Buying_6_Reward_0_Modification Increment
+
+Buying_7_ID 512
+Buying_7_Cost 112
+Buying_7_Conditions 2
+Buying_7_Condition_0_Type Flag_Short
+Buying_7_Condition_0_ID 24202
+Buying_7_Condition_0_Value 400
+Buying_7_Condition_0_Allow_Unset 
+Buying_7_Condition_0_Logic Less_Than
+
+Buying_7_Condition_1_Type Flag_Short
+Buying_7_Condition_1_ID 24202
+Buying_7_Condition_1_Value 350
+Buying_7_Condition_1_Allow_Unset 
+Buying_7_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_7_Rewards 1
+Buying_7_Reward_0_Type Flag_Short
+Buying_7_Reward_0_ID 24202
+Buying_7_Reward_0_Value 1
+Buying_7_Reward_0_Modification Increment
+
+Buying_8_ID 512
+Buying_8_Cost 113
+Buying_8_Conditions 2
+Buying_8_Condition_0_Type Flag_Short
+Buying_8_Condition_0_ID 24202
+Buying_8_Condition_0_Value 450
+Buying_8_Condition_0_Allow_Unset 
+Buying_8_Condition_0_Logic Less_Than
+
+Buying_8_Condition_1_Type Flag_Short
+Buying_8_Condition_1_ID 24202
+Buying_8_Condition_1_Value 400
+Buying_8_Condition_1_Allow_Unset 
+Buying_8_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_8_Rewards 1
+Buying_8_Reward_0_Type Flag_Short
+Buying_8_Reward_0_ID 24202
+Buying_8_Reward_0_Value 1
+Buying_8_Reward_0_Modification Increment
+
+Buying_9_ID 512
+Buying_9_Cost 114
+Buying_9_Conditions 2
+Buying_9_Condition_0_Type Flag_Short
+Buying_9_Condition_0_ID 24202
+Buying_9_Condition_0_Value 500
+Buying_9_Condition_0_Allow_Unset 
+Buying_9_Condition_0_Logic Less_Than
+
+Buying_9_Condition_1_Type Flag_Short
+Buying_9_Condition_1_ID 24202
+Buying_9_Condition_1_Value 450
+Buying_9_Condition_1_Allow_Unset 
+Buying_9_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_9_Rewards 1
+Buying_9_Reward_0_Type Flag_Short
+Buying_9_Reward_0_ID 24202
+Buying_9_Reward_0_Value 1
+Buying_9_Reward_0_Modification Increment
+
+Buying_10_ID 512
+Buying_10_Cost 115
+Buying_10_Conditions 2
+Buying_10_Condition_0_Type Flag_Short
+Buying_10_Condition_0_ID 24202
+Buying_10_Condition_0_Value 550
+Buying_10_Condition_0_Allow_Unset 
+Buying_10_Condition_0_Logic Less_Than
+
+Buying_10_Condition_1_Type Flag_Short
+Buying_10_Condition_1_ID 24202
+Buying_10_Condition_1_Value 500
+Buying_10_Condition_1_Allow_Unset 
+Buying_10_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_10_Rewards 1
+Buying_10_Reward_0_Type Flag_Short
+Buying_10_Reward_0_ID 24202
+Buying_10_Reward_0_Value 1
+Buying_10_Reward_0_Modification Increment
+
+Buying_11_ID 512
+Buying_11_Cost 116
+Buying_11_Conditions 2
+Buying_11_Condition_0_Type Flag_Short
+Buying_11_Condition_0_ID 24202
+Buying_11_Condition_0_Value 600
+Buying_11_Condition_0_Allow_Unset 
+Buying_11_Condition_0_Logic Less_Than
+
+Buying_11_Condition_1_Type Flag_Short
+Buying_11_Condition_1_ID 24202
+Buying_11_Condition_1_Value 550
+Buying_11_Condition_1_Allow_Unset 
+Buying_11_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_11_Rewards 1
+Buying_11_Reward_0_Type Flag_Short
+Buying_11_Reward_0_ID 24202
+Buying_11_Reward_0_Value 1
+Buying_11_Reward_0_Modification Increment
+
+Buying_12_ID 512
+Buying_12_Cost 117
+Buying_12_Conditions 2
+Buying_12_Condition_0_Type Flag_Short
+Buying_12_Condition_0_ID 24202
+Buying_12_Condition_0_Value 650
+Buying_12_Condition_0_Allow_Unset 
+Buying_12_Condition_0_Logic Less_Than
+
+Buying_12_Condition_1_Type Flag_Short
+Buying_12_Condition_1_ID 24202
+Buying_12_Condition_1_Value 600
+Buying_12_Condition_1_Allow_Unset 
+Buying_12_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_12_Rewards 1
+Buying_12_Reward_0_Type Flag_Short
+Buying_12_Reward_0_ID 24202
+Buying_12_Reward_0_Value 1
+Buying_12_Reward_0_Modification Increment
+
+Buying_13_ID 512
+Buying_13_Cost 118
+Buying_13_Conditions 2
+Buying_13_Condition_0_Type Flag_Short
+Buying_13_Condition_0_ID 24202
+Buying_13_Condition_0_Value 700
+Buying_13_Condition_0_Allow_Unset 
+Buying_13_Condition_0_Logic Less_Than
+
+Buying_13_Condition_1_Type Flag_Short
+Buying_13_Condition_1_ID 24202
+Buying_13_Condition_1_Value 650
+Buying_13_Condition_1_Allow_Unset 
+Buying_13_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_13_Rewards 1
+Buying_13_Reward_0_Type Flag_Short
+Buying_13_Reward_0_ID 24202
+Buying_13_Reward_0_Value 1
+Buying_13_Reward_0_Modification Increment
+
+Buying_14_ID 512
+Buying_14_Cost 119
+Buying_14_Conditions 2
+Buying_14_Condition_0_Type Flag_Short
+Buying_14_Condition_0_ID 24202
+Buying_14_Condition_0_Value 750
+Buying_14_Condition_0_Allow_Unset 
+Buying_14_Condition_0_Logic Less_Than
+
+Buying_14_Condition_1_Type Flag_Short
+Buying_14_Condition_1_ID 24202
+Buying_14_Condition_1_Value 700
+Buying_14_Condition_1_Allow_Unset 
+Buying_14_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_14_Rewards 1
+Buying_14_Reward_0_Type Flag_Short
+Buying_14_Reward_0_ID 24202
+Buying_14_Reward_0_Value 1
+Buying_14_Reward_0_Modification Increment
+
+Buying_15_ID 512
+Buying_15_Cost 120
+Buying_15_Conditions 1
+Buying_15_Condition_0_Type Flag_Short
+Buying_15_Condition_0_ID 24202
+Buying_15_Condition_0_Value 750
+Buying_15_Condition_0_Allow_Unset 
+Buying_15_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_16_ID 513
+Buying_16_Cost 105
+Buying_16_Conditions 1
+Buying_16_Condition_0_Type Flag_Short
+Buying_16_Condition_0_ID 24202
+Buying_16_Condition_0_Value 50
+Buying_16_Condition_0_Allow_Unset 
+Buying_16_Condition_0_Logic Less_Than
+
+Buying_16_Rewards 1
+Buying_16_Reward_0_Type Flag_Short
+Buying_16_Reward_0_ID 24202
+Buying_16_Reward_0_Value 1
+Buying_16_Reward_0_Modification Increment
+
+Buying_17_ID 513
+Buying_17_Cost 106
+Buying_17_Conditions 2
+Buying_17_Condition_0_Type Flag_Short
+Buying_17_Condition_0_ID 24202
+Buying_17_Condition_0_Value 100
+Buying_17_Condition_0_Allow_Unset 
+Buying_17_Condition_0_Logic Less_Than
+
+Buying_17_Condition_1_Type Flag_Short
+Buying_17_Condition_1_ID 24202
+Buying_17_Condition_1_Value 50
+Buying_17_Condition_1_Allow_Unset 
+Buying_17_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_17_Rewards 1
+Buying_17_Reward_0_Type Flag_Short
+Buying_17_Reward_0_ID 24202
+Buying_17_Reward_0_Value 1
+Buying_17_Reward_0_Modification Increment
+
+Buying_18_ID 513
+Buying_18_Cost 107
+Buying_18_Conditions 2
+Buying_18_Condition_0_Type Flag_Short
+Buying_18_Condition_0_ID 24202
+Buying_18_Condition_0_Value 150
+Buying_18_Condition_0_Allow_Unset 
+Buying_18_Condition_0_Logic Less_Than
+
+Buying_18_Condition_1_Type Flag_Short
+Buying_18_Condition_1_ID 24202
+Buying_18_Condition_1_Value 100
+Buying_18_Condition_1_Allow_Unset 
+Buying_18_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_18_Rewards 1
+Buying_18_Reward_0_Type Flag_Short
+Buying_18_Reward_0_ID 24202
+Buying_18_Reward_0_Value 1
+Buying_18_Reward_0_Modification Increment
+
+Buying_19_ID 513
+Buying_19_Cost 108
+Buying_19_Conditions 2
+Buying_19_Condition_0_Type Flag_Short
+Buying_19_Condition_0_ID 24202
+Buying_19_Condition_0_Value 200
+Buying_19_Condition_0_Allow_Unset 
+Buying_19_Condition_0_Logic Less_Than
+
+Buying_19_Condition_1_Type Flag_Short
+Buying_19_Condition_1_ID 24202
+Buying_19_Condition_1_Value 150
+Buying_19_Condition_1_Allow_Unset 
+Buying_19_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_19_Rewards 1
+Buying_19_Reward_0_Type Flag_Short
+Buying_19_Reward_0_ID 24202
+Buying_19_Reward_0_Value 1
+Buying_19_Reward_0_Modification Increment
+
+Buying_20_ID 513
+Buying_20_Cost 109
+Buying_20_Conditions 2
+Buying_20_Condition_0_Type Flag_Short
+Buying_20_Condition_0_ID 24202
+Buying_20_Condition_0_Value 250
+Buying_20_Condition_0_Allow_Unset 
+Buying_20_Condition_0_Logic Less_Than
+
+Buying_20_Condition_1_Type Flag_Short
+Buying_20_Condition_1_ID 24202
+Buying_20_Condition_1_Value 200
+Buying_20_Condition_1_Allow_Unset 
+Buying_20_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_20_Rewards 1
+Buying_20_Reward_0_Type Flag_Short
+Buying_20_Reward_0_ID 24202
+Buying_20_Reward_0_Value 1
+Buying_20_Reward_0_Modification Increment
+
+Buying_21_ID 513
+Buying_21_Cost 110
+Buying_21_Conditions 2
+Buying_21_Condition_0_Type Flag_Short
+Buying_21_Condition_0_ID 24202
+Buying_21_Condition_0_Value 300
+Buying_21_Condition_0_Allow_Unset 
+Buying_21_Condition_0_Logic Less_Than
+
+Buying_21_Condition_1_Type Flag_Short
+Buying_21_Condition_1_ID 24202
+Buying_21_Condition_1_Value 250
+Buying_21_Condition_1_Allow_Unset 
+Buying_21_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_21_Rewards 1
+Buying_21_Reward_0_Type Flag_Short
+Buying_21_Reward_0_ID 24202
+Buying_21_Reward_0_Value 1
+Buying_21_Reward_0_Modification Increment
+
+Buying_22_ID 513
+Buying_22_Cost 111
+Buying_22_Conditions 2
+Buying_22_Condition_0_Type Flag_Short
+Buying_22_Condition_0_ID 24202
+Buying_22_Condition_0_Value 350
+Buying_22_Condition_0_Allow_Unset 
+Buying_22_Condition_0_Logic Less_Than
+
+Buying_22_Condition_1_Type Flag_Short
+Buying_22_Condition_1_ID 24202
+Buying_22_Condition_1_Value 300
+Buying_22_Condition_1_Allow_Unset 
+Buying_22_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_22_Rewards 1
+Buying_22_Reward_0_Type Flag_Short
+Buying_22_Reward_0_ID 24202
+Buying_22_Reward_0_Value 1
+Buying_22_Reward_0_Modification Increment
+
+Buying_23_ID 513
+Buying_23_Cost 112
+Buying_23_Conditions 2
+Buying_23_Condition_0_Type Flag_Short
+Buying_23_Condition_0_ID 24202
+Buying_23_Condition_0_Value 400
+Buying_23_Condition_0_Allow_Unset 
+Buying_23_Condition_0_Logic Less_Than
+
+Buying_23_Condition_1_Type Flag_Short
+Buying_23_Condition_1_ID 24202
+Buying_23_Condition_1_Value 350
+Buying_23_Condition_1_Allow_Unset 
+Buying_23_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_23_Rewards 1
+Buying_23_Reward_0_Type Flag_Short
+Buying_23_Reward_0_ID 24202
+Buying_23_Reward_0_Value 1
+Buying_23_Reward_0_Modification Increment
+
+Buying_24_ID 513
+Buying_24_Cost 113
+Buying_24_Conditions 2
+Buying_24_Condition_0_Type Flag_Short
+Buying_24_Condition_0_ID 24202
+Buying_24_Condition_0_Value 450
+Buying_24_Condition_0_Allow_Unset 
+Buying_24_Condition_0_Logic Less_Than
+
+Buying_24_Condition_1_Type Flag_Short
+Buying_24_Condition_1_ID 24202
+Buying_24_Condition_1_Value 400
+Buying_24_Condition_1_Allow_Unset 
+Buying_24_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_24_Rewards 1
+Buying_24_Reward_0_Type Flag_Short
+Buying_24_Reward_0_ID 24202
+Buying_24_Reward_0_Value 1
+Buying_24_Reward_0_Modification Increment
+
+Buying_25_ID 513
+Buying_25_Cost 114
+Buying_25_Conditions 2
+Buying_25_Condition_0_Type Flag_Short
+Buying_25_Condition_0_ID 24202
+Buying_25_Condition_0_Value 500
+Buying_25_Condition_0_Allow_Unset 
+Buying_25_Condition_0_Logic Less_Than
+
+Buying_25_Condition_1_Type Flag_Short
+Buying_25_Condition_1_ID 24202
+Buying_25_Condition_1_Value 450
+Buying_25_Condition_1_Allow_Unset 
+Buying_25_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_25_Rewards 1
+Buying_25_Reward_0_Type Flag_Short
+Buying_25_Reward_0_ID 24202
+Buying_25_Reward_0_Value 1
+Buying_25_Reward_0_Modification Increment
+
+Buying_26_ID 513
+Buying_26_Cost 115
+Buying_26_Conditions 2
+Buying_26_Condition_0_Type Flag_Short
+Buying_26_Condition_0_ID 24202
+Buying_26_Condition_0_Value 550
+Buying_26_Condition_0_Allow_Unset 
+Buying_26_Condition_0_Logic Less_Than
+
+Buying_26_Condition_1_Type Flag_Short
+Buying_26_Condition_1_ID 24202
+Buying_26_Condition_1_Value 500
+Buying_26_Condition_1_Allow_Unset 
+Buying_26_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_26_Rewards 1
+Buying_26_Reward_0_Type Flag_Short
+Buying_26_Reward_0_ID 24202
+Buying_26_Reward_0_Value 1
+Buying_26_Reward_0_Modification Increment
+
+Buying_27_ID 513
+Buying_27_Cost 116
+Buying_27_Conditions 2
+Buying_27_Condition_0_Type Flag_Short
+Buying_27_Condition_0_ID 24202
+Buying_27_Condition_0_Value 600
+Buying_27_Condition_0_Allow_Unset 
+Buying_27_Condition_0_Logic Less_Than
+
+Buying_27_Condition_1_Type Flag_Short
+Buying_27_Condition_1_ID 24202
+Buying_27_Condition_1_Value 550
+Buying_27_Condition_1_Allow_Unset 
+Buying_27_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_27_Rewards 1
+Buying_27_Reward_0_Type Flag_Short
+Buying_27_Reward_0_ID 24202
+Buying_27_Reward_0_Value 1
+Buying_27_Reward_0_Modification Increment
+
+Buying_28_ID 513
+Buying_28_Cost 117
+Buying_28_Conditions 2
+Buying_28_Condition_0_Type Flag_Short
+Buying_28_Condition_0_ID 24202
+Buying_28_Condition_0_Value 650
+Buying_28_Condition_0_Allow_Unset 
+Buying_28_Condition_0_Logic Less_Than
+
+Buying_28_Condition_1_Type Flag_Short
+Buying_28_Condition_1_ID 24202
+Buying_28_Condition_1_Value 600
+Buying_28_Condition_1_Allow_Unset 
+Buying_28_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_28_Rewards 1
+Buying_28_Reward_0_Type Flag_Short
+Buying_28_Reward_0_ID 24202
+Buying_28_Reward_0_Value 1
+Buying_28_Reward_0_Modification Increment
+
+Buying_29_ID 513
+Buying_29_Cost 118
+Buying_29_Conditions 2
+Buying_29_Condition_0_Type Flag_Short
+Buying_29_Condition_0_ID 24202
+Buying_29_Condition_0_Value 700
+Buying_29_Condition_0_Allow_Unset 
+Buying_29_Condition_0_Logic Less_Than
+
+Buying_29_Condition_1_Type Flag_Short
+Buying_29_Condition_1_ID 24202
+Buying_29_Condition_1_Value 650
+Buying_29_Condition_1_Allow_Unset 
+Buying_29_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_29_Rewards 1
+Buying_29_Reward_0_Type Flag_Short
+Buying_29_Reward_0_ID 24202
+Buying_29_Reward_0_Value 1
+Buying_29_Reward_0_Modification Increment
+
+Buying_30_ID 513
+Buying_30_Cost 119
+Buying_30_Conditions 2
+Buying_30_Condition_0_Type Flag_Short
+Buying_30_Condition_0_ID 24202
+Buying_30_Condition_0_Value 750
+Buying_30_Condition_0_Allow_Unset 
+Buying_30_Condition_0_Logic Less_Than
+
+Buying_30_Condition_1_Type Flag_Short
+Buying_30_Condition_1_ID 24202
+Buying_30_Condition_1_Value 700
+Buying_30_Condition_1_Allow_Unset 
+Buying_30_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_30_Rewards 1
+Buying_30_Reward_0_Type Flag_Short
+Buying_30_Reward_0_ID 24202
+Buying_30_Reward_0_Value 1
+Buying_30_Reward_0_Modification Increment
+
+Buying_31_ID 513
+Buying_31_Cost 120
+Buying_31_Conditions 1
+Buying_31_Condition_0_Type Flag_Short
+Buying_31_Condition_0_ID 24202
+Buying_31_Condition_0_Value 750
+Buying_31_Condition_0_Allow_Unset 
+Buying_31_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_32_ID 1348
+Buying_32_Cost 105
+Buying_32_Conditions 1
+Buying_32_Condition_0_Type Flag_Short
+Buying_32_Condition_0_ID 24202
+Buying_32_Condition_0_Value 50
+Buying_32_Condition_0_Allow_Unset 
+Buying_32_Condition_0_Logic Less_Than
+
+Buying_32_Rewards 1
+Buying_32_Reward_0_Type Flag_Short
+Buying_32_Reward_0_ID 24202
+Buying_32_Reward_0_Value 1
+Buying_32_Reward_0_Modification Increment
+
+Buying_33_ID 1348
+Buying_33_Cost 106
+Buying_33_Conditions 2
+Buying_33_Condition_0_Type Flag_Short
+Buying_33_Condition_0_ID 24202
+Buying_33_Condition_0_Value 100
+Buying_33_Condition_0_Allow_Unset 
+Buying_33_Condition_0_Logic Less_Than
+
+Buying_33_Condition_1_Type Flag_Short
+Buying_33_Condition_1_ID 24202
+Buying_33_Condition_1_Value 50
+Buying_33_Condition_1_Allow_Unset 
+Buying_33_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_33_Rewards 1
+Buying_33_Reward_0_Type Flag_Short
+Buying_33_Reward_0_ID 24202
+Buying_33_Reward_0_Value 1
+Buying_33_Reward_0_Modification Increment
+
+Buying_34_ID 1348
+Buying_34_Cost 107
+Buying_34_Conditions 2
+Buying_34_Condition_0_Type Flag_Short
+Buying_34_Condition_0_ID 24202
+Buying_34_Condition_0_Value 150
+Buying_34_Condition_0_Allow_Unset 
+Buying_34_Condition_0_Logic Less_Than
+
+Buying_34_Condition_1_Type Flag_Short
+Buying_34_Condition_1_ID 24202
+Buying_34_Condition_1_Value 100
+Buying_34_Condition_1_Allow_Unset 
+Buying_34_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_34_Rewards 1
+Buying_34_Reward_0_Type Flag_Short
+Buying_34_Reward_0_ID 24202
+Buying_34_Reward_0_Value 1
+Buying_34_Reward_0_Modification Increment
+
+Buying_35_ID 1348
+Buying_35_Cost 108
+Buying_35_Conditions 2
+Buying_35_Condition_0_Type Flag_Short
+Buying_35_Condition_0_ID 24202
+Buying_35_Condition_0_Value 200
+Buying_35_Condition_0_Allow_Unset 
+Buying_35_Condition_0_Logic Less_Than
+
+Buying_35_Condition_1_Type Flag_Short
+Buying_35_Condition_1_ID 24202
+Buying_35_Condition_1_Value 150
+Buying_35_Condition_1_Allow_Unset 
+Buying_35_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_35_Rewards 1
+Buying_35_Reward_0_Type Flag_Short
+Buying_35_Reward_0_ID 24202
+Buying_35_Reward_0_Value 1
+Buying_35_Reward_0_Modification Increment
+
+Buying_36_ID 1348
+Buying_36_Cost 109
+Buying_36_Conditions 2
+Buying_36_Condition_0_Type Flag_Short
+Buying_36_Condition_0_ID 24202
+Buying_36_Condition_0_Value 250
+Buying_36_Condition_0_Allow_Unset 
+Buying_36_Condition_0_Logic Less_Than
+
+Buying_36_Condition_1_Type Flag_Short
+Buying_36_Condition_1_ID 24202
+Buying_36_Condition_1_Value 200
+Buying_36_Condition_1_Allow_Unset 
+Buying_36_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_36_Rewards 1
+Buying_36_Reward_0_Type Flag_Short
+Buying_36_Reward_0_ID 24202
+Buying_36_Reward_0_Value 1
+Buying_36_Reward_0_Modification Increment
+
+Buying_37_ID 1348
+Buying_37_Cost 110
+Buying_37_Conditions 2
+Buying_37_Condition_0_Type Flag_Short
+Buying_37_Condition_0_ID 24202
+Buying_37_Condition_0_Value 300
+Buying_37_Condition_0_Allow_Unset 
+Buying_37_Condition_0_Logic Less_Than
+
+Buying_37_Condition_1_Type Flag_Short
+Buying_37_Condition_1_ID 24202
+Buying_37_Condition_1_Value 250
+Buying_37_Condition_1_Allow_Unset 
+Buying_37_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_37_Rewards 1
+Buying_37_Reward_0_Type Flag_Short
+Buying_37_Reward_0_ID 24202
+Buying_37_Reward_0_Value 1
+Buying_37_Reward_0_Modification Increment
+
+Buying_38_ID 1348
+Buying_38_Cost 111
+Buying_38_Conditions 2
+Buying_38_Condition_0_Type Flag_Short
+Buying_38_Condition_0_ID 24202
+Buying_38_Condition_0_Value 350
+Buying_38_Condition_0_Allow_Unset 
+Buying_38_Condition_0_Logic Less_Than
+
+Buying_38_Condition_1_Type Flag_Short
+Buying_38_Condition_1_ID 24202
+Buying_38_Condition_1_Value 300
+Buying_38_Condition_1_Allow_Unset 
+Buying_38_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_38_Rewards 1
+Buying_38_Reward_0_Type Flag_Short
+Buying_38_Reward_0_ID 24202
+Buying_38_Reward_0_Value 1
+Buying_38_Reward_0_Modification Increment
+
+Buying_39_ID 1348
+Buying_39_Cost 112
+Buying_39_Conditions 2
+Buying_39_Condition_0_Type Flag_Short
+Buying_39_Condition_0_ID 24202
+Buying_39_Condition_0_Value 400
+Buying_39_Condition_0_Allow_Unset 
+Buying_39_Condition_0_Logic Less_Than
+
+Buying_39_Condition_1_Type Flag_Short
+Buying_39_Condition_1_ID 24202
+Buying_39_Condition_1_Value 350
+Buying_39_Condition_1_Allow_Unset 
+Buying_39_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_39_Rewards 1
+Buying_39_Reward_0_Type Flag_Short
+Buying_39_Reward_0_ID 24202
+Buying_39_Reward_0_Value 1
+Buying_39_Reward_0_Modification Increment
+
+Buying_40_ID 1348
+Buying_40_Cost 113
+Buying_40_Conditions 2
+Buying_40_Condition_0_Type Flag_Short
+Buying_40_Condition_0_ID 24202
+Buying_40_Condition_0_Value 450
+Buying_40_Condition_0_Allow_Unset 
+Buying_40_Condition_0_Logic Less_Than
+
+Buying_40_Condition_1_Type Flag_Short
+Buying_40_Condition_1_ID 24202
+Buying_40_Condition_1_Value 400
+Buying_40_Condition_1_Allow_Unset 
+Buying_40_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_40_Rewards 1
+Buying_40_Reward_0_Type Flag_Short
+Buying_40_Reward_0_ID 24202
+Buying_40_Reward_0_Value 1
+Buying_40_Reward_0_Modification Increment
+
+Buying_41_ID 1348
+Buying_41_Cost 114
+Buying_41_Conditions 2
+Buying_41_Condition_0_Type Flag_Short
+Buying_41_Condition_0_ID 24202
+Buying_41_Condition_0_Value 500
+Buying_41_Condition_0_Allow_Unset 
+Buying_41_Condition_0_Logic Less_Than
+
+Buying_41_Condition_1_Type Flag_Short
+Buying_41_Condition_1_ID 24202
+Buying_41_Condition_1_Value 450
+Buying_41_Condition_1_Allow_Unset 
+Buying_41_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_41_Rewards 1
+Buying_41_Reward_0_Type Flag_Short
+Buying_41_Reward_0_ID 24202
+Buying_41_Reward_0_Value 1
+Buying_41_Reward_0_Modification Increment
+
+Buying_42_ID 1348
+Buying_42_Cost 115
+Buying_42_Conditions 2
+Buying_42_Condition_0_Type Flag_Short
+Buying_42_Condition_0_ID 24202
+Buying_42_Condition_0_Value 550
+Buying_42_Condition_0_Allow_Unset 
+Buying_42_Condition_0_Logic Less_Than
+
+Buying_42_Condition_1_Type Flag_Short
+Buying_42_Condition_1_ID 24202
+Buying_42_Condition_1_Value 500
+Buying_42_Condition_1_Allow_Unset 
+Buying_42_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_42_Rewards 1
+Buying_42_Reward_0_Type Flag_Short
+Buying_42_Reward_0_ID 24202
+Buying_42_Reward_0_Value 1
+Buying_42_Reward_0_Modification Increment
+
+Buying_43_ID 1348
+Buying_43_Cost 116
+Buying_43_Conditions 2
+Buying_43_Condition_0_Type Flag_Short
+Buying_43_Condition_0_ID 24202
+Buying_43_Condition_0_Value 600
+Buying_43_Condition_0_Allow_Unset 
+Buying_43_Condition_0_Logic Less_Than
+
+Buying_43_Condition_1_Type Flag_Short
+Buying_43_Condition_1_ID 24202
+Buying_43_Condition_1_Value 550
+Buying_43_Condition_1_Allow_Unset 
+Buying_43_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_43_Rewards 1
+Buying_43_Reward_0_Type Flag_Short
+Buying_43_Reward_0_ID 24202
+Buying_43_Reward_0_Value 1
+Buying_43_Reward_0_Modification Increment
+
+Buying_44_ID 1348
+Buying_44_Cost 117
+Buying_44_Conditions 2
+Buying_44_Condition_0_Type Flag_Short
+Buying_44_Condition_0_ID 24202
+Buying_44_Condition_0_Value 650
+Buying_44_Condition_0_Allow_Unset 
+Buying_44_Condition_0_Logic Less_Than
+
+Buying_44_Condition_1_Type Flag_Short
+Buying_44_Condition_1_ID 24202
+Buying_44_Condition_1_Value 600
+Buying_44_Condition_1_Allow_Unset 
+Buying_44_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_44_Rewards 1
+Buying_44_Reward_0_Type Flag_Short
+Buying_44_Reward_0_ID 24202
+Buying_44_Reward_0_Value 1
+Buying_44_Reward_0_Modification Increment
+
+Buying_45_ID 1348
+Buying_45_Cost 118
+Buying_45_Conditions 2
+Buying_45_Condition_0_Type Flag_Short
+Buying_45_Condition_0_ID 24202
+Buying_45_Condition_0_Value 700
+Buying_45_Condition_0_Allow_Unset 
+Buying_45_Condition_0_Logic Less_Than
+
+Buying_45_Condition_1_Type Flag_Short
+Buying_45_Condition_1_ID 24202
+Buying_45_Condition_1_Value 650
+Buying_45_Condition_1_Allow_Unset 
+Buying_45_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_45_Rewards 1
+Buying_45_Reward_0_Type Flag_Short
+Buying_45_Reward_0_ID 24202
+Buying_45_Reward_0_Value 1
+Buying_45_Reward_0_Modification Increment
+
+Buying_46_ID 1348
+Buying_46_Cost 119
+Buying_46_Conditions 2
+Buying_46_Condition_0_Type Flag_Short
+Buying_46_Condition_0_ID 24202
+Buying_46_Condition_0_Value 750
+Buying_46_Condition_0_Allow_Unset 
+Buying_46_Condition_0_Logic Less_Than
+
+Buying_46_Condition_1_Type Flag_Short
+Buying_46_Condition_1_ID 24202
+Buying_46_Condition_1_Value 700
+Buying_46_Condition_1_Allow_Unset 
+Buying_46_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_46_Rewards 1
+Buying_46_Reward_0_Type Flag_Short
+Buying_46_Reward_0_ID 24202
+Buying_46_Reward_0_Value 1
+Buying_46_Reward_0_Modification Increment
+
+Buying_47_ID 1348
+Buying_47_Cost 120
+Buying_47_Conditions 1
+Buying_47_Condition_0_Type Flag_Short
+Buying_47_Condition_0_ID 24202
+Buying_47_Condition_0_Value 750
+Buying_47_Condition_0_Allow_Unset 
+Buying_47_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_48_ID 1350
+Buying_48_Cost 105
+Buying_48_Conditions 1
+Buying_48_Condition_0_Type Flag_Short
+Buying_48_Condition_0_ID 24202
+Buying_48_Condition_0_Value 50
+Buying_48_Condition_0_Allow_Unset 
+Buying_48_Condition_0_Logic Less_Than
+
+Buying_48_Rewards 1
+Buying_48_Reward_0_Type Flag_Short
+Buying_48_Reward_0_ID 24202
+Buying_48_Reward_0_Value 1
+Buying_48_Reward_0_Modification Increment
+
+Buying_49_ID 1350
+Buying_49_Cost 106
+Buying_49_Conditions 2
+Buying_49_Condition_0_Type Flag_Short
+Buying_49_Condition_0_ID 24202
+Buying_49_Condition_0_Value 100
+Buying_49_Condition_0_Allow_Unset 
+Buying_49_Condition_0_Logic Less_Than
+
+Buying_49_Condition_1_Type Flag_Short
+Buying_49_Condition_1_ID 24202
+Buying_49_Condition_1_Value 50
+Buying_49_Condition_1_Allow_Unset 
+Buying_49_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_49_Rewards 1
+Buying_49_Reward_0_Type Flag_Short
+Buying_49_Reward_0_ID 24202
+Buying_49_Reward_0_Value 1
+Buying_49_Reward_0_Modification Increment
+
+Buying_50_ID 1350
+Buying_50_Cost 107
+Buying_50_Conditions 2
+Buying_50_Condition_0_Type Flag_Short
+Buying_50_Condition_0_ID 24202
+Buying_50_Condition_0_Value 150
+Buying_50_Condition_0_Allow_Unset 
+Buying_50_Condition_0_Logic Less_Than
+
+Buying_50_Condition_1_Type Flag_Short
+Buying_50_Condition_1_ID 24202
+Buying_50_Condition_1_Value 100
+Buying_50_Condition_1_Allow_Unset 
+Buying_50_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_50_Rewards 1
+Buying_50_Reward_0_Type Flag_Short
+Buying_50_Reward_0_ID 24202
+Buying_50_Reward_0_Value 1
+Buying_50_Reward_0_Modification Increment
+
+Buying_51_ID 1350
+Buying_51_Cost 108
+Buying_51_Conditions 2
+Buying_51_Condition_0_Type Flag_Short
+Buying_51_Condition_0_ID 24202
+Buying_51_Condition_0_Value 200
+Buying_51_Condition_0_Allow_Unset 
+Buying_51_Condition_0_Logic Less_Than
+
+Buying_51_Condition_1_Type Flag_Short
+Buying_51_Condition_1_ID 24202
+Buying_51_Condition_1_Value 150
+Buying_51_Condition_1_Allow_Unset 
+Buying_51_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_51_Rewards 1
+Buying_51_Reward_0_Type Flag_Short
+Buying_51_Reward_0_ID 24202
+Buying_51_Reward_0_Value 1
+Buying_51_Reward_0_Modification Increment
+
+Buying_52_ID 1350
+Buying_52_Cost 109
+Buying_52_Conditions 2
+Buying_52_Condition_0_Type Flag_Short
+Buying_52_Condition_0_ID 24202
+Buying_52_Condition_0_Value 250
+Buying_52_Condition_0_Allow_Unset 
+Buying_52_Condition_0_Logic Less_Than
+
+Buying_52_Condition_1_Type Flag_Short
+Buying_52_Condition_1_ID 24202
+Buying_52_Condition_1_Value 200
+Buying_52_Condition_1_Allow_Unset 
+Buying_52_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_52_Rewards 1
+Buying_52_Reward_0_Type Flag_Short
+Buying_52_Reward_0_ID 24202
+Buying_52_Reward_0_Value 1
+Buying_52_Reward_0_Modification Increment
+
+Buying_53_ID 1350
+Buying_53_Cost 110
+Buying_53_Conditions 2
+Buying_53_Condition_0_Type Flag_Short
+Buying_53_Condition_0_ID 24202
+Buying_53_Condition_0_Value 300
+Buying_53_Condition_0_Allow_Unset 
+Buying_53_Condition_0_Logic Less_Than
+
+Buying_53_Condition_1_Type Flag_Short
+Buying_53_Condition_1_ID 24202
+Buying_53_Condition_1_Value 250
+Buying_53_Condition_1_Allow_Unset 
+Buying_53_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_53_Rewards 1
+Buying_53_Reward_0_Type Flag_Short
+Buying_53_Reward_0_ID 24202
+Buying_53_Reward_0_Value 1
+Buying_53_Reward_0_Modification Increment
+
+Buying_54_ID 1350
+Buying_54_Cost 111
+Buying_54_Conditions 2
+Buying_54_Condition_0_Type Flag_Short
+Buying_54_Condition_0_ID 24202
+Buying_54_Condition_0_Value 350
+Buying_54_Condition_0_Allow_Unset 
+Buying_54_Condition_0_Logic Less_Than
+
+Buying_54_Condition_1_Type Flag_Short
+Buying_54_Condition_1_ID 24202
+Buying_54_Condition_1_Value 300
+Buying_54_Condition_1_Allow_Unset 
+Buying_54_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_54_Rewards 1
+Buying_54_Reward_0_Type Flag_Short
+Buying_54_Reward_0_ID 24202
+Buying_54_Reward_0_Value 1
+Buying_54_Reward_0_Modification Increment
+
+Buying_55_ID 1350
+Buying_55_Cost 112
+Buying_55_Conditions 2
+Buying_55_Condition_0_Type Flag_Short
+Buying_55_Condition_0_ID 24202
+Buying_55_Condition_0_Value 400
+Buying_55_Condition_0_Allow_Unset 
+Buying_55_Condition_0_Logic Less_Than
+
+Buying_55_Condition_1_Type Flag_Short
+Buying_55_Condition_1_ID 24202
+Buying_55_Condition_1_Value 350
+Buying_55_Condition_1_Allow_Unset 
+Buying_55_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_55_Rewards 1
+Buying_55_Reward_0_Type Flag_Short
+Buying_55_Reward_0_ID 24202
+Buying_55_Reward_0_Value 1
+Buying_55_Reward_0_Modification Increment
+
+Buying_56_ID 1350
+Buying_56_Cost 113
+Buying_56_Conditions 2
+Buying_56_Condition_0_Type Flag_Short
+Buying_56_Condition_0_ID 24202
+Buying_56_Condition_0_Value 450
+Buying_56_Condition_0_Allow_Unset 
+Buying_56_Condition_0_Logic Less_Than
+
+Buying_56_Condition_1_Type Flag_Short
+Buying_56_Condition_1_ID 24202
+Buying_56_Condition_1_Value 400
+Buying_56_Condition_1_Allow_Unset 
+Buying_56_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_56_Rewards 1
+Buying_56_Reward_0_Type Flag_Short
+Buying_56_Reward_0_ID 24202
+Buying_56_Reward_0_Value 1
+Buying_56_Reward_0_Modification Increment
+
+Buying_57_ID 1350
+Buying_57_Cost 114
+Buying_57_Conditions 2
+Buying_57_Condition_0_Type Flag_Short
+Buying_57_Condition_0_ID 24202
+Buying_57_Condition_0_Value 500
+Buying_57_Condition_0_Allow_Unset 
+Buying_57_Condition_0_Logic Less_Than
+
+Buying_57_Condition_1_Type Flag_Short
+Buying_57_Condition_1_ID 24202
+Buying_57_Condition_1_Value 450
+Buying_57_Condition_1_Allow_Unset 
+Buying_57_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_57_Rewards 1
+Buying_57_Reward_0_Type Flag_Short
+Buying_57_Reward_0_ID 24202
+Buying_57_Reward_0_Value 1
+Buying_57_Reward_0_Modification Increment
+
+Buying_58_ID 1350
+Buying_58_Cost 115
+Buying_58_Conditions 2
+Buying_58_Condition_0_Type Flag_Short
+Buying_58_Condition_0_ID 24202
+Buying_58_Condition_0_Value 550
+Buying_58_Condition_0_Allow_Unset 
+Buying_58_Condition_0_Logic Less_Than
+
+Buying_58_Condition_1_Type Flag_Short
+Buying_58_Condition_1_ID 24202
+Buying_58_Condition_1_Value 500
+Buying_58_Condition_1_Allow_Unset 
+Buying_58_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_58_Rewards 1
+Buying_58_Reward_0_Type Flag_Short
+Buying_58_Reward_0_ID 24202
+Buying_58_Reward_0_Value 1
+Buying_58_Reward_0_Modification Increment
+
+Buying_59_ID 1350
+Buying_59_Cost 116
+Buying_59_Conditions 2
+Buying_59_Condition_0_Type Flag_Short
+Buying_59_Condition_0_ID 24202
+Buying_59_Condition_0_Value 600
+Buying_59_Condition_0_Allow_Unset 
+Buying_59_Condition_0_Logic Less_Than
+
+Buying_59_Condition_1_Type Flag_Short
+Buying_59_Condition_1_ID 24202
+Buying_59_Condition_1_Value 550
+Buying_59_Condition_1_Allow_Unset 
+Buying_59_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_59_Rewards 1
+Buying_59_Reward_0_Type Flag_Short
+Buying_59_Reward_0_ID 24202
+Buying_59_Reward_0_Value 1
+Buying_59_Reward_0_Modification Increment
+
+Buying_60_ID 1350
+Buying_60_Cost 117
+Buying_60_Conditions 2
+Buying_60_Condition_0_Type Flag_Short
+Buying_60_Condition_0_ID 24202
+Buying_60_Condition_0_Value 650
+Buying_60_Condition_0_Allow_Unset 
+Buying_60_Condition_0_Logic Less_Than
+
+Buying_60_Condition_1_Type Flag_Short
+Buying_60_Condition_1_ID 24202
+Buying_60_Condition_1_Value 600
+Buying_60_Condition_1_Allow_Unset 
+Buying_60_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_60_Rewards 1
+Buying_60_Reward_0_Type Flag_Short
+Buying_60_Reward_0_ID 24202
+Buying_60_Reward_0_Value 1
+Buying_60_Reward_0_Modification Increment
+
+Buying_61_ID 1350
+Buying_61_Cost 118
+Buying_61_Conditions 2
+Buying_61_Condition_0_Type Flag_Short
+Buying_61_Condition_0_ID 24202
+Buying_61_Condition_0_Value 700
+Buying_61_Condition_0_Allow_Unset 
+Buying_61_Condition_0_Logic Less_Than
+
+Buying_61_Condition_1_Type Flag_Short
+Buying_61_Condition_1_ID 24202
+Buying_61_Condition_1_Value 650
+Buying_61_Condition_1_Allow_Unset 
+Buying_61_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_61_Rewards 1
+Buying_61_Reward_0_Type Flag_Short
+Buying_61_Reward_0_ID 24202
+Buying_61_Reward_0_Value 1
+Buying_61_Reward_0_Modification Increment
+
+Buying_62_ID 1350
+Buying_62_Cost 119
+Buying_62_Conditions 2
+Buying_62_Condition_0_Type Flag_Short
+Buying_62_Condition_0_ID 24202
+Buying_62_Condition_0_Value 750
+Buying_62_Condition_0_Allow_Unset 
+Buying_62_Condition_0_Logic Less_Than
+
+Buying_62_Condition_1_Type Flag_Short
+Buying_62_Condition_1_ID 24202
+Buying_62_Condition_1_Value 700
+Buying_62_Condition_1_Allow_Unset 
+Buying_62_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_62_Rewards 1
+Buying_62_Reward_0_Type Flag_Short
+Buying_62_Reward_0_ID 24202
+Buying_62_Reward_0_Value 1
+Buying_62_Reward_0_Modification Increment
+
+Buying_63_ID 1350
+Buying_63_Cost 120
+Buying_63_Conditions 1
+Buying_63_Condition_0_Type Flag_Short
+Buying_63_Condition_0_ID 24202
+Buying_63_Condition_0_Value 750
+Buying_63_Condition_0_Allow_Unset 
+Buying_63_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_64_ID 1352
+Buying_64_Cost 105
+Buying_64_Conditions 1
+Buying_64_Condition_0_Type Flag_Short
+Buying_64_Condition_0_ID 24202
+Buying_64_Condition_0_Value 50
+Buying_64_Condition_0_Allow_Unset 
+Buying_64_Condition_0_Logic Less_Than
+
+Buying_64_Rewards 1
+Buying_64_Reward_0_Type Flag_Short
+Buying_64_Reward_0_ID 24202
+Buying_64_Reward_0_Value 1
+Buying_64_Reward_0_Modification Increment
+
+Buying_65_ID 1352
+Buying_65_Cost 106
+Buying_65_Conditions 2
+Buying_65_Condition_0_Type Flag_Short
+Buying_65_Condition_0_ID 24202
+Buying_65_Condition_0_Value 100
+Buying_65_Condition_0_Allow_Unset 
+Buying_65_Condition_0_Logic Less_Than
+
+Buying_65_Condition_1_Type Flag_Short
+Buying_65_Condition_1_ID 24202
+Buying_65_Condition_1_Value 50
+Buying_65_Condition_1_Allow_Unset 
+Buying_65_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_65_Rewards 1
+Buying_65_Reward_0_Type Flag_Short
+Buying_65_Reward_0_ID 24202
+Buying_65_Reward_0_Value 1
+Buying_65_Reward_0_Modification Increment
+
+Buying_66_ID 1352
+Buying_66_Cost 107
+Buying_66_Conditions 2
+Buying_66_Condition_0_Type Flag_Short
+Buying_66_Condition_0_ID 24202
+Buying_66_Condition_0_Value 150
+Buying_66_Condition_0_Allow_Unset 
+Buying_66_Condition_0_Logic Less_Than
+
+Buying_66_Condition_1_Type Flag_Short
+Buying_66_Condition_1_ID 24202
+Buying_66_Condition_1_Value 100
+Buying_66_Condition_1_Allow_Unset 
+Buying_66_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_66_Rewards 1
+Buying_66_Reward_0_Type Flag_Short
+Buying_66_Reward_0_ID 24202
+Buying_66_Reward_0_Value 1
+Buying_66_Reward_0_Modification Increment
+
+Buying_67_ID 1352
+Buying_67_Cost 108
+Buying_67_Conditions 2
+Buying_67_Condition_0_Type Flag_Short
+Buying_67_Condition_0_ID 24202
+Buying_67_Condition_0_Value 200
+Buying_67_Condition_0_Allow_Unset 
+Buying_67_Condition_0_Logic Less_Than
+
+Buying_67_Condition_1_Type Flag_Short
+Buying_67_Condition_1_ID 24202
+Buying_67_Condition_1_Value 150
+Buying_67_Condition_1_Allow_Unset 
+Buying_67_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_67_Rewards 1
+Buying_67_Reward_0_Type Flag_Short
+Buying_67_Reward_0_ID 24202
+Buying_67_Reward_0_Value 1
+Buying_67_Reward_0_Modification Increment
+
+Buying_68_ID 1352
+Buying_68_Cost 109
+Buying_68_Conditions 2
+Buying_68_Condition_0_Type Flag_Short
+Buying_68_Condition_0_ID 24202
+Buying_68_Condition_0_Value 250
+Buying_68_Condition_0_Allow_Unset 
+Buying_68_Condition_0_Logic Less_Than
+
+Buying_68_Condition_1_Type Flag_Short
+Buying_68_Condition_1_ID 24202
+Buying_68_Condition_1_Value 200
+Buying_68_Condition_1_Allow_Unset 
+Buying_68_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_68_Rewards 1
+Buying_68_Reward_0_Type Flag_Short
+Buying_68_Reward_0_ID 24202
+Buying_68_Reward_0_Value 1
+Buying_68_Reward_0_Modification Increment
+
+Buying_69_ID 1352
+Buying_69_Cost 110
+Buying_69_Conditions 2
+Buying_69_Condition_0_Type Flag_Short
+Buying_69_Condition_0_ID 24202
+Buying_69_Condition_0_Value 300
+Buying_69_Condition_0_Allow_Unset 
+Buying_69_Condition_0_Logic Less_Than
+
+Buying_69_Condition_1_Type Flag_Short
+Buying_69_Condition_1_ID 24202
+Buying_69_Condition_1_Value 250
+Buying_69_Condition_1_Allow_Unset 
+Buying_69_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_69_Rewards 1
+Buying_69_Reward_0_Type Flag_Short
+Buying_69_Reward_0_ID 24202
+Buying_69_Reward_0_Value 1
+Buying_69_Reward_0_Modification Increment
+
+Buying_70_ID 1352
+Buying_70_Cost 111
+Buying_70_Conditions 2
+Buying_70_Condition_0_Type Flag_Short
+Buying_70_Condition_0_ID 24202
+Buying_70_Condition_0_Value 350
+Buying_70_Condition_0_Allow_Unset 
+Buying_70_Condition_0_Logic Less_Than
+
+Buying_70_Condition_1_Type Flag_Short
+Buying_70_Condition_1_ID 24202
+Buying_70_Condition_1_Value 300
+Buying_70_Condition_1_Allow_Unset 
+Buying_70_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_70_Rewards 1
+Buying_70_Reward_0_Type Flag_Short
+Buying_70_Reward_0_ID 24202
+Buying_70_Reward_0_Value 1
+Buying_70_Reward_0_Modification Increment
+
+Buying_71_ID 1352
+Buying_71_Cost 112
+Buying_71_Conditions 2
+Buying_71_Condition_0_Type Flag_Short
+Buying_71_Condition_0_ID 24202
+Buying_71_Condition_0_Value 400
+Buying_71_Condition_0_Allow_Unset 
+Buying_71_Condition_0_Logic Less_Than
+
+Buying_71_Condition_1_Type Flag_Short
+Buying_71_Condition_1_ID 24202
+Buying_71_Condition_1_Value 350
+Buying_71_Condition_1_Allow_Unset 
+Buying_71_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_71_Rewards 1
+Buying_71_Reward_0_Type Flag_Short
+Buying_71_Reward_0_ID 24202
+Buying_71_Reward_0_Value 1
+Buying_71_Reward_0_Modification Increment
+
+Buying_72_ID 1352
+Buying_72_Cost 113
+Buying_72_Conditions 2
+Buying_72_Condition_0_Type Flag_Short
+Buying_72_Condition_0_ID 24202
+Buying_72_Condition_0_Value 450
+Buying_72_Condition_0_Allow_Unset 
+Buying_72_Condition_0_Logic Less_Than
+
+Buying_72_Condition_1_Type Flag_Short
+Buying_72_Condition_1_ID 24202
+Buying_72_Condition_1_Value 400
+Buying_72_Condition_1_Allow_Unset 
+Buying_72_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_72_Rewards 1
+Buying_72_Reward_0_Type Flag_Short
+Buying_72_Reward_0_ID 24202
+Buying_72_Reward_0_Value 1
+Buying_72_Reward_0_Modification Increment
+
+Buying_73_ID 1352
+Buying_73_Cost 114
+Buying_73_Conditions 2
+Buying_73_Condition_0_Type Flag_Short
+Buying_73_Condition_0_ID 24202
+Buying_73_Condition_0_Value 500
+Buying_73_Condition_0_Allow_Unset 
+Buying_73_Condition_0_Logic Less_Than
+
+Buying_73_Condition_1_Type Flag_Short
+Buying_73_Condition_1_ID 24202
+Buying_73_Condition_1_Value 450
+Buying_73_Condition_1_Allow_Unset 
+Buying_73_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_73_Rewards 1
+Buying_73_Reward_0_Type Flag_Short
+Buying_73_Reward_0_ID 24202
+Buying_73_Reward_0_Value 1
+Buying_73_Reward_0_Modification Increment
+
+Buying_74_ID 1352
+Buying_74_Cost 115
+Buying_74_Conditions 2
+Buying_74_Condition_0_Type Flag_Short
+Buying_74_Condition_0_ID 24202
+Buying_74_Condition_0_Value 550
+Buying_74_Condition_0_Allow_Unset 
+Buying_74_Condition_0_Logic Less_Than
+
+Buying_74_Condition_1_Type Flag_Short
+Buying_74_Condition_1_ID 24202
+Buying_74_Condition_1_Value 500
+Buying_74_Condition_1_Allow_Unset 
+Buying_74_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_74_Rewards 1
+Buying_74_Reward_0_Type Flag_Short
+Buying_74_Reward_0_ID 24202
+Buying_74_Reward_0_Value 1
+Buying_74_Reward_0_Modification Increment
+
+Buying_75_ID 1352
+Buying_75_Cost 116
+Buying_75_Conditions 2
+Buying_75_Condition_0_Type Flag_Short
+Buying_75_Condition_0_ID 24202
+Buying_75_Condition_0_Value 600
+Buying_75_Condition_0_Allow_Unset 
+Buying_75_Condition_0_Logic Less_Than
+
+Buying_75_Condition_1_Type Flag_Short
+Buying_75_Condition_1_ID 24202
+Buying_75_Condition_1_Value 550
+Buying_75_Condition_1_Allow_Unset 
+Buying_75_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_75_Rewards 1
+Buying_75_Reward_0_Type Flag_Short
+Buying_75_Reward_0_ID 24202
+Buying_75_Reward_0_Value 1
+Buying_75_Reward_0_Modification Increment
+
+Buying_76_ID 1352
+Buying_76_Cost 117
+Buying_76_Conditions 2
+Buying_76_Condition_0_Type Flag_Short
+Buying_76_Condition_0_ID 24202
+Buying_76_Condition_0_Value 650
+Buying_76_Condition_0_Allow_Unset 
+Buying_76_Condition_0_Logic Less_Than
+
+Buying_76_Condition_1_Type Flag_Short
+Buying_76_Condition_1_ID 24202
+Buying_76_Condition_1_Value 600
+Buying_76_Condition_1_Allow_Unset 
+Buying_76_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_76_Rewards 1
+Buying_76_Reward_0_Type Flag_Short
+Buying_76_Reward_0_ID 24202
+Buying_76_Reward_0_Value 1
+Buying_76_Reward_0_Modification Increment
+
+Buying_77_ID 1352
+Buying_77_Cost 118
+Buying_77_Conditions 2
+Buying_77_Condition_0_Type Flag_Short
+Buying_77_Condition_0_ID 24202
+Buying_77_Condition_0_Value 700
+Buying_77_Condition_0_Allow_Unset 
+Buying_77_Condition_0_Logic Less_Than
+
+Buying_77_Condition_1_Type Flag_Short
+Buying_77_Condition_1_ID 24202
+Buying_77_Condition_1_Value 650
+Buying_77_Condition_1_Allow_Unset 
+Buying_77_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_77_Rewards 1
+Buying_77_Reward_0_Type Flag_Short
+Buying_77_Reward_0_ID 24202
+Buying_77_Reward_0_Value 1
+Buying_77_Reward_0_Modification Increment
+
+Buying_78_ID 1352
+Buying_78_Cost 119
+Buying_78_Conditions 2
+Buying_78_Condition_0_Type Flag_Short
+Buying_78_Condition_0_ID 24202
+Buying_78_Condition_0_Value 750
+Buying_78_Condition_0_Allow_Unset 
+Buying_78_Condition_0_Logic Less_Than
+
+Buying_78_Condition_1_Type Flag_Short
+Buying_78_Condition_1_ID 24202
+Buying_78_Condition_1_Value 700
+Buying_78_Condition_1_Allow_Unset 
+Buying_78_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_78_Rewards 1
+Buying_78_Reward_0_Type Flag_Short
+Buying_78_Reward_0_ID 24202
+Buying_78_Reward_0_Value 1
+Buying_78_Reward_0_Modification Increment
+
+Buying_79_ID 1352
+Buying_79_Cost 120
+Buying_79_Conditions 1
+Buying_79_Condition_0_Type Flag_Short
+Buying_79_Condition_0_ID 24202
+Buying_79_Condition_0_Value 750
+Buying_79_Condition_0_Allow_Unset 
+Buying_79_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_80_ID 1435
+Buying_80_Cost 15000
+Buying_80_Conditions 1
+Buying_80_Condition_0_Type Flag_Short
+Buying_80_Condition_0_ID 24202
+Buying_80_Condition_0_Value 50
+Buying_80_Condition_0_Allow_Unset 
+Buying_80_Condition_0_Logic Less_Than
+
+Buying_80_Rewards 1
+Buying_80_Reward_0_Type Flag_Short
+Buying_80_Reward_0_ID 24202
+Buying_80_Reward_0_Value 1
+Buying_80_Reward_0_Modification Increment
+
+Buying_81_ID 1435
+Buying_81_Cost 15100
+Buying_81_Conditions 2
+Buying_81_Condition_0_Type Flag_Short
+Buying_81_Condition_0_ID 24202
+Buying_81_Condition_0_Value 100
+Buying_81_Condition_0_Allow_Unset 
+Buying_81_Condition_0_Logic Less_Than
+
+Buying_81_Condition_1_Type Flag_Short
+Buying_81_Condition_1_ID 24202
+Buying_81_Condition_1_Value 50
+Buying_81_Condition_1_Allow_Unset 
+Buying_81_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_81_Rewards 1
+Buying_81_Reward_0_Type Flag_Short
+Buying_81_Reward_0_ID 24202
+Buying_81_Reward_0_Value 1
+Buying_81_Reward_0_Modification Increment
+
+Buying_82_ID 1435
+Buying_82_Cost 15200
+Buying_82_Conditions 2
+Buying_82_Condition_0_Type Flag_Short
+Buying_82_Condition_0_ID 24202
+Buying_82_Condition_0_Value 150
+Buying_82_Condition_0_Allow_Unset 
+Buying_82_Condition_0_Logic Less_Than
+
+Buying_82_Condition_1_Type Flag_Short
+Buying_82_Condition_1_ID 24202
+Buying_82_Condition_1_Value 100
+Buying_82_Condition_1_Allow_Unset 
+Buying_82_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_82_Rewards 1
+Buying_82_Reward_0_Type Flag_Short
+Buying_82_Reward_0_ID 24202
+Buying_82_Reward_0_Value 1
+Buying_82_Reward_0_Modification Increment
+
+Buying_83_ID 1435
+Buying_83_Cost 15300
+Buying_83_Conditions 2
+Buying_83_Condition_0_Type Flag_Short
+Buying_83_Condition_0_ID 24202
+Buying_83_Condition_0_Value 200
+Buying_83_Condition_0_Allow_Unset 
+Buying_83_Condition_0_Logic Less_Than
+
+Buying_83_Condition_1_Type Flag_Short
+Buying_83_Condition_1_ID 24202
+Buying_83_Condition_1_Value 150
+Buying_83_Condition_1_Allow_Unset 
+Buying_83_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_83_Rewards 1
+Buying_83_Reward_0_Type Flag_Short
+Buying_83_Reward_0_ID 24202
+Buying_83_Reward_0_Value 1
+Buying_83_Reward_0_Modification Increment
+
+Buying_84_ID 1435
+Buying_84_Cost 15400
+Buying_84_Conditions 2
+Buying_84_Condition_0_Type Flag_Short
+Buying_84_Condition_0_ID 24202
+Buying_84_Condition_0_Value 250
+Buying_84_Condition_0_Allow_Unset 
+Buying_84_Condition_0_Logic Less_Than
+
+Buying_84_Condition_1_Type Flag_Short
+Buying_84_Condition_1_ID 24202
+Buying_84_Condition_1_Value 200
+Buying_84_Condition_1_Allow_Unset 
+Buying_84_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_84_Rewards 1
+Buying_84_Reward_0_Type Flag_Short
+Buying_84_Reward_0_ID 24202
+Buying_84_Reward_0_Value 1
+Buying_84_Reward_0_Modification Increment
+
+Buying_85_ID 1435
+Buying_85_Cost 15500
+Buying_85_Conditions 2
+Buying_85_Condition_0_Type Flag_Short
+Buying_85_Condition_0_ID 24202
+Buying_85_Condition_0_Value 300
+Buying_85_Condition_0_Allow_Unset 
+Buying_85_Condition_0_Logic Less_Than
+
+Buying_85_Condition_1_Type Flag_Short
+Buying_85_Condition_1_ID 24202
+Buying_85_Condition_1_Value 250
+Buying_85_Condition_1_Allow_Unset 
+Buying_85_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_85_Rewards 1
+Buying_85_Reward_0_Type Flag_Short
+Buying_85_Reward_0_ID 24202
+Buying_85_Reward_0_Value 1
+Buying_85_Reward_0_Modification Increment
+
+Buying_86_ID 1435
+Buying_86_Cost 15600
+Buying_86_Conditions 2
+Buying_86_Condition_0_Type Flag_Short
+Buying_86_Condition_0_ID 24202
+Buying_86_Condition_0_Value 350
+Buying_86_Condition_0_Allow_Unset 
+Buying_86_Condition_0_Logic Less_Than
+
+Buying_86_Condition_1_Type Flag_Short
+Buying_86_Condition_1_ID 24202
+Buying_86_Condition_1_Value 300
+Buying_86_Condition_1_Allow_Unset 
+Buying_86_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_86_Rewards 1
+Buying_86_Reward_0_Type Flag_Short
+Buying_86_Reward_0_ID 24202
+Buying_86_Reward_0_Value 1
+Buying_86_Reward_0_Modification Increment
+
+Buying_87_ID 1435
+Buying_87_Cost 15700
+Buying_87_Conditions 2
+Buying_87_Condition_0_Type Flag_Short
+Buying_87_Condition_0_ID 24202
+Buying_87_Condition_0_Value 400
+Buying_87_Condition_0_Allow_Unset 
+Buying_87_Condition_0_Logic Less_Than
+
+Buying_87_Condition_1_Type Flag_Short
+Buying_87_Condition_1_ID 24202
+Buying_87_Condition_1_Value 350
+Buying_87_Condition_1_Allow_Unset 
+Buying_87_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_87_Rewards 1
+Buying_87_Reward_0_Type Flag_Short
+Buying_87_Reward_0_ID 24202
+Buying_87_Reward_0_Value 1
+Buying_87_Reward_0_Modification Increment
+
+Buying_88_ID 1435
+Buying_88_Cost 15800
+Buying_88_Conditions 2
+Buying_88_Condition_0_Type Flag_Short
+Buying_88_Condition_0_ID 24202
+Buying_88_Condition_0_Value 450
+Buying_88_Condition_0_Allow_Unset 
+Buying_88_Condition_0_Logic Less_Than
+
+Buying_88_Condition_1_Type Flag_Short
+Buying_88_Condition_1_ID 24202
+Buying_88_Condition_1_Value 400
+Buying_88_Condition_1_Allow_Unset 
+Buying_88_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_88_Rewards 1
+Buying_88_Reward_0_Type Flag_Short
+Buying_88_Reward_0_ID 24202
+Buying_88_Reward_0_Value 1
+Buying_88_Reward_0_Modification Increment
+
+Buying_89_ID 1435
+Buying_89_Cost 15900
+Buying_89_Conditions 2
+Buying_89_Condition_0_Type Flag_Short
+Buying_89_Condition_0_ID 24202
+Buying_89_Condition_0_Value 500
+Buying_89_Condition_0_Allow_Unset 
+Buying_89_Condition_0_Logic Less_Than
+
+Buying_89_Condition_1_Type Flag_Short
+Buying_89_Condition_1_ID 24202
+Buying_89_Condition_1_Value 450
+Buying_89_Condition_1_Allow_Unset 
+Buying_89_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_89_Rewards 1
+Buying_89_Reward_0_Type Flag_Short
+Buying_89_Reward_0_ID 24202
+Buying_89_Reward_0_Value 1
+Buying_89_Reward_0_Modification Increment
+
+Buying_90_ID 1435
+Buying_90_Cost 16000
+Buying_90_Conditions 2
+Buying_90_Condition_0_Type Flag_Short
+Buying_90_Condition_0_ID 24202
+Buying_90_Condition_0_Value 550
+Buying_90_Condition_0_Allow_Unset 
+Buying_90_Condition_0_Logic Less_Than
+
+Buying_90_Condition_1_Type Flag_Short
+Buying_90_Condition_1_ID 24202
+Buying_90_Condition_1_Value 500
+Buying_90_Condition_1_Allow_Unset 
+Buying_90_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_90_Rewards 1
+Buying_90_Reward_0_Type Flag_Short
+Buying_90_Reward_0_ID 24202
+Buying_90_Reward_0_Value 1
+Buying_90_Reward_0_Modification Increment
+
+Buying_91_ID 1435
+Buying_91_Cost 16100
+Buying_91_Conditions 2
+Buying_91_Condition_0_Type Flag_Short
+Buying_91_Condition_0_ID 24202
+Buying_91_Condition_0_Value 600
+Buying_91_Condition_0_Allow_Unset 
+Buying_91_Condition_0_Logic Less_Than
+
+Buying_91_Condition_1_Type Flag_Short
+Buying_91_Condition_1_ID 24202
+Buying_91_Condition_1_Value 550
+Buying_91_Condition_1_Allow_Unset 
+Buying_91_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_91_Rewards 1
+Buying_91_Reward_0_Type Flag_Short
+Buying_91_Reward_0_ID 24202
+Buying_91_Reward_0_Value 1
+Buying_91_Reward_0_Modification Increment
+
+Buying_92_ID 1435
+Buying_92_Cost 16200
+Buying_92_Conditions 2
+Buying_92_Condition_0_Type Flag_Short
+Buying_92_Condition_0_ID 24202
+Buying_92_Condition_0_Value 650
+Buying_92_Condition_0_Allow_Unset 
+Buying_92_Condition_0_Logic Less_Than
+
+Buying_92_Condition_1_Type Flag_Short
+Buying_92_Condition_1_ID 24202
+Buying_92_Condition_1_Value 600
+Buying_92_Condition_1_Allow_Unset 
+Buying_92_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_92_Rewards 1
+Buying_92_Reward_0_Type Flag_Short
+Buying_92_Reward_0_ID 24202
+Buying_92_Reward_0_Value 1
+Buying_92_Reward_0_Modification Increment
+
+Buying_93_ID 1435
+Buying_93_Cost 16300
+Buying_93_Conditions 2
+Buying_93_Condition_0_Type Flag_Short
+Buying_93_Condition_0_ID 24202
+Buying_93_Condition_0_Value 700
+Buying_93_Condition_0_Allow_Unset 
+Buying_93_Condition_0_Logic Less_Than
+
+Buying_93_Condition_1_Type Flag_Short
+Buying_93_Condition_1_ID 24202
+Buying_93_Condition_1_Value 650
+Buying_93_Condition_1_Allow_Unset 
+Buying_93_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_93_Rewards 1
+Buying_93_Reward_0_Type Flag_Short
+Buying_93_Reward_0_ID 24202
+Buying_93_Reward_0_Value 1
+Buying_93_Reward_0_Modification Increment
+
+Buying_94_ID 1435
+Buying_94_Cost 16400
+Buying_94_Conditions 2
+Buying_94_Condition_0_Type Flag_Short
+Buying_94_Condition_0_ID 24202
+Buying_94_Condition_0_Value 750
+Buying_94_Condition_0_Allow_Unset 
+Buying_94_Condition_0_Logic Less_Than
+
+Buying_94_Condition_1_Type Flag_Short
+Buying_94_Condition_1_ID 24202
+Buying_94_Condition_1_Value 700
+Buying_94_Condition_1_Allow_Unset 
+Buying_94_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_94_Rewards 1
+Buying_94_Reward_0_Type Flag_Short
+Buying_94_Reward_0_ID 24202
+Buying_94_Reward_0_Value 1
+Buying_94_Reward_0_Modification Increment
+
+Buying_95_ID 1435
+Buying_95_Cost 16500
+Buying_95_Conditions 1
+Buying_95_Condition_0_Type Flag_Short
+Buying_95_Condition_0_ID 24202
+Buying_95_Condition_0_Value 750
+Buying_95_Condition_0_Allow_Unset 
+Buying_95_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_96_ID 43108
+Buying_96_Cost 165
+Buying_96_Conditions 2
+Buying_96_Condition_0_Type Flag_Short
+Buying_96_Condition_0_ID 24202
+Buying_96_Condition_0_Value 50
+Buying_96_Condition_0_Allow_Unset 
+Buying_96_Condition_0_Logic Less_Than
+
+Buying_96_Condition_1_Type Quest
+Buying_96_Condition_1_ID 24203
+Buying_96_Condition_1_Status Completed
+Buying_96_Condition_1_Logic Equal
+Buying_96_Condition_1_Ignore_NPC True
+
+Buying_96_Rewards 1
+Buying_96_Reward_0_Type Flag_Short
+Buying_96_Reward_0_ID 24202
+Buying_96_Reward_0_Value 1
+Buying_96_Reward_0_Modification Increment
+
+Buying_97_ID 43108
+Buying_97_Cost 166
+Buying_97_Conditions 3
+Buying_97_Condition_0_Type Flag_Short
+Buying_97_Condition_0_ID 24202
+Buying_97_Condition_0_Value 100
+Buying_97_Condition_0_Allow_Unset 
+Buying_97_Condition_0_Logic Less_Than
+
+Buying_97_Condition_1_Type Flag_Short
+Buying_97_Condition_1_ID 24202
+Buying_97_Condition_1_Value 50
+Buying_97_Condition_1_Allow_Unset 
+Buying_97_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_97_Condition_2_Type Quest
+Buying_97_Condition_2_ID 24203
+Buying_97_Condition_2_Status Completed
+Buying_97_Condition_2_Logic Equal
+Buying_97_Condition_2_Ignore_NPC True
+
+Buying_97_Rewards 1
+Buying_97_Reward_0_Type Flag_Short
+Buying_97_Reward_0_ID 24202
+Buying_97_Reward_0_Value 1
+Buying_97_Reward_0_Modification Increment
+
+Buying_98_ID 43108
+Buying_98_Cost 167
+Buying_98_Conditions 3
+Buying_98_Condition_0_Type Flag_Short
+Buying_98_Condition_0_ID 24202
+Buying_98_Condition_0_Value 150
+Buying_98_Condition_0_Allow_Unset 
+Buying_98_Condition_0_Logic Less_Than
+
+Buying_98_Condition_1_Type Flag_Short
+Buying_98_Condition_1_ID 24202
+Buying_98_Condition_1_Value 100
+Buying_98_Condition_1_Allow_Unset 
+Buying_98_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_98_Condition_2_Type Quest
+Buying_98_Condition_2_ID 24203
+Buying_98_Condition_2_Status Completed
+Buying_98_Condition_2_Logic Equal
+Buying_98_Condition_2_Ignore_NPC True
+
+Buying_98_Rewards 1
+Buying_98_Reward_0_Type Flag_Short
+Buying_98_Reward_0_ID 24202
+Buying_98_Reward_0_Value 1
+Buying_98_Reward_0_Modification Increment
+
+Buying_99_ID 43108
+Buying_99_Cost 168
+Buying_99_Conditions 3
+Buying_99_Condition_0_Type Flag_Short
+Buying_99_Condition_0_ID 24202
+Buying_99_Condition_0_Value 200
+Buying_99_Condition_0_Allow_Unset 
+Buying_99_Condition_0_Logic Less_Than
+
+Buying_99_Condition_1_Type Flag_Short
+Buying_99_Condition_1_ID 24202
+Buying_99_Condition_1_Value 150
+Buying_99_Condition_1_Allow_Unset 
+Buying_99_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_99_Condition_2_Type Quest
+Buying_99_Condition_2_ID 24203
+Buying_99_Condition_2_Status Completed
+Buying_99_Condition_2_Logic Equal
+Buying_99_Condition_2_Ignore_NPC True
+
+Buying_99_Rewards 1
+Buying_99_Reward_0_Type Flag_Short
+Buying_99_Reward_0_ID 24202
+Buying_99_Reward_0_Value 1
+Buying_99_Reward_0_Modification Increment
+
+Buying_100_ID 43108
+Buying_100_Cost 169
+Buying_100_Conditions 3
+Buying_100_Condition_0_Type Flag_Short
+Buying_100_Condition_0_ID 24202
+Buying_100_Condition_0_Value 250
+Buying_100_Condition_0_Allow_Unset 
+Buying_100_Condition_0_Logic Less_Than
+
+Buying_100_Condition_1_Type Flag_Short
+Buying_100_Condition_1_ID 24202
+Buying_100_Condition_1_Value 200
+Buying_100_Condition_1_Allow_Unset 
+Buying_100_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_100_Condition_2_Type Quest
+Buying_100_Condition_2_ID 24203
+Buying_100_Condition_2_Status Completed
+Buying_100_Condition_2_Logic Equal
+Buying_100_Condition_2_Ignore_NPC True
+
+Buying_100_Rewards 1
+Buying_100_Reward_0_Type Flag_Short
+Buying_100_Reward_0_ID 24202
+Buying_100_Reward_0_Value 1
+Buying_100_Reward_0_Modification Increment
+
+Buying_101_ID 43108
+Buying_101_Cost 170
+Buying_101_Conditions 3
+Buying_101_Condition_0_Type Flag_Short
+Buying_101_Condition_0_ID 24202
+Buying_101_Condition_0_Value 300
+Buying_101_Condition_0_Allow_Unset 
+Buying_101_Condition_0_Logic Less_Than
+
+Buying_101_Condition_1_Type Flag_Short
+Buying_101_Condition_1_ID 24202
+Buying_101_Condition_1_Value 250
+Buying_101_Condition_1_Allow_Unset 
+Buying_101_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_101_Condition_2_Type Quest
+Buying_101_Condition_2_ID 24203
+Buying_101_Condition_2_Status Completed
+Buying_101_Condition_2_Logic Equal
+Buying_101_Condition_2_Ignore_NPC True
+
+Buying_101_Rewards 1
+Buying_101_Reward_0_Type Flag_Short
+Buying_101_Reward_0_ID 24202
+Buying_101_Reward_0_Value 1
+Buying_101_Reward_0_Modification Increment
+
+Buying_102_ID 43108
+Buying_102_Cost 171
+Buying_102_Conditions 3
+Buying_102_Condition_0_Type Flag_Short
+Buying_102_Condition_0_ID 24202
+Buying_102_Condition_0_Value 350
+Buying_102_Condition_0_Allow_Unset 
+Buying_102_Condition_0_Logic Less_Than
+
+Buying_102_Condition_1_Type Flag_Short
+Buying_102_Condition_1_ID 24202
+Buying_102_Condition_1_Value 300
+Buying_102_Condition_1_Allow_Unset 
+Buying_102_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_102_Condition_2_Type Quest
+Buying_102_Condition_2_ID 24203
+Buying_102_Condition_2_Status Completed
+Buying_102_Condition_2_Logic Equal
+Buying_102_Condition_2_Ignore_NPC True
+
+Buying_102_Rewards 1
+Buying_102_Reward_0_Type Flag_Short
+Buying_102_Reward_0_ID 24202
+Buying_102_Reward_0_Value 1
+Buying_102_Reward_0_Modification Increment
+
+Buying_103_ID 43108
+Buying_103_Cost 172
+Buying_103_Conditions 3
+Buying_103_Condition_0_Type Flag_Short
+Buying_103_Condition_0_ID 24202
+Buying_103_Condition_0_Value 400
+Buying_103_Condition_0_Allow_Unset 
+Buying_103_Condition_0_Logic Less_Than
+
+Buying_103_Condition_1_Type Flag_Short
+Buying_103_Condition_1_ID 24202
+Buying_103_Condition_1_Value 350
+Buying_103_Condition_1_Allow_Unset 
+Buying_103_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_103_Condition_2_Type Quest
+Buying_103_Condition_2_ID 24203
+Buying_103_Condition_2_Status Completed
+Buying_103_Condition_2_Logic Equal
+Buying_103_Condition_2_Ignore_NPC True
+
+Buying_103_Rewards 1
+Buying_103_Reward_0_Type Flag_Short
+Buying_103_Reward_0_ID 24202
+Buying_103_Reward_0_Value 1
+Buying_103_Reward_0_Modification Increment
+
+Buying_104_ID 43108
+Buying_104_Cost 173
+Buying_104_Conditions 3
+Buying_104_Condition_0_Type Flag_Short
+Buying_104_Condition_0_ID 24202
+Buying_104_Condition_0_Value 450
+Buying_104_Condition_0_Allow_Unset 
+Buying_104_Condition_0_Logic Less_Than
+
+Buying_104_Condition_1_Type Flag_Short
+Buying_104_Condition_1_ID 24202
+Buying_104_Condition_1_Value 400
+Buying_104_Condition_1_Allow_Unset 
+Buying_104_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_104_Condition_2_Type Quest
+Buying_104_Condition_2_ID 24203
+Buying_104_Condition_2_Status Completed
+Buying_104_Condition_2_Logic Equal
+Buying_104_Condition_2_Ignore_NPC True
+
+Buying_104_Rewards 1
+Buying_104_Reward_0_Type Flag_Short
+Buying_104_Reward_0_ID 24202
+Buying_104_Reward_0_Value 1
+Buying_104_Reward_0_Modification Increment
+
+Buying_105_ID 43108
+Buying_105_Cost 174
+Buying_105_Conditions 3
+Buying_105_Condition_0_Type Flag_Short
+Buying_105_Condition_0_ID 24202
+Buying_105_Condition_0_Value 500
+Buying_105_Condition_0_Allow_Unset 
+Buying_105_Condition_0_Logic Less_Than
+
+Buying_105_Condition_1_Type Flag_Short
+Buying_105_Condition_1_ID 24202
+Buying_105_Condition_1_Value 450
+Buying_105_Condition_1_Allow_Unset 
+Buying_105_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_105_Condition_2_Type Quest
+Buying_105_Condition_2_ID 24203
+Buying_105_Condition_2_Status Completed
+Buying_105_Condition_2_Logic Equal
+Buying_105_Condition_2_Ignore_NPC True
+
+Buying_105_Rewards 1
+Buying_105_Reward_0_Type Flag_Short
+Buying_105_Reward_0_ID 24202
+Buying_105_Reward_0_Value 1
+Buying_105_Reward_0_Modification Increment
+
+Buying_106_ID 43108
+Buying_106_Cost 175
+Buying_106_Conditions 3
+Buying_106_Condition_0_Type Flag_Short
+Buying_106_Condition_0_ID 24202
+Buying_106_Condition_0_Value 550
+Buying_106_Condition_0_Allow_Unset 
+Buying_106_Condition_0_Logic Less_Than
+
+Buying_106_Condition_1_Type Flag_Short
+Buying_106_Condition_1_ID 24202
+Buying_106_Condition_1_Value 500
+Buying_106_Condition_1_Allow_Unset 
+Buying_106_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_106_Condition_2_Type Quest
+Buying_106_Condition_2_ID 24203
+Buying_106_Condition_2_Status Completed
+Buying_106_Condition_2_Logic Equal
+Buying_106_Condition_2_Ignore_NPC True
+
+Buying_106_Rewards 1
+Buying_106_Reward_0_Type Flag_Short
+Buying_106_Reward_0_ID 24202
+Buying_106_Reward_0_Value 1
+Buying_106_Reward_0_Modification Increment
+
+Buying_107_ID 43108
+Buying_107_Cost 176
+Buying_107_Conditions 3
+Buying_107_Condition_0_Type Flag_Short
+Buying_107_Condition_0_ID 24202
+Buying_107_Condition_0_Value 600
+Buying_107_Condition_0_Allow_Unset 
+Buying_107_Condition_0_Logic Less_Than
+
+Buying_107_Condition_1_Type Flag_Short
+Buying_107_Condition_1_ID 24202
+Buying_107_Condition_1_Value 550
+Buying_107_Condition_1_Allow_Unset 
+Buying_107_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_107_Condition_2_Type Quest
+Buying_107_Condition_2_ID 24203
+Buying_107_Condition_2_Status Completed
+Buying_107_Condition_2_Logic Equal
+Buying_107_Condition_2_Ignore_NPC True
+
+Buying_107_Rewards 1
+Buying_107_Reward_0_Type Flag_Short
+Buying_107_Reward_0_ID 24202
+Buying_107_Reward_0_Value 1
+Buying_107_Reward_0_Modification Increment
+
+Buying_108_ID 43108
+Buying_108_Cost 177
+Buying_108_Conditions 3
+Buying_108_Condition_0_Type Flag_Short
+Buying_108_Condition_0_ID 24202
+Buying_108_Condition_0_Value 650
+Buying_108_Condition_0_Allow_Unset 
+Buying_108_Condition_0_Logic Less_Than
+
+Buying_108_Condition_1_Type Flag_Short
+Buying_108_Condition_1_ID 24202
+Buying_108_Condition_1_Value 600
+Buying_108_Condition_1_Allow_Unset 
+Buying_108_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_108_Condition_2_Type Quest
+Buying_108_Condition_2_ID 24203
+Buying_108_Condition_2_Status Completed
+Buying_108_Condition_2_Logic Equal
+Buying_108_Condition_2_Ignore_NPC True
+
+Buying_108_Rewards 1
+Buying_108_Reward_0_Type Flag_Short
+Buying_108_Reward_0_ID 24202
+Buying_108_Reward_0_Value 1
+Buying_108_Reward_0_Modification Increment
+
+Buying_109_ID 43108
+Buying_109_Cost 178
+Buying_109_Conditions 3
+Buying_109_Condition_0_Type Flag_Short
+Buying_109_Condition_0_ID 24202
+Buying_109_Condition_0_Value 700
+Buying_109_Condition_0_Allow_Unset 
+Buying_109_Condition_0_Logic Less_Than
+
+Buying_109_Condition_1_Type Flag_Short
+Buying_109_Condition_1_ID 24202
+Buying_109_Condition_1_Value 650
+Buying_109_Condition_1_Allow_Unset 
+Buying_109_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_109_Condition_2_Type Quest
+Buying_109_Condition_2_ID 24203
+Buying_109_Condition_2_Status Completed
+Buying_109_Condition_2_Logic Equal
+Buying_109_Condition_2_Ignore_NPC True
+
+Buying_109_Rewards 1
+Buying_109_Reward_0_Type Flag_Short
+Buying_109_Reward_0_ID 24202
+Buying_109_Reward_0_Value 1
+Buying_109_Reward_0_Modification Increment
+
+Buying_110_ID 43108
+Buying_110_Cost 179
+Buying_110_Conditions 3
+Buying_110_Condition_0_Type Flag_Short
+Buying_110_Condition_0_ID 24202
+Buying_110_Condition_0_Value 750
+Buying_110_Condition_0_Allow_Unset 
+Buying_110_Condition_0_Logic Less_Than
+
+Buying_110_Condition_1_Type Flag_Short
+Buying_110_Condition_1_ID 24202
+Buying_110_Condition_1_Value 700
+Buying_110_Condition_1_Allow_Unset 
+Buying_110_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_110_Condition_2_Type Quest
+Buying_110_Condition_2_ID 24203
+Buying_110_Condition_2_Status Completed
+Buying_110_Condition_2_Logic Equal
+Buying_110_Condition_2_Ignore_NPC True
+
+Buying_110_Rewards 1
+Buying_110_Reward_0_Type Flag_Short
+Buying_110_Reward_0_ID 24202
+Buying_110_Reward_0_Value 1
+Buying_110_Reward_0_Modification Increment
+
+Buying_111_ID 43108
+Buying_111_Cost 180
+Buying_111_Conditions 2
+Buying_111_Condition_0_Type Flag_Short
+Buying_111_Condition_0_ID 24202
+Buying_111_Condition_0_Value 750
+Buying_111_Condition_0_Allow_Unset 
+Buying_111_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_111_Condition_1_Type Quest
+Buying_111_Condition_1_ID 24203
+Buying_111_Condition_1_Status Completed
+Buying_111_Condition_1_Logic Equal
+Buying_111_Condition_1_Ignore_NPC True
+
+Buying_112_ID 43133
+Buying_112_Cost 165
+Buying_112_Conditions 2
+Buying_112_Condition_0_Type Flag_Short
+Buying_112_Condition_0_ID 24202
+Buying_112_Condition_0_Value 50
+Buying_112_Condition_0_Allow_Unset 
+Buying_112_Condition_0_Logic Less_Than
+
+Buying_112_Condition_1_Type Quest
+Buying_112_Condition_1_ID 24203
+Buying_112_Condition_1_Status Completed
+Buying_112_Condition_1_Logic Equal
+Buying_112_Condition_1_Ignore_NPC True
+
+Buying_112_Rewards 1
+Buying_112_Reward_0_Type Flag_Short
+Buying_112_Reward_0_ID 24202
+Buying_112_Reward_0_Value 1
+Buying_112_Reward_0_Modification Increment
+
+Buying_113_ID 43133
+Buying_113_Cost 166
+Buying_113_Conditions 3
+Buying_113_Condition_0_Type Flag_Short
+Buying_113_Condition_0_ID 24202
+Buying_113_Condition_0_Value 100
+Buying_113_Condition_0_Allow_Unset 
+Buying_113_Condition_0_Logic Less_Than
+
+Buying_113_Condition_1_Type Flag_Short
+Buying_113_Condition_1_ID 24202
+Buying_113_Condition_1_Value 50
+Buying_113_Condition_1_Allow_Unset 
+Buying_113_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_113_Condition_2_Type Quest
+Buying_113_Condition_2_ID 24203
+Buying_113_Condition_2_Status Completed
+Buying_113_Condition_2_Logic Equal
+Buying_113_Condition_2_Ignore_NPC True
+
+Buying_113_Rewards 1
+Buying_113_Reward_0_Type Flag_Short
+Buying_113_Reward_0_ID 24202
+Buying_113_Reward_0_Value 1
+Buying_113_Reward_0_Modification Increment
+
+Buying_114_ID 43133
+Buying_114_Cost 167
+Buying_114_Conditions 3
+Buying_114_Condition_0_Type Flag_Short
+Buying_114_Condition_0_ID 24202
+Buying_114_Condition_0_Value 150
+Buying_114_Condition_0_Allow_Unset 
+Buying_114_Condition_0_Logic Less_Than
+
+Buying_114_Condition_1_Type Flag_Short
+Buying_114_Condition_1_ID 24202
+Buying_114_Condition_1_Value 100
+Buying_114_Condition_1_Allow_Unset 
+Buying_114_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_114_Condition_2_Type Quest
+Buying_114_Condition_2_ID 24203
+Buying_114_Condition_2_Status Completed
+Buying_114_Condition_2_Logic Equal
+Buying_114_Condition_2_Ignore_NPC True
+
+Buying_114_Rewards 1
+Buying_114_Reward_0_Type Flag_Short
+Buying_114_Reward_0_ID 24202
+Buying_114_Reward_0_Value 1
+Buying_114_Reward_0_Modification Increment
+
+Buying_115_ID 43133
+Buying_115_Cost 168
+Buying_115_Conditions 3
+Buying_115_Condition_0_Type Flag_Short
+Buying_115_Condition_0_ID 24202
+Buying_115_Condition_0_Value 200
+Buying_115_Condition_0_Allow_Unset 
+Buying_115_Condition_0_Logic Less_Than
+
+Buying_115_Condition_1_Type Flag_Short
+Buying_115_Condition_1_ID 24202
+Buying_115_Condition_1_Value 150
+Buying_115_Condition_1_Allow_Unset 
+Buying_115_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_115_Condition_2_Type Quest
+Buying_115_Condition_2_ID 24203
+Buying_115_Condition_2_Status Completed
+Buying_115_Condition_2_Logic Equal
+Buying_115_Condition_2_Ignore_NPC True
+
+Buying_115_Rewards 1
+Buying_115_Reward_0_Type Flag_Short
+Buying_115_Reward_0_ID 24202
+Buying_115_Reward_0_Value 1
+Buying_115_Reward_0_Modification Increment
+
+Buying_116_ID 43133
+Buying_116_Cost 169
+Buying_116_Conditions 3
+Buying_116_Condition_0_Type Flag_Short
+Buying_116_Condition_0_ID 24202
+Buying_116_Condition_0_Value 250
+Buying_116_Condition_0_Allow_Unset 
+Buying_116_Condition_0_Logic Less_Than
+
+Buying_116_Condition_1_Type Flag_Short
+Buying_116_Condition_1_ID 24202
+Buying_116_Condition_1_Value 200
+Buying_116_Condition_1_Allow_Unset 
+Buying_116_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_116_Condition_2_Type Quest
+Buying_116_Condition_2_ID 24203
+Buying_116_Condition_2_Status Completed
+Buying_116_Condition_2_Logic Equal
+Buying_116_Condition_2_Ignore_NPC True
+
+Buying_116_Rewards 1
+Buying_116_Reward_0_Type Flag_Short
+Buying_116_Reward_0_ID 24202
+Buying_116_Reward_0_Value 1
+Buying_116_Reward_0_Modification Increment
+
+Buying_117_ID 43133
+Buying_117_Cost 170
+Buying_117_Conditions 3
+Buying_117_Condition_0_Type Flag_Short
+Buying_117_Condition_0_ID 24202
+Buying_117_Condition_0_Value 300
+Buying_117_Condition_0_Allow_Unset 
+Buying_117_Condition_0_Logic Less_Than
+
+Buying_117_Condition_1_Type Flag_Short
+Buying_117_Condition_1_ID 24202
+Buying_117_Condition_1_Value 250
+Buying_117_Condition_1_Allow_Unset 
+Buying_117_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_117_Condition_2_Type Quest
+Buying_117_Condition_2_ID 24203
+Buying_117_Condition_2_Status Completed
+Buying_117_Condition_2_Logic Equal
+Buying_117_Condition_2_Ignore_NPC True
+
+Buying_117_Rewards 1
+Buying_117_Reward_0_Type Flag_Short
+Buying_117_Reward_0_ID 24202
+Buying_117_Reward_0_Value 1
+Buying_117_Reward_0_Modification Increment
+
+Buying_118_ID 43133
+Buying_118_Cost 171
+Buying_118_Conditions 3
+Buying_118_Condition_0_Type Flag_Short
+Buying_118_Condition_0_ID 24202
+Buying_118_Condition_0_Value 350
+Buying_118_Condition_0_Allow_Unset 
+Buying_118_Condition_0_Logic Less_Than
+
+Buying_118_Condition_1_Type Flag_Short
+Buying_118_Condition_1_ID 24202
+Buying_118_Condition_1_Value 300
+Buying_118_Condition_1_Allow_Unset 
+Buying_118_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_118_Condition_2_Type Quest
+Buying_118_Condition_2_ID 24203
+Buying_118_Condition_2_Status Completed
+Buying_118_Condition_2_Logic Equal
+Buying_118_Condition_2_Ignore_NPC True
+
+Buying_118_Rewards 1
+Buying_118_Reward_0_Type Flag_Short
+Buying_118_Reward_0_ID 24202
+Buying_118_Reward_0_Value 1
+Buying_118_Reward_0_Modification Increment
+
+Buying_119_ID 43133
+Buying_119_Cost 172
+Buying_119_Conditions 3
+Buying_119_Condition_0_Type Flag_Short
+Buying_119_Condition_0_ID 24202
+Buying_119_Condition_0_Value 400
+Buying_119_Condition_0_Allow_Unset 
+Buying_119_Condition_0_Logic Less_Than
+
+Buying_119_Condition_1_Type Flag_Short
+Buying_119_Condition_1_ID 24202
+Buying_119_Condition_1_Value 350
+Buying_119_Condition_1_Allow_Unset 
+Buying_119_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_119_Condition_2_Type Quest
+Buying_119_Condition_2_ID 24203
+Buying_119_Condition_2_Status Completed
+Buying_119_Condition_2_Logic Equal
+Buying_119_Condition_2_Ignore_NPC True
+
+Buying_119_Rewards 1
+Buying_119_Reward_0_Type Flag_Short
+Buying_119_Reward_0_ID 24202
+Buying_119_Reward_0_Value 1
+Buying_119_Reward_0_Modification Increment
+
+Buying_120_ID 43133
+Buying_120_Cost 173
+Buying_120_Conditions 3
+Buying_120_Condition_0_Type Flag_Short
+Buying_120_Condition_0_ID 24202
+Buying_120_Condition_0_Value 450
+Buying_120_Condition_0_Allow_Unset 
+Buying_120_Condition_0_Logic Less_Than
+
+Buying_120_Condition_1_Type Flag_Short
+Buying_120_Condition_1_ID 24202
+Buying_120_Condition_1_Value 400
+Buying_120_Condition_1_Allow_Unset 
+Buying_120_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_120_Condition_2_Type Quest
+Buying_120_Condition_2_ID 24203
+Buying_120_Condition_2_Status Completed
+Buying_120_Condition_2_Logic Equal
+Buying_120_Condition_2_Ignore_NPC True
+
+Buying_120_Rewards 1
+Buying_120_Reward_0_Type Flag_Short
+Buying_120_Reward_0_ID 24202
+Buying_120_Reward_0_Value 1
+Buying_120_Reward_0_Modification Increment
+
+Buying_121_ID 43133
+Buying_121_Cost 174
+Buying_121_Conditions 3
+Buying_121_Condition_0_Type Flag_Short
+Buying_121_Condition_0_ID 24202
+Buying_121_Condition_0_Value 500
+Buying_121_Condition_0_Allow_Unset 
+Buying_121_Condition_0_Logic Less_Than
+
+Buying_121_Condition_1_Type Flag_Short
+Buying_121_Condition_1_ID 24202
+Buying_121_Condition_1_Value 450
+Buying_121_Condition_1_Allow_Unset 
+Buying_121_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_121_Condition_2_Type Quest
+Buying_121_Condition_2_ID 24203
+Buying_121_Condition_2_Status Completed
+Buying_121_Condition_2_Logic Equal
+Buying_121_Condition_2_Ignore_NPC True
+
+Buying_121_Rewards 1
+Buying_121_Reward_0_Type Flag_Short
+Buying_121_Reward_0_ID 24202
+Buying_121_Reward_0_Value 1
+Buying_121_Reward_0_Modification Increment
+
+Buying_122_ID 43133
+Buying_122_Cost 175
+Buying_122_Conditions 3
+Buying_122_Condition_0_Type Flag_Short
+Buying_122_Condition_0_ID 24202
+Buying_122_Condition_0_Value 550
+Buying_122_Condition_0_Allow_Unset 
+Buying_122_Condition_0_Logic Less_Than
+
+Buying_122_Condition_1_Type Flag_Short
+Buying_122_Condition_1_ID 24202
+Buying_122_Condition_1_Value 500
+Buying_122_Condition_1_Allow_Unset 
+Buying_122_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_122_Condition_2_Type Quest
+Buying_122_Condition_2_ID 24203
+Buying_122_Condition_2_Status Completed
+Buying_122_Condition_2_Logic Equal
+Buying_122_Condition_2_Ignore_NPC True
+
+Buying_122_Rewards 1
+Buying_122_Reward_0_Type Flag_Short
+Buying_122_Reward_0_ID 24202
+Buying_122_Reward_0_Value 1
+Buying_122_Reward_0_Modification Increment
+
+Buying_123_ID 43133
+Buying_123_Cost 176
+Buying_123_Conditions 3
+Buying_123_Condition_0_Type Flag_Short
+Buying_123_Condition_0_ID 24202
+Buying_123_Condition_0_Value 600
+Buying_123_Condition_0_Allow_Unset 
+Buying_123_Condition_0_Logic Less_Than
+
+Buying_123_Condition_1_Type Flag_Short
+Buying_123_Condition_1_ID 24202
+Buying_123_Condition_1_Value 550
+Buying_123_Condition_1_Allow_Unset 
+Buying_123_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_123_Condition_2_Type Quest
+Buying_123_Condition_2_ID 24203
+Buying_123_Condition_2_Status Completed
+Buying_123_Condition_2_Logic Equal
+Buying_123_Condition_2_Ignore_NPC True
+
+Buying_123_Rewards 1
+Buying_123_Reward_0_Type Flag_Short
+Buying_123_Reward_0_ID 24202
+Buying_123_Reward_0_Value 1
+Buying_123_Reward_0_Modification Increment
+
+Buying_124_ID 43133
+Buying_124_Cost 177
+Buying_124_Conditions 3
+Buying_124_Condition_0_Type Flag_Short
+Buying_124_Condition_0_ID 24202
+Buying_124_Condition_0_Value 650
+Buying_124_Condition_0_Allow_Unset 
+Buying_124_Condition_0_Logic Less_Than
+
+Buying_124_Condition_1_Type Flag_Short
+Buying_124_Condition_1_ID 24202
+Buying_124_Condition_1_Value 600
+Buying_124_Condition_1_Allow_Unset 
+Buying_124_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_124_Condition_2_Type Quest
+Buying_124_Condition_2_ID 24203
+Buying_124_Condition_2_Status Completed
+Buying_124_Condition_2_Logic Equal
+Buying_124_Condition_2_Ignore_NPC True
+
+Buying_124_Rewards 1
+Buying_124_Reward_0_Type Flag_Short
+Buying_124_Reward_0_ID 24202
+Buying_124_Reward_0_Value 1
+Buying_124_Reward_0_Modification Increment
+
+Buying_125_ID 43133
+Buying_125_Cost 178
+Buying_125_Conditions 3
+Buying_125_Condition_0_Type Flag_Short
+Buying_125_Condition_0_ID 24202
+Buying_125_Condition_0_Value 700
+Buying_125_Condition_0_Allow_Unset 
+Buying_125_Condition_0_Logic Less_Than
+
+Buying_125_Condition_1_Type Flag_Short
+Buying_125_Condition_1_ID 24202
+Buying_125_Condition_1_Value 650
+Buying_125_Condition_1_Allow_Unset 
+Buying_125_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_125_Condition_2_Type Quest
+Buying_125_Condition_2_ID 24203
+Buying_125_Condition_2_Status Completed
+Buying_125_Condition_2_Logic Equal
+Buying_125_Condition_2_Ignore_NPC True
+
+Buying_125_Rewards 1
+Buying_125_Reward_0_Type Flag_Short
+Buying_125_Reward_0_ID 24202
+Buying_125_Reward_0_Value 1
+Buying_125_Reward_0_Modification Increment
+
+Buying_126_ID 43133
+Buying_126_Cost 179
+Buying_126_Conditions 3
+Buying_126_Condition_0_Type Flag_Short
+Buying_126_Condition_0_ID 24202
+Buying_126_Condition_0_Value 750
+Buying_126_Condition_0_Allow_Unset 
+Buying_126_Condition_0_Logic Less_Than
+
+Buying_126_Condition_1_Type Flag_Short
+Buying_126_Condition_1_ID 24202
+Buying_126_Condition_1_Value 700
+Buying_126_Condition_1_Allow_Unset 
+Buying_126_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_126_Condition_2_Type Quest
+Buying_126_Condition_2_ID 24203
+Buying_126_Condition_2_Status Completed
+Buying_126_Condition_2_Logic Equal
+Buying_126_Condition_2_Ignore_NPC True
+
+Buying_126_Rewards 1
+Buying_126_Reward_0_Type Flag_Short
+Buying_126_Reward_0_ID 24202
+Buying_126_Reward_0_Value 1
+Buying_126_Reward_0_Modification Increment
+
+Buying_127_ID 43133
+Buying_127_Cost 180
+Buying_127_Conditions 2
+Buying_127_Condition_0_Type Flag_Short
+Buying_127_Condition_0_ID 24202
+Buying_127_Condition_0_Value 750
+Buying_127_Condition_0_Allow_Unset 
+Buying_127_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_127_Condition_1_Type Quest
+Buying_127_Condition_1_ID 24203
+Buying_127_Condition_1_Status Completed
+Buying_127_Condition_1_Logic Equal
+Buying_127_Condition_1_Ignore_NPC True
+
+Buying_128_ID 43118
+Buying_128_Cost 180
+Buying_128_Conditions 2
+Buying_128_Condition_0_Type Flag_Short
+Buying_128_Condition_0_ID 24202
+Buying_128_Condition_0_Value 50
+Buying_128_Condition_0_Allow_Unset 
+Buying_128_Condition_0_Logic Less_Than
+
+Buying_128_Condition_1_Type Quest
+Buying_128_Condition_1_ID 24203
+Buying_128_Condition_1_Status Completed
+Buying_128_Condition_1_Logic Equal
+Buying_128_Condition_1_Ignore_NPC True
+
+Buying_128_Rewards 1
+Buying_128_Reward_0_Type Flag_Short
+Buying_128_Reward_0_ID 24202
+Buying_128_Reward_0_Value 1
+Buying_128_Reward_0_Modification Increment
+
+Buying_129_ID 43118
+Buying_129_Cost 181
+Buying_129_Conditions 3
+Buying_129_Condition_0_Type Flag_Short
+Buying_129_Condition_0_ID 24202
+Buying_129_Condition_0_Value 100
+Buying_129_Condition_0_Allow_Unset 
+Buying_129_Condition_0_Logic Less_Than
+
+Buying_129_Condition_1_Type Flag_Short
+Buying_129_Condition_1_ID 24202
+Buying_129_Condition_1_Value 50
+Buying_129_Condition_1_Allow_Unset 
+Buying_129_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_129_Condition_2_Type Quest
+Buying_129_Condition_2_ID 24203
+Buying_129_Condition_2_Status Completed
+Buying_129_Condition_2_Logic Equal
+Buying_129_Condition_2_Ignore_NPC True
+
+Buying_129_Rewards 1
+Buying_129_Reward_0_Type Flag_Short
+Buying_129_Reward_0_ID 24202
+Buying_129_Reward_0_Value 1
+Buying_129_Reward_0_Modification Increment
+
+Buying_130_ID 43118
+Buying_130_Cost 182
+Buying_130_Conditions 3
+Buying_130_Condition_0_Type Flag_Short
+Buying_130_Condition_0_ID 24202
+Buying_130_Condition_0_Value 150
+Buying_130_Condition_0_Allow_Unset 
+Buying_130_Condition_0_Logic Less_Than
+
+Buying_130_Condition_1_Type Flag_Short
+Buying_130_Condition_1_ID 24202
+Buying_130_Condition_1_Value 100
+Buying_130_Condition_1_Allow_Unset 
+Buying_130_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_130_Condition_2_Type Quest
+Buying_130_Condition_2_ID 24203
+Buying_130_Condition_2_Status Completed
+Buying_130_Condition_2_Logic Equal
+Buying_130_Condition_2_Ignore_NPC True
+
+Buying_130_Rewards 1
+Buying_130_Reward_0_Type Flag_Short
+Buying_130_Reward_0_ID 24202
+Buying_130_Reward_0_Value 1
+Buying_130_Reward_0_Modification Increment
+
+Buying_131_ID 43118
+Buying_131_Cost 183
+Buying_131_Conditions 3
+Buying_131_Condition_0_Type Flag_Short
+Buying_131_Condition_0_ID 24202
+Buying_131_Condition_0_Value 200
+Buying_131_Condition_0_Allow_Unset 
+Buying_131_Condition_0_Logic Less_Than
+
+Buying_131_Condition_1_Type Flag_Short
+Buying_131_Condition_1_ID 24202
+Buying_131_Condition_1_Value 150
+Buying_131_Condition_1_Allow_Unset 
+Buying_131_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_131_Condition_2_Type Quest
+Buying_131_Condition_2_ID 24203
+Buying_131_Condition_2_Status Completed
+Buying_131_Condition_2_Logic Equal
+Buying_131_Condition_2_Ignore_NPC True
+
+Buying_131_Rewards 1
+Buying_131_Reward_0_Type Flag_Short
+Buying_131_Reward_0_ID 24202
+Buying_131_Reward_0_Value 1
+Buying_131_Reward_0_Modification Increment
+
+Buying_132_ID 43118
+Buying_132_Cost 184
+Buying_132_Conditions 3
+Buying_132_Condition_0_Type Flag_Short
+Buying_132_Condition_0_ID 24202
+Buying_132_Condition_0_Value 250
+Buying_132_Condition_0_Allow_Unset 
+Buying_132_Condition_0_Logic Less_Than
+
+Buying_132_Condition_1_Type Flag_Short
+Buying_132_Condition_1_ID 24202
+Buying_132_Condition_1_Value 200
+Buying_132_Condition_1_Allow_Unset 
+Buying_132_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_132_Condition_2_Type Quest
+Buying_132_Condition_2_ID 24203
+Buying_132_Condition_2_Status Completed
+Buying_132_Condition_2_Logic Equal
+Buying_132_Condition_2_Ignore_NPC True
+
+Buying_132_Rewards 1
+Buying_132_Reward_0_Type Flag_Short
+Buying_132_Reward_0_ID 24202
+Buying_132_Reward_0_Value 1
+Buying_132_Reward_0_Modification Increment
+
+Buying_133_ID 43118
+Buying_133_Cost 185
+Buying_133_Conditions 3
+Buying_133_Condition_0_Type Flag_Short
+Buying_133_Condition_0_ID 24202
+Buying_133_Condition_0_Value 300
+Buying_133_Condition_0_Allow_Unset 
+Buying_133_Condition_0_Logic Less_Than
+
+Buying_133_Condition_1_Type Flag_Short
+Buying_133_Condition_1_ID 24202
+Buying_133_Condition_1_Value 250
+Buying_133_Condition_1_Allow_Unset 
+Buying_133_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_133_Condition_2_Type Quest
+Buying_133_Condition_2_ID 24203
+Buying_133_Condition_2_Status Completed
+Buying_133_Condition_2_Logic Equal
+Buying_133_Condition_2_Ignore_NPC True
+
+Buying_133_Rewards 1
+Buying_133_Reward_0_Type Flag_Short
+Buying_133_Reward_0_ID 24202
+Buying_133_Reward_0_Value 1
+Buying_133_Reward_0_Modification Increment
+
+Buying_134_ID 43118
+Buying_134_Cost 186
+Buying_134_Conditions 3
+Buying_134_Condition_0_Type Flag_Short
+Buying_134_Condition_0_ID 24202
+Buying_134_Condition_0_Value 350
+Buying_134_Condition_0_Allow_Unset 
+Buying_134_Condition_0_Logic Less_Than
+
+Buying_134_Condition_1_Type Flag_Short
+Buying_134_Condition_1_ID 24202
+Buying_134_Condition_1_Value 300
+Buying_134_Condition_1_Allow_Unset 
+Buying_134_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_134_Condition_2_Type Quest
+Buying_134_Condition_2_ID 24203
+Buying_134_Condition_2_Status Completed
+Buying_134_Condition_2_Logic Equal
+Buying_134_Condition_2_Ignore_NPC True
+
+Buying_134_Rewards 1
+Buying_134_Reward_0_Type Flag_Short
+Buying_134_Reward_0_ID 24202
+Buying_134_Reward_0_Value 1
+Buying_134_Reward_0_Modification Increment
+
+Buying_135_ID 43118
+Buying_135_Cost 187
+Buying_135_Conditions 3
+Buying_135_Condition_0_Type Flag_Short
+Buying_135_Condition_0_ID 24202
+Buying_135_Condition_0_Value 400
+Buying_135_Condition_0_Allow_Unset 
+Buying_135_Condition_0_Logic Less_Than
+
+Buying_135_Condition_1_Type Flag_Short
+Buying_135_Condition_1_ID 24202
+Buying_135_Condition_1_Value 350
+Buying_135_Condition_1_Allow_Unset 
+Buying_135_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_135_Condition_2_Type Quest
+Buying_135_Condition_2_ID 24203
+Buying_135_Condition_2_Status Completed
+Buying_135_Condition_2_Logic Equal
+Buying_135_Condition_2_Ignore_NPC True
+
+Buying_135_Rewards 1
+Buying_135_Reward_0_Type Flag_Short
+Buying_135_Reward_0_ID 24202
+Buying_135_Reward_0_Value 1
+Buying_135_Reward_0_Modification Increment
+
+Buying_136_ID 43118
+Buying_136_Cost 188
+Buying_136_Conditions 3
+Buying_136_Condition_0_Type Flag_Short
+Buying_136_Condition_0_ID 24202
+Buying_136_Condition_0_Value 450
+Buying_136_Condition_0_Allow_Unset 
+Buying_136_Condition_0_Logic Less_Than
+
+Buying_136_Condition_1_Type Flag_Short
+Buying_136_Condition_1_ID 24202
+Buying_136_Condition_1_Value 400
+Buying_136_Condition_1_Allow_Unset 
+Buying_136_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_136_Condition_2_Type Quest
+Buying_136_Condition_2_ID 24203
+Buying_136_Condition_2_Status Completed
+Buying_136_Condition_2_Logic Equal
+Buying_136_Condition_2_Ignore_NPC True
+
+Buying_136_Rewards 1
+Buying_136_Reward_0_Type Flag_Short
+Buying_136_Reward_0_ID 24202
+Buying_136_Reward_0_Value 1
+Buying_136_Reward_0_Modification Increment
+
+Buying_137_ID 43118
+Buying_137_Cost 189
+Buying_137_Conditions 3
+Buying_137_Condition_0_Type Flag_Short
+Buying_137_Condition_0_ID 24202
+Buying_137_Condition_0_Value 500
+Buying_137_Condition_0_Allow_Unset 
+Buying_137_Condition_0_Logic Less_Than
+
+Buying_137_Condition_1_Type Flag_Short
+Buying_137_Condition_1_ID 24202
+Buying_137_Condition_1_Value 450
+Buying_137_Condition_1_Allow_Unset 
+Buying_137_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_137_Condition_2_Type Quest
+Buying_137_Condition_2_ID 24203
+Buying_137_Condition_2_Status Completed
+Buying_137_Condition_2_Logic Equal
+Buying_137_Condition_2_Ignore_NPC True
+
+Buying_137_Rewards 1
+Buying_137_Reward_0_Type Flag_Short
+Buying_137_Reward_0_ID 24202
+Buying_137_Reward_0_Value 1
+Buying_137_Reward_0_Modification Increment
+
+Buying_138_ID 43118
+Buying_138_Cost 190
+Buying_138_Conditions 3
+Buying_138_Condition_0_Type Flag_Short
+Buying_138_Condition_0_ID 24202
+Buying_138_Condition_0_Value 550
+Buying_138_Condition_0_Allow_Unset 
+Buying_138_Condition_0_Logic Less_Than
+
+Buying_138_Condition_1_Type Flag_Short
+Buying_138_Condition_1_ID 24202
+Buying_138_Condition_1_Value 500
+Buying_138_Condition_1_Allow_Unset 
+Buying_138_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_138_Condition_2_Type Quest
+Buying_138_Condition_2_ID 24203
+Buying_138_Condition_2_Status Completed
+Buying_138_Condition_2_Logic Equal
+Buying_138_Condition_2_Ignore_NPC True
+
+Buying_138_Rewards 1
+Buying_138_Reward_0_Type Flag_Short
+Buying_138_Reward_0_ID 24202
+Buying_138_Reward_0_Value 1
+Buying_138_Reward_0_Modification Increment
+
+Buying_139_ID 43118
+Buying_139_Cost 191
+Buying_139_Conditions 3
+Buying_139_Condition_0_Type Flag_Short
+Buying_139_Condition_0_ID 24202
+Buying_139_Condition_0_Value 600
+Buying_139_Condition_0_Allow_Unset 
+Buying_139_Condition_0_Logic Less_Than
+
+Buying_139_Condition_1_Type Flag_Short
+Buying_139_Condition_1_ID 24202
+Buying_139_Condition_1_Value 550
+Buying_139_Condition_1_Allow_Unset 
+Buying_139_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_139_Condition_2_Type Quest
+Buying_139_Condition_2_ID 24203
+Buying_139_Condition_2_Status Completed
+Buying_139_Condition_2_Logic Equal
+Buying_139_Condition_2_Ignore_NPC True
+
+Buying_139_Rewards 1
+Buying_139_Reward_0_Type Flag_Short
+Buying_139_Reward_0_ID 24202
+Buying_139_Reward_0_Value 1
+Buying_139_Reward_0_Modification Increment
+
+Buying_140_ID 43118
+Buying_140_Cost 192
+Buying_140_Conditions 3
+Buying_140_Condition_0_Type Flag_Short
+Buying_140_Condition_0_ID 24202
+Buying_140_Condition_0_Value 650
+Buying_140_Condition_0_Allow_Unset 
+Buying_140_Condition_0_Logic Less_Than
+
+Buying_140_Condition_1_Type Flag_Short
+Buying_140_Condition_1_ID 24202
+Buying_140_Condition_1_Value 600
+Buying_140_Condition_1_Allow_Unset 
+Buying_140_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_140_Condition_2_Type Quest
+Buying_140_Condition_2_ID 24203
+Buying_140_Condition_2_Status Completed
+Buying_140_Condition_2_Logic Equal
+Buying_140_Condition_2_Ignore_NPC True
+
+Buying_140_Rewards 1
+Buying_140_Reward_0_Type Flag_Short
+Buying_140_Reward_0_ID 24202
+Buying_140_Reward_0_Value 1
+Buying_140_Reward_0_Modification Increment
+
+Buying_141_ID 43118
+Buying_141_Cost 193
+Buying_141_Conditions 3
+Buying_141_Condition_0_Type Flag_Short
+Buying_141_Condition_0_ID 24202
+Buying_141_Condition_0_Value 700
+Buying_141_Condition_0_Allow_Unset 
+Buying_141_Condition_0_Logic Less_Than
+
+Buying_141_Condition_1_Type Flag_Short
+Buying_141_Condition_1_ID 24202
+Buying_141_Condition_1_Value 650
+Buying_141_Condition_1_Allow_Unset 
+Buying_141_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_141_Condition_2_Type Quest
+Buying_141_Condition_2_ID 24203
+Buying_141_Condition_2_Status Completed
+Buying_141_Condition_2_Logic Equal
+Buying_141_Condition_2_Ignore_NPC True
+
+Buying_141_Rewards 1
+Buying_141_Reward_0_Type Flag_Short
+Buying_141_Reward_0_ID 24202
+Buying_141_Reward_0_Value 1
+Buying_141_Reward_0_Modification Increment
+
+Buying_142_ID 43118
+Buying_142_Cost 194
+Buying_142_Conditions 3
+Buying_142_Condition_0_Type Flag_Short
+Buying_142_Condition_0_ID 24202
+Buying_142_Condition_0_Value 750
+Buying_142_Condition_0_Allow_Unset 
+Buying_142_Condition_0_Logic Less_Than
+
+Buying_142_Condition_1_Type Flag_Short
+Buying_142_Condition_1_ID 24202
+Buying_142_Condition_1_Value 700
+Buying_142_Condition_1_Allow_Unset 
+Buying_142_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_142_Condition_2_Type Quest
+Buying_142_Condition_2_ID 24203
+Buying_142_Condition_2_Status Completed
+Buying_142_Condition_2_Logic Equal
+Buying_142_Condition_2_Ignore_NPC True
+
+Buying_142_Rewards 1
+Buying_142_Reward_0_Type Flag_Short
+Buying_142_Reward_0_ID 24202
+Buying_142_Reward_0_Value 1
+Buying_142_Reward_0_Modification Increment
+
+Buying_143_ID 43118
+Buying_143_Cost 195
+Buying_143_Conditions 2
+Buying_143_Condition_0_Type Flag_Short
+Buying_143_Condition_0_ID 24202
+Buying_143_Condition_0_Value 750
+Buying_143_Condition_0_Allow_Unset 
+Buying_143_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_143_Condition_1_Type Quest
+Buying_143_Condition_1_ID 24203
+Buying_143_Condition_1_Status Completed
+Buying_143_Condition_1_Logic Equal
+Buying_143_Condition_1_Ignore_NPC True
+
+Buying_144_ID 43131
+Buying_144_Cost 180
+Buying_144_Conditions 2
+Buying_144_Condition_0_Type Flag_Short
+Buying_144_Condition_0_ID 24202
+Buying_144_Condition_0_Value 50
+Buying_144_Condition_0_Allow_Unset 
+Buying_144_Condition_0_Logic Less_Than
+
+Buying_144_Condition_1_Type Quest
+Buying_144_Condition_1_ID 24203
+Buying_144_Condition_1_Status Completed
+Buying_144_Condition_1_Logic Equal
+Buying_144_Condition_1_Ignore_NPC True
+
+Buying_144_Rewards 1
+Buying_144_Reward_0_Type Flag_Short
+Buying_144_Reward_0_ID 24202
+Buying_144_Reward_0_Value 1
+Buying_144_Reward_0_Modification Increment
+
+Buying_145_ID 43131
+Buying_145_Cost 181
+Buying_145_Conditions 3
+Buying_145_Condition_0_Type Flag_Short
+Buying_145_Condition_0_ID 24202
+Buying_145_Condition_0_Value 100
+Buying_145_Condition_0_Allow_Unset 
+Buying_145_Condition_0_Logic Less_Than
+
+Buying_145_Condition_1_Type Flag_Short
+Buying_145_Condition_1_ID 24202
+Buying_145_Condition_1_Value 50
+Buying_145_Condition_1_Allow_Unset 
+Buying_145_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_145_Condition_2_Type Quest
+Buying_145_Condition_2_ID 24203
+Buying_145_Condition_2_Status Completed
+Buying_145_Condition_2_Logic Equal
+Buying_145_Condition_2_Ignore_NPC True
+
+Buying_145_Rewards 1
+Buying_145_Reward_0_Type Flag_Short
+Buying_145_Reward_0_ID 24202
+Buying_145_Reward_0_Value 1
+Buying_145_Reward_0_Modification Increment
+
+Buying_146_ID 43131
+Buying_146_Cost 182
+Buying_146_Conditions 3
+Buying_146_Condition_0_Type Flag_Short
+Buying_146_Condition_0_ID 24202
+Buying_146_Condition_0_Value 150
+Buying_146_Condition_0_Allow_Unset 
+Buying_146_Condition_0_Logic Less_Than
+
+Buying_146_Condition_1_Type Flag_Short
+Buying_146_Condition_1_ID 24202
+Buying_146_Condition_1_Value 100
+Buying_146_Condition_1_Allow_Unset 
+Buying_146_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_146_Condition_2_Type Quest
+Buying_146_Condition_2_ID 24203
+Buying_146_Condition_2_Status Completed
+Buying_146_Condition_2_Logic Equal
+Buying_146_Condition_2_Ignore_NPC True
+
+Buying_146_Rewards 1
+Buying_146_Reward_0_Type Flag_Short
+Buying_146_Reward_0_ID 24202
+Buying_146_Reward_0_Value 1
+Buying_146_Reward_0_Modification Increment
+
+Buying_147_ID 43131
+Buying_147_Cost 183
+Buying_147_Conditions 3
+Buying_147_Condition_0_Type Flag_Short
+Buying_147_Condition_0_ID 24202
+Buying_147_Condition_0_Value 200
+Buying_147_Condition_0_Allow_Unset 
+Buying_147_Condition_0_Logic Less_Than
+
+Buying_147_Condition_1_Type Flag_Short
+Buying_147_Condition_1_ID 24202
+Buying_147_Condition_1_Value 150
+Buying_147_Condition_1_Allow_Unset 
+Buying_147_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_147_Condition_2_Type Quest
+Buying_147_Condition_2_ID 24203
+Buying_147_Condition_2_Status Completed
+Buying_147_Condition_2_Logic Equal
+Buying_147_Condition_2_Ignore_NPC True
+
+Buying_147_Rewards 1
+Buying_147_Reward_0_Type Flag_Short
+Buying_147_Reward_0_ID 24202
+Buying_147_Reward_0_Value 1
+Buying_147_Reward_0_Modification Increment
+
+Buying_148_ID 43131
+Buying_148_Cost 184
+Buying_148_Conditions 3
+Buying_148_Condition_0_Type Flag_Short
+Buying_148_Condition_0_ID 24202
+Buying_148_Condition_0_Value 250
+Buying_148_Condition_0_Allow_Unset 
+Buying_148_Condition_0_Logic Less_Than
+
+Buying_148_Condition_1_Type Flag_Short
+Buying_148_Condition_1_ID 24202
+Buying_148_Condition_1_Value 200
+Buying_148_Condition_1_Allow_Unset 
+Buying_148_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_148_Condition_2_Type Quest
+Buying_148_Condition_2_ID 24203
+Buying_148_Condition_2_Status Completed
+Buying_148_Condition_2_Logic Equal
+Buying_148_Condition_2_Ignore_NPC True
+
+Buying_148_Rewards 1
+Buying_148_Reward_0_Type Flag_Short
+Buying_148_Reward_0_ID 24202
+Buying_148_Reward_0_Value 1
+Buying_148_Reward_0_Modification Increment
+
+Buying_149_ID 43131
+Buying_149_Cost 185
+Buying_149_Conditions 3
+Buying_149_Condition_0_Type Flag_Short
+Buying_149_Condition_0_ID 24202
+Buying_149_Condition_0_Value 300
+Buying_149_Condition_0_Allow_Unset 
+Buying_149_Condition_0_Logic Less_Than
+
+Buying_149_Condition_1_Type Flag_Short
+Buying_149_Condition_1_ID 24202
+Buying_149_Condition_1_Value 250
+Buying_149_Condition_1_Allow_Unset 
+Buying_149_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_149_Condition_2_Type Quest
+Buying_149_Condition_2_ID 24203
+Buying_149_Condition_2_Status Completed
+Buying_149_Condition_2_Logic Equal
+Buying_149_Condition_2_Ignore_NPC True
+
+Buying_149_Rewards 1
+Buying_149_Reward_0_Type Flag_Short
+Buying_149_Reward_0_ID 24202
+Buying_149_Reward_0_Value 1
+Buying_149_Reward_0_Modification Increment
+
+Buying_150_ID 43131
+Buying_150_Cost 186
+Buying_150_Conditions 3
+Buying_150_Condition_0_Type Flag_Short
+Buying_150_Condition_0_ID 24202
+Buying_150_Condition_0_Value 350
+Buying_150_Condition_0_Allow_Unset 
+Buying_150_Condition_0_Logic Less_Than
+
+Buying_150_Condition_1_Type Flag_Short
+Buying_150_Condition_1_ID 24202
+Buying_150_Condition_1_Value 300
+Buying_150_Condition_1_Allow_Unset 
+Buying_150_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_150_Condition_2_Type Quest
+Buying_150_Condition_2_ID 24203
+Buying_150_Condition_2_Status Completed
+Buying_150_Condition_2_Logic Equal
+Buying_150_Condition_2_Ignore_NPC True
+
+Buying_150_Rewards 1
+Buying_150_Reward_0_Type Flag_Short
+Buying_150_Reward_0_ID 24202
+Buying_150_Reward_0_Value 1
+Buying_150_Reward_0_Modification Increment
+
+Buying_151_ID 43131
+Buying_151_Cost 187
+Buying_151_Conditions 3
+Buying_151_Condition_0_Type Flag_Short
+Buying_151_Condition_0_ID 24202
+Buying_151_Condition_0_Value 400
+Buying_151_Condition_0_Allow_Unset 
+Buying_151_Condition_0_Logic Less_Than
+
+Buying_151_Condition_1_Type Flag_Short
+Buying_151_Condition_1_ID 24202
+Buying_151_Condition_1_Value 350
+Buying_151_Condition_1_Allow_Unset 
+Buying_151_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_151_Condition_2_Type Quest
+Buying_151_Condition_2_ID 24203
+Buying_151_Condition_2_Status Completed
+Buying_151_Condition_2_Logic Equal
+Buying_151_Condition_2_Ignore_NPC True
+
+Buying_151_Rewards 1
+Buying_151_Reward_0_Type Flag_Short
+Buying_151_Reward_0_ID 24202
+Buying_151_Reward_0_Value 1
+Buying_151_Reward_0_Modification Increment
+
+Buying_152_ID 43131
+Buying_152_Cost 188
+Buying_152_Conditions 3
+Buying_152_Condition_0_Type Flag_Short
+Buying_152_Condition_0_ID 24202
+Buying_152_Condition_0_Value 450
+Buying_152_Condition_0_Allow_Unset 
+Buying_152_Condition_0_Logic Less_Than
+
+Buying_152_Condition_1_Type Flag_Short
+Buying_152_Condition_1_ID 24202
+Buying_152_Condition_1_Value 400
+Buying_152_Condition_1_Allow_Unset 
+Buying_152_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_152_Condition_2_Type Quest
+Buying_152_Condition_2_ID 24203
+Buying_152_Condition_2_Status Completed
+Buying_152_Condition_2_Logic Equal
+Buying_152_Condition_2_Ignore_NPC True
+
+Buying_152_Rewards 1
+Buying_152_Reward_0_Type Flag_Short
+Buying_152_Reward_0_ID 24202
+Buying_152_Reward_0_Value 1
+Buying_152_Reward_0_Modification Increment
+
+Buying_153_ID 43131
+Buying_153_Cost 189
+Buying_153_Conditions 3
+Buying_153_Condition_0_Type Flag_Short
+Buying_153_Condition_0_ID 24202
+Buying_153_Condition_0_Value 500
+Buying_153_Condition_0_Allow_Unset 
+Buying_153_Condition_0_Logic Less_Than
+
+Buying_153_Condition_1_Type Flag_Short
+Buying_153_Condition_1_ID 24202
+Buying_153_Condition_1_Value 450
+Buying_153_Condition_1_Allow_Unset 
+Buying_153_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_153_Condition_2_Type Quest
+Buying_153_Condition_2_ID 24203
+Buying_153_Condition_2_Status Completed
+Buying_153_Condition_2_Logic Equal
+Buying_153_Condition_2_Ignore_NPC True
+
+Buying_153_Rewards 1
+Buying_153_Reward_0_Type Flag_Short
+Buying_153_Reward_0_ID 24202
+Buying_153_Reward_0_Value 1
+Buying_153_Reward_0_Modification Increment
+
+Buying_154_ID 43131
+Buying_154_Cost 190
+Buying_154_Conditions 3
+Buying_154_Condition_0_Type Flag_Short
+Buying_154_Condition_0_ID 24202
+Buying_154_Condition_0_Value 550
+Buying_154_Condition_0_Allow_Unset 
+Buying_154_Condition_0_Logic Less_Than
+
+Buying_154_Condition_1_Type Flag_Short
+Buying_154_Condition_1_ID 24202
+Buying_154_Condition_1_Value 500
+Buying_154_Condition_1_Allow_Unset 
+Buying_154_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_154_Condition_2_Type Quest
+Buying_154_Condition_2_ID 24203
+Buying_154_Condition_2_Status Completed
+Buying_154_Condition_2_Logic Equal
+Buying_154_Condition_2_Ignore_NPC True
+
+Buying_154_Rewards 1
+Buying_154_Reward_0_Type Flag_Short
+Buying_154_Reward_0_ID 24202
+Buying_154_Reward_0_Value 1
+Buying_154_Reward_0_Modification Increment
+
+Buying_155_ID 43131
+Buying_155_Cost 191
+Buying_155_Conditions 3
+Buying_155_Condition_0_Type Flag_Short
+Buying_155_Condition_0_ID 24202
+Buying_155_Condition_0_Value 600
+Buying_155_Condition_0_Allow_Unset 
+Buying_155_Condition_0_Logic Less_Than
+
+Buying_155_Condition_1_Type Flag_Short
+Buying_155_Condition_1_ID 24202
+Buying_155_Condition_1_Value 550
+Buying_155_Condition_1_Allow_Unset 
+Buying_155_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_155_Condition_2_Type Quest
+Buying_155_Condition_2_ID 24203
+Buying_155_Condition_2_Status Completed
+Buying_155_Condition_2_Logic Equal
+Buying_155_Condition_2_Ignore_NPC True
+
+Buying_155_Rewards 1
+Buying_155_Reward_0_Type Flag_Short
+Buying_155_Reward_0_ID 24202
+Buying_155_Reward_0_Value 1
+Buying_155_Reward_0_Modification Increment
+
+Buying_156_ID 43131
+Buying_156_Cost 192
+Buying_156_Conditions 3
+Buying_156_Condition_0_Type Flag_Short
+Buying_156_Condition_0_ID 24202
+Buying_156_Condition_0_Value 650
+Buying_156_Condition_0_Allow_Unset 
+Buying_156_Condition_0_Logic Less_Than
+
+Buying_156_Condition_1_Type Flag_Short
+Buying_156_Condition_1_ID 24202
+Buying_156_Condition_1_Value 600
+Buying_156_Condition_1_Allow_Unset 
+Buying_156_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_156_Condition_2_Type Quest
+Buying_156_Condition_2_ID 24203
+Buying_156_Condition_2_Status Completed
+Buying_156_Condition_2_Logic Equal
+Buying_156_Condition_2_Ignore_NPC True
+
+Buying_156_Rewards 1
+Buying_156_Reward_0_Type Flag_Short
+Buying_156_Reward_0_ID 24202
+Buying_156_Reward_0_Value 1
+Buying_156_Reward_0_Modification Increment
+
+Buying_157_ID 43131
+Buying_157_Cost 193
+Buying_157_Conditions 3
+Buying_157_Condition_0_Type Flag_Short
+Buying_157_Condition_0_ID 24202
+Buying_157_Condition_0_Value 700
+Buying_157_Condition_0_Allow_Unset 
+Buying_157_Condition_0_Logic Less_Than
+
+Buying_157_Condition_1_Type Flag_Short
+Buying_157_Condition_1_ID 24202
+Buying_157_Condition_1_Value 650
+Buying_157_Condition_1_Allow_Unset 
+Buying_157_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_157_Condition_2_Type Quest
+Buying_157_Condition_2_ID 24203
+Buying_157_Condition_2_Status Completed
+Buying_157_Condition_2_Logic Equal
+Buying_157_Condition_2_Ignore_NPC True
+
+Buying_157_Rewards 1
+Buying_157_Reward_0_Type Flag_Short
+Buying_157_Reward_0_ID 24202
+Buying_157_Reward_0_Value 1
+Buying_157_Reward_0_Modification Increment
+
+Buying_158_ID 43131
+Buying_158_Cost 194
+Buying_158_Conditions 3
+Buying_158_Condition_0_Type Flag_Short
+Buying_158_Condition_0_ID 24202
+Buying_158_Condition_0_Value 750
+Buying_158_Condition_0_Allow_Unset 
+Buying_158_Condition_0_Logic Less_Than
+
+Buying_158_Condition_1_Type Flag_Short
+Buying_158_Condition_1_ID 24202
+Buying_158_Condition_1_Value 700
+Buying_158_Condition_1_Allow_Unset 
+Buying_158_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_158_Condition_2_Type Quest
+Buying_158_Condition_2_ID 24203
+Buying_158_Condition_2_Status Completed
+Buying_158_Condition_2_Logic Equal
+Buying_158_Condition_2_Ignore_NPC True
+
+Buying_158_Rewards 1
+Buying_158_Reward_0_Type Flag_Short
+Buying_158_Reward_0_ID 24202
+Buying_158_Reward_0_Value 1
+Buying_158_Reward_0_Modification Increment
+
+Buying_159_ID 43131
+Buying_159_Cost 195
+Buying_159_Conditions 2
+Buying_159_Condition_0_Type Flag_Short
+Buying_159_Condition_0_ID 24202
+Buying_159_Condition_0_Value 750
+Buying_159_Condition_0_Allow_Unset 
+Buying_159_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_159_Condition_1_Type Quest
+Buying_159_Condition_1_ID 24203
+Buying_159_Condition_1_Status Completed
+Buying_159_Condition_1_Logic Equal
+Buying_159_Condition_1_Ignore_NPC True
+
+Buying_160_ID 43106
+Buying_160_Cost 195
+Buying_160_Conditions 2
+Buying_160_Condition_0_Type Flag_Short
+Buying_160_Condition_0_ID 24202
+Buying_160_Condition_0_Value 50
+Buying_160_Condition_0_Allow_Unset 
+Buying_160_Condition_0_Logic Less_Than
+
+Buying_160_Condition_1_Type Quest
+Buying_160_Condition_1_ID 24203
+Buying_160_Condition_1_Status Completed
+Buying_160_Condition_1_Logic Equal
+Buying_160_Condition_1_Ignore_NPC True
+
+Buying_160_Rewards 1
+Buying_160_Reward_0_Type Flag_Short
+Buying_160_Reward_0_ID 24202
+Buying_160_Reward_0_Value 1
+Buying_160_Reward_0_Modification Increment
+
+Buying_161_ID 43106
+Buying_161_Cost 196
+Buying_161_Conditions 3
+Buying_161_Condition_0_Type Flag_Short
+Buying_161_Condition_0_ID 24202
+Buying_161_Condition_0_Value 100
+Buying_161_Condition_0_Allow_Unset 
+Buying_161_Condition_0_Logic Less_Than
+
+Buying_161_Condition_1_Type Flag_Short
+Buying_161_Condition_1_ID 24202
+Buying_161_Condition_1_Value 50
+Buying_161_Condition_1_Allow_Unset 
+Buying_161_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_161_Condition_2_Type Quest
+Buying_161_Condition_2_ID 24203
+Buying_161_Condition_2_Status Completed
+Buying_161_Condition_2_Logic Equal
+Buying_161_Condition_2_Ignore_NPC True
+
+Buying_161_Rewards 1
+Buying_161_Reward_0_Type Flag_Short
+Buying_161_Reward_0_ID 24202
+Buying_161_Reward_0_Value 1
+Buying_161_Reward_0_Modification Increment
+
+Buying_162_ID 43106
+Buying_162_Cost 197
+Buying_162_Conditions 3
+Buying_162_Condition_0_Type Flag_Short
+Buying_162_Condition_0_ID 24202
+Buying_162_Condition_0_Value 150
+Buying_162_Condition_0_Allow_Unset 
+Buying_162_Condition_0_Logic Less_Than
+
+Buying_162_Condition_1_Type Flag_Short
+Buying_162_Condition_1_ID 24202
+Buying_162_Condition_1_Value 100
+Buying_162_Condition_1_Allow_Unset 
+Buying_162_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_162_Condition_2_Type Quest
+Buying_162_Condition_2_ID 24203
+Buying_162_Condition_2_Status Completed
+Buying_162_Condition_2_Logic Equal
+Buying_162_Condition_2_Ignore_NPC True
+
+Buying_162_Rewards 1
+Buying_162_Reward_0_Type Flag_Short
+Buying_162_Reward_0_ID 24202
+Buying_162_Reward_0_Value 1
+Buying_162_Reward_0_Modification Increment
+
+Buying_163_ID 43106
+Buying_163_Cost 198
+Buying_163_Conditions 3
+Buying_163_Condition_0_Type Flag_Short
+Buying_163_Condition_0_ID 24202
+Buying_163_Condition_0_Value 200
+Buying_163_Condition_0_Allow_Unset 
+Buying_163_Condition_0_Logic Less_Than
+
+Buying_163_Condition_1_Type Flag_Short
+Buying_163_Condition_1_ID 24202
+Buying_163_Condition_1_Value 150
+Buying_163_Condition_1_Allow_Unset 
+Buying_163_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_163_Condition_2_Type Quest
+Buying_163_Condition_2_ID 24203
+Buying_163_Condition_2_Status Completed
+Buying_163_Condition_2_Logic Equal
+Buying_163_Condition_2_Ignore_NPC True
+
+Buying_163_Rewards 1
+Buying_163_Reward_0_Type Flag_Short
+Buying_163_Reward_0_ID 24202
+Buying_163_Reward_0_Value 1
+Buying_163_Reward_0_Modification Increment
+
+Buying_164_ID 43106
+Buying_164_Cost 199
+Buying_164_Conditions 3
+Buying_164_Condition_0_Type Flag_Short
+Buying_164_Condition_0_ID 24202
+Buying_164_Condition_0_Value 250
+Buying_164_Condition_0_Allow_Unset 
+Buying_164_Condition_0_Logic Less_Than
+
+Buying_164_Condition_1_Type Flag_Short
+Buying_164_Condition_1_ID 24202
+Buying_164_Condition_1_Value 200
+Buying_164_Condition_1_Allow_Unset 
+Buying_164_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_164_Condition_2_Type Quest
+Buying_164_Condition_2_ID 24203
+Buying_164_Condition_2_Status Completed
+Buying_164_Condition_2_Logic Equal
+Buying_164_Condition_2_Ignore_NPC True
+
+Buying_164_Rewards 1
+Buying_164_Reward_0_Type Flag_Short
+Buying_164_Reward_0_ID 24202
+Buying_164_Reward_0_Value 1
+Buying_164_Reward_0_Modification Increment
+
+Buying_165_ID 43106
+Buying_165_Cost 200
+Buying_165_Conditions 3
+Buying_165_Condition_0_Type Flag_Short
+Buying_165_Condition_0_ID 24202
+Buying_165_Condition_0_Value 300
+Buying_165_Condition_0_Allow_Unset 
+Buying_165_Condition_0_Logic Less_Than
+
+Buying_165_Condition_1_Type Flag_Short
+Buying_165_Condition_1_ID 24202
+Buying_165_Condition_1_Value 250
+Buying_165_Condition_1_Allow_Unset 
+Buying_165_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_165_Condition_2_Type Quest
+Buying_165_Condition_2_ID 24203
+Buying_165_Condition_2_Status Completed
+Buying_165_Condition_2_Logic Equal
+Buying_165_Condition_2_Ignore_NPC True
+
+Buying_165_Rewards 1
+Buying_165_Reward_0_Type Flag_Short
+Buying_165_Reward_0_ID 24202
+Buying_165_Reward_0_Value 1
+Buying_165_Reward_0_Modification Increment
+
+Buying_166_ID 43106
+Buying_166_Cost 201
+Buying_166_Conditions 3
+Buying_166_Condition_0_Type Flag_Short
+Buying_166_Condition_0_ID 24202
+Buying_166_Condition_0_Value 350
+Buying_166_Condition_0_Allow_Unset 
+Buying_166_Condition_0_Logic Less_Than
+
+Buying_166_Condition_1_Type Flag_Short
+Buying_166_Condition_1_ID 24202
+Buying_166_Condition_1_Value 300
+Buying_166_Condition_1_Allow_Unset 
+Buying_166_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_166_Condition_2_Type Quest
+Buying_166_Condition_2_ID 24203
+Buying_166_Condition_2_Status Completed
+Buying_166_Condition_2_Logic Equal
+Buying_166_Condition_2_Ignore_NPC True
+
+Buying_166_Rewards 1
+Buying_166_Reward_0_Type Flag_Short
+Buying_166_Reward_0_ID 24202
+Buying_166_Reward_0_Value 1
+Buying_166_Reward_0_Modification Increment
+
+Buying_167_ID 43106
+Buying_167_Cost 202
+Buying_167_Conditions 3
+Buying_167_Condition_0_Type Flag_Short
+Buying_167_Condition_0_ID 24202
+Buying_167_Condition_0_Value 400
+Buying_167_Condition_0_Allow_Unset 
+Buying_167_Condition_0_Logic Less_Than
+
+Buying_167_Condition_1_Type Flag_Short
+Buying_167_Condition_1_ID 24202
+Buying_167_Condition_1_Value 350
+Buying_167_Condition_1_Allow_Unset 
+Buying_167_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_167_Condition_2_Type Quest
+Buying_167_Condition_2_ID 24203
+Buying_167_Condition_2_Status Completed
+Buying_167_Condition_2_Logic Equal
+Buying_167_Condition_2_Ignore_NPC True
+
+Buying_167_Rewards 1
+Buying_167_Reward_0_Type Flag_Short
+Buying_167_Reward_0_ID 24202
+Buying_167_Reward_0_Value 1
+Buying_167_Reward_0_Modification Increment
+
+Buying_168_ID 43106
+Buying_168_Cost 203
+Buying_168_Conditions 3
+Buying_168_Condition_0_Type Flag_Short
+Buying_168_Condition_0_ID 24202
+Buying_168_Condition_0_Value 450
+Buying_168_Condition_0_Allow_Unset 
+Buying_168_Condition_0_Logic Less_Than
+
+Buying_168_Condition_1_Type Flag_Short
+Buying_168_Condition_1_ID 24202
+Buying_168_Condition_1_Value 400
+Buying_168_Condition_1_Allow_Unset 
+Buying_168_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_168_Condition_2_Type Quest
+Buying_168_Condition_2_ID 24203
+Buying_168_Condition_2_Status Completed
+Buying_168_Condition_2_Logic Equal
+Buying_168_Condition_2_Ignore_NPC True
+
+Buying_168_Rewards 1
+Buying_168_Reward_0_Type Flag_Short
+Buying_168_Reward_0_ID 24202
+Buying_168_Reward_0_Value 1
+Buying_168_Reward_0_Modification Increment
+
+Buying_169_ID 43106
+Buying_169_Cost 204
+Buying_169_Conditions 3
+Buying_169_Condition_0_Type Flag_Short
+Buying_169_Condition_0_ID 24202
+Buying_169_Condition_0_Value 500
+Buying_169_Condition_0_Allow_Unset 
+Buying_169_Condition_0_Logic Less_Than
+
+Buying_169_Condition_1_Type Flag_Short
+Buying_169_Condition_1_ID 24202
+Buying_169_Condition_1_Value 450
+Buying_169_Condition_1_Allow_Unset 
+Buying_169_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_169_Condition_2_Type Quest
+Buying_169_Condition_2_ID 24203
+Buying_169_Condition_2_Status Completed
+Buying_169_Condition_2_Logic Equal
+Buying_169_Condition_2_Ignore_NPC True
+
+Buying_169_Rewards 1
+Buying_169_Reward_0_Type Flag_Short
+Buying_169_Reward_0_ID 24202
+Buying_169_Reward_0_Value 1
+Buying_169_Reward_0_Modification Increment
+
+Buying_170_ID 43106
+Buying_170_Cost 205
+Buying_170_Conditions 3
+Buying_170_Condition_0_Type Flag_Short
+Buying_170_Condition_0_ID 24202
+Buying_170_Condition_0_Value 550
+Buying_170_Condition_0_Allow_Unset 
+Buying_170_Condition_0_Logic Less_Than
+
+Buying_170_Condition_1_Type Flag_Short
+Buying_170_Condition_1_ID 24202
+Buying_170_Condition_1_Value 500
+Buying_170_Condition_1_Allow_Unset 
+Buying_170_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_170_Condition_2_Type Quest
+Buying_170_Condition_2_ID 24203
+Buying_170_Condition_2_Status Completed
+Buying_170_Condition_2_Logic Equal
+Buying_170_Condition_2_Ignore_NPC True
+
+Buying_170_Rewards 1
+Buying_170_Reward_0_Type Flag_Short
+Buying_170_Reward_0_ID 24202
+Buying_170_Reward_0_Value 1
+Buying_170_Reward_0_Modification Increment
+
+Buying_171_ID 43106
+Buying_171_Cost 206
+Buying_171_Conditions 3
+Buying_171_Condition_0_Type Flag_Short
+Buying_171_Condition_0_ID 24202
+Buying_171_Condition_0_Value 600
+Buying_171_Condition_0_Allow_Unset 
+Buying_171_Condition_0_Logic Less_Than
+
+Buying_171_Condition_1_Type Flag_Short
+Buying_171_Condition_1_ID 24202
+Buying_171_Condition_1_Value 550
+Buying_171_Condition_1_Allow_Unset 
+Buying_171_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_171_Condition_2_Type Quest
+Buying_171_Condition_2_ID 24203
+Buying_171_Condition_2_Status Completed
+Buying_171_Condition_2_Logic Equal
+Buying_171_Condition_2_Ignore_NPC True
+
+Buying_171_Rewards 1
+Buying_171_Reward_0_Type Flag_Short
+Buying_171_Reward_0_ID 24202
+Buying_171_Reward_0_Value 1
+Buying_171_Reward_0_Modification Increment
+
+Buying_172_ID 43106
+Buying_172_Cost 207
+Buying_172_Conditions 3
+Buying_172_Condition_0_Type Flag_Short
+Buying_172_Condition_0_ID 24202
+Buying_172_Condition_0_Value 650
+Buying_172_Condition_0_Allow_Unset 
+Buying_172_Condition_0_Logic Less_Than
+
+Buying_172_Condition_1_Type Flag_Short
+Buying_172_Condition_1_ID 24202
+Buying_172_Condition_1_Value 600
+Buying_172_Condition_1_Allow_Unset 
+Buying_172_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_172_Condition_2_Type Quest
+Buying_172_Condition_2_ID 24203
+Buying_172_Condition_2_Status Completed
+Buying_172_Condition_2_Logic Equal
+Buying_172_Condition_2_Ignore_NPC True
+
+Buying_172_Rewards 1
+Buying_172_Reward_0_Type Flag_Short
+Buying_172_Reward_0_ID 24202
+Buying_172_Reward_0_Value 1
+Buying_172_Reward_0_Modification Increment
+
+Buying_173_ID 43106
+Buying_173_Cost 208
+Buying_173_Conditions 3
+Buying_173_Condition_0_Type Flag_Short
+Buying_173_Condition_0_ID 24202
+Buying_173_Condition_0_Value 700
+Buying_173_Condition_0_Allow_Unset 
+Buying_173_Condition_0_Logic Less_Than
+
+Buying_173_Condition_1_Type Flag_Short
+Buying_173_Condition_1_ID 24202
+Buying_173_Condition_1_Value 650
+Buying_173_Condition_1_Allow_Unset 
+Buying_173_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_173_Condition_2_Type Quest
+Buying_173_Condition_2_ID 24203
+Buying_173_Condition_2_Status Completed
+Buying_173_Condition_2_Logic Equal
+Buying_173_Condition_2_Ignore_NPC True
+
+Buying_173_Rewards 1
+Buying_173_Reward_0_Type Flag_Short
+Buying_173_Reward_0_ID 24202
+Buying_173_Reward_0_Value 1
+Buying_173_Reward_0_Modification Increment
+
+Buying_174_ID 43106
+Buying_174_Cost 209
+Buying_174_Conditions 3
+Buying_174_Condition_0_Type Flag_Short
+Buying_174_Condition_0_ID 24202
+Buying_174_Condition_0_Value 750
+Buying_174_Condition_0_Allow_Unset 
+Buying_174_Condition_0_Logic Less_Than
+
+Buying_174_Condition_1_Type Flag_Short
+Buying_174_Condition_1_ID 24202
+Buying_174_Condition_1_Value 700
+Buying_174_Condition_1_Allow_Unset 
+Buying_174_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_174_Condition_2_Type Quest
+Buying_174_Condition_2_ID 24203
+Buying_174_Condition_2_Status Completed
+Buying_174_Condition_2_Logic Equal
+Buying_174_Condition_2_Ignore_NPC True
+
+Buying_174_Rewards 1
+Buying_174_Reward_0_Type Flag_Short
+Buying_174_Reward_0_ID 24202
+Buying_174_Reward_0_Value 1
+Buying_174_Reward_0_Modification Increment
+
+Buying_175_ID 43106
+Buying_175_Cost 210
+Buying_175_Conditions 2
+Buying_175_Condition_0_Type Flag_Short
+Buying_175_Condition_0_ID 24202
+Buying_175_Condition_0_Value 750
+Buying_175_Condition_0_Allow_Unset 
+Buying_175_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_175_Condition_1_Type Quest
+Buying_175_Condition_1_ID 24203
+Buying_175_Condition_1_Status Completed
+Buying_175_Condition_1_Logic Equal
+Buying_175_Condition_1_Ignore_NPC True
+
+Buying_176_ID 43110
+Buying_176_Cost 150
+Buying_176_Conditions 2
+Buying_176_Condition_0_Type Flag_Short
+Buying_176_Condition_0_ID 24202
+Buying_176_Condition_0_Value 50
+Buying_176_Condition_0_Allow_Unset 
+Buying_176_Condition_0_Logic Less_Than
+
+Buying_176_Condition_1_Type Quest
+Buying_176_Condition_1_ID 24203
+Buying_176_Condition_1_Status Completed
+Buying_176_Condition_1_Logic Equal
+Buying_176_Condition_1_Ignore_NPC True
+
+Buying_176_Rewards 1
+Buying_176_Reward_0_Type Flag_Short
+Buying_176_Reward_0_ID 24202
+Buying_176_Reward_0_Value 1
+Buying_176_Reward_0_Modification Increment
+
+Buying_177_ID 43110
+Buying_177_Cost 151
+Buying_177_Conditions 3
+Buying_177_Condition_0_Type Flag_Short
+Buying_177_Condition_0_ID 24202
+Buying_177_Condition_0_Value 100
+Buying_177_Condition_0_Allow_Unset 
+Buying_177_Condition_0_Logic Less_Than
+
+Buying_177_Condition_1_Type Flag_Short
+Buying_177_Condition_1_ID 24202
+Buying_177_Condition_1_Value 50
+Buying_177_Condition_1_Allow_Unset 
+Buying_177_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_177_Condition_2_Type Quest
+Buying_177_Condition_2_ID 24203
+Buying_177_Condition_2_Status Completed
+Buying_177_Condition_2_Logic Equal
+Buying_177_Condition_2_Ignore_NPC True
+
+Buying_177_Rewards 1
+Buying_177_Reward_0_Type Flag_Short
+Buying_177_Reward_0_ID 24202
+Buying_177_Reward_0_Value 1
+Buying_177_Reward_0_Modification Increment
+
+Buying_178_ID 43110
+Buying_178_Cost 152
+Buying_178_Conditions 3
+Buying_178_Condition_0_Type Flag_Short
+Buying_178_Condition_0_ID 24202
+Buying_178_Condition_0_Value 150
+Buying_178_Condition_0_Allow_Unset 
+Buying_178_Condition_0_Logic Less_Than
+
+Buying_178_Condition_1_Type Flag_Short
+Buying_178_Condition_1_ID 24202
+Buying_178_Condition_1_Value 100
+Buying_178_Condition_1_Allow_Unset 
+Buying_178_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_178_Condition_2_Type Quest
+Buying_178_Condition_2_ID 24203
+Buying_178_Condition_2_Status Completed
+Buying_178_Condition_2_Logic Equal
+Buying_178_Condition_2_Ignore_NPC True
+
+Buying_178_Rewards 1
+Buying_178_Reward_0_Type Flag_Short
+Buying_178_Reward_0_ID 24202
+Buying_178_Reward_0_Value 1
+Buying_178_Reward_0_Modification Increment
+
+Buying_179_ID 43110
+Buying_179_Cost 153
+Buying_179_Conditions 3
+Buying_179_Condition_0_Type Flag_Short
+Buying_179_Condition_0_ID 24202
+Buying_179_Condition_0_Value 200
+Buying_179_Condition_0_Allow_Unset 
+Buying_179_Condition_0_Logic Less_Than
+
+Buying_179_Condition_1_Type Flag_Short
+Buying_179_Condition_1_ID 24202
+Buying_179_Condition_1_Value 150
+Buying_179_Condition_1_Allow_Unset 
+Buying_179_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_179_Condition_2_Type Quest
+Buying_179_Condition_2_ID 24203
+Buying_179_Condition_2_Status Completed
+Buying_179_Condition_2_Logic Equal
+Buying_179_Condition_2_Ignore_NPC True
+
+Buying_179_Rewards 1
+Buying_179_Reward_0_Type Flag_Short
+Buying_179_Reward_0_ID 24202
+Buying_179_Reward_0_Value 1
+Buying_179_Reward_0_Modification Increment
+
+Buying_180_ID 43110
+Buying_180_Cost 154
+Buying_180_Conditions 3
+Buying_180_Condition_0_Type Flag_Short
+Buying_180_Condition_0_ID 24202
+Buying_180_Condition_0_Value 250
+Buying_180_Condition_0_Allow_Unset 
+Buying_180_Condition_0_Logic Less_Than
+
+Buying_180_Condition_1_Type Flag_Short
+Buying_180_Condition_1_ID 24202
+Buying_180_Condition_1_Value 200
+Buying_180_Condition_1_Allow_Unset 
+Buying_180_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_180_Condition_2_Type Quest
+Buying_180_Condition_2_ID 24203
+Buying_180_Condition_2_Status Completed
+Buying_180_Condition_2_Logic Equal
+Buying_180_Condition_2_Ignore_NPC True
+
+Buying_180_Rewards 1
+Buying_180_Reward_0_Type Flag_Short
+Buying_180_Reward_0_ID 24202
+Buying_180_Reward_0_Value 1
+Buying_180_Reward_0_Modification Increment
+
+Buying_181_ID 43110
+Buying_181_Cost 155
+Buying_181_Conditions 3
+Buying_181_Condition_0_Type Flag_Short
+Buying_181_Condition_0_ID 24202
+Buying_181_Condition_0_Value 300
+Buying_181_Condition_0_Allow_Unset 
+Buying_181_Condition_0_Logic Less_Than
+
+Buying_181_Condition_1_Type Flag_Short
+Buying_181_Condition_1_ID 24202
+Buying_181_Condition_1_Value 250
+Buying_181_Condition_1_Allow_Unset 
+Buying_181_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_181_Condition_2_Type Quest
+Buying_181_Condition_2_ID 24203
+Buying_181_Condition_2_Status Completed
+Buying_181_Condition_2_Logic Equal
+Buying_181_Condition_2_Ignore_NPC True
+
+Buying_181_Rewards 1
+Buying_181_Reward_0_Type Flag_Short
+Buying_181_Reward_0_ID 24202
+Buying_181_Reward_0_Value 1
+Buying_181_Reward_0_Modification Increment
+
+Buying_182_ID 43110
+Buying_182_Cost 156
+Buying_182_Conditions 3
+Buying_182_Condition_0_Type Flag_Short
+Buying_182_Condition_0_ID 24202
+Buying_182_Condition_0_Value 350
+Buying_182_Condition_0_Allow_Unset 
+Buying_182_Condition_0_Logic Less_Than
+
+Buying_182_Condition_1_Type Flag_Short
+Buying_182_Condition_1_ID 24202
+Buying_182_Condition_1_Value 300
+Buying_182_Condition_1_Allow_Unset 
+Buying_182_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_182_Condition_2_Type Quest
+Buying_182_Condition_2_ID 24203
+Buying_182_Condition_2_Status Completed
+Buying_182_Condition_2_Logic Equal
+Buying_182_Condition_2_Ignore_NPC True
+
+Buying_182_Rewards 1
+Buying_182_Reward_0_Type Flag_Short
+Buying_182_Reward_0_ID 24202
+Buying_182_Reward_0_Value 1
+Buying_182_Reward_0_Modification Increment
+
+Buying_183_ID 43110
+Buying_183_Cost 157
+Buying_183_Conditions 3
+Buying_183_Condition_0_Type Flag_Short
+Buying_183_Condition_0_ID 24202
+Buying_183_Condition_0_Value 400
+Buying_183_Condition_0_Allow_Unset 
+Buying_183_Condition_0_Logic Less_Than
+
+Buying_183_Condition_1_Type Flag_Short
+Buying_183_Condition_1_ID 24202
+Buying_183_Condition_1_Value 350
+Buying_183_Condition_1_Allow_Unset 
+Buying_183_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_183_Condition_2_Type Quest
+Buying_183_Condition_2_ID 24203
+Buying_183_Condition_2_Status Completed
+Buying_183_Condition_2_Logic Equal
+Buying_183_Condition_2_Ignore_NPC True
+
+Buying_183_Rewards 1
+Buying_183_Reward_0_Type Flag_Short
+Buying_183_Reward_0_ID 24202
+Buying_183_Reward_0_Value 1
+Buying_183_Reward_0_Modification Increment
+
+Buying_184_ID 43110
+Buying_184_Cost 158
+Buying_184_Conditions 3
+Buying_184_Condition_0_Type Flag_Short
+Buying_184_Condition_0_ID 24202
+Buying_184_Condition_0_Value 450
+Buying_184_Condition_0_Allow_Unset 
+Buying_184_Condition_0_Logic Less_Than
+
+Buying_184_Condition_1_Type Flag_Short
+Buying_184_Condition_1_ID 24202
+Buying_184_Condition_1_Value 400
+Buying_184_Condition_1_Allow_Unset 
+Buying_184_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_184_Condition_2_Type Quest
+Buying_184_Condition_2_ID 24203
+Buying_184_Condition_2_Status Completed
+Buying_184_Condition_2_Logic Equal
+Buying_184_Condition_2_Ignore_NPC True
+
+Buying_184_Rewards 1
+Buying_184_Reward_0_Type Flag_Short
+Buying_184_Reward_0_ID 24202
+Buying_184_Reward_0_Value 1
+Buying_184_Reward_0_Modification Increment
+
+Buying_185_ID 43110
+Buying_185_Cost 159
+Buying_185_Conditions 3
+Buying_185_Condition_0_Type Flag_Short
+Buying_185_Condition_0_ID 24202
+Buying_185_Condition_0_Value 500
+Buying_185_Condition_0_Allow_Unset 
+Buying_185_Condition_0_Logic Less_Than
+
+Buying_185_Condition_1_Type Flag_Short
+Buying_185_Condition_1_ID 24202
+Buying_185_Condition_1_Value 450
+Buying_185_Condition_1_Allow_Unset 
+Buying_185_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_185_Condition_2_Type Quest
+Buying_185_Condition_2_ID 24203
+Buying_185_Condition_2_Status Completed
+Buying_185_Condition_2_Logic Equal
+Buying_185_Condition_2_Ignore_NPC True
+
+Buying_185_Rewards 1
+Buying_185_Reward_0_Type Flag_Short
+Buying_185_Reward_0_ID 24202
+Buying_185_Reward_0_Value 1
+Buying_185_Reward_0_Modification Increment
+
+Buying_186_ID 43110
+Buying_186_Cost 160
+Buying_186_Conditions 3
+Buying_186_Condition_0_Type Flag_Short
+Buying_186_Condition_0_ID 24202
+Buying_186_Condition_0_Value 550
+Buying_186_Condition_0_Allow_Unset 
+Buying_186_Condition_0_Logic Less_Than
+
+Buying_186_Condition_1_Type Flag_Short
+Buying_186_Condition_1_ID 24202
+Buying_186_Condition_1_Value 500
+Buying_186_Condition_1_Allow_Unset 
+Buying_186_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_186_Condition_2_Type Quest
+Buying_186_Condition_2_ID 24203
+Buying_186_Condition_2_Status Completed
+Buying_186_Condition_2_Logic Equal
+Buying_186_Condition_2_Ignore_NPC True
+
+Buying_186_Rewards 1
+Buying_186_Reward_0_Type Flag_Short
+Buying_186_Reward_0_ID 24202
+Buying_186_Reward_0_Value 1
+Buying_186_Reward_0_Modification Increment
+
+Buying_187_ID 43110
+Buying_187_Cost 161
+Buying_187_Conditions 3
+Buying_187_Condition_0_Type Flag_Short
+Buying_187_Condition_0_ID 24202
+Buying_187_Condition_0_Value 600
+Buying_187_Condition_0_Allow_Unset 
+Buying_187_Condition_0_Logic Less_Than
+
+Buying_187_Condition_1_Type Flag_Short
+Buying_187_Condition_1_ID 24202
+Buying_187_Condition_1_Value 550
+Buying_187_Condition_1_Allow_Unset 
+Buying_187_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_187_Condition_2_Type Quest
+Buying_187_Condition_2_ID 24203
+Buying_187_Condition_2_Status Completed
+Buying_187_Condition_2_Logic Equal
+Buying_187_Condition_2_Ignore_NPC True
+
+Buying_187_Rewards 1
+Buying_187_Reward_0_Type Flag_Short
+Buying_187_Reward_0_ID 24202
+Buying_187_Reward_0_Value 1
+Buying_187_Reward_0_Modification Increment
+
+Buying_188_ID 43110
+Buying_188_Cost 162
+Buying_188_Conditions 3
+Buying_188_Condition_0_Type Flag_Short
+Buying_188_Condition_0_ID 24202
+Buying_188_Condition_0_Value 650
+Buying_188_Condition_0_Allow_Unset 
+Buying_188_Condition_0_Logic Less_Than
+
+Buying_188_Condition_1_Type Flag_Short
+Buying_188_Condition_1_ID 24202
+Buying_188_Condition_1_Value 600
+Buying_188_Condition_1_Allow_Unset 
+Buying_188_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_188_Condition_2_Type Quest
+Buying_188_Condition_2_ID 24203
+Buying_188_Condition_2_Status Completed
+Buying_188_Condition_2_Logic Equal
+Buying_188_Condition_2_Ignore_NPC True
+
+Buying_188_Rewards 1
+Buying_188_Reward_0_Type Flag_Short
+Buying_188_Reward_0_ID 24202
+Buying_188_Reward_0_Value 1
+Buying_188_Reward_0_Modification Increment
+
+Buying_189_ID 43110
+Buying_189_Cost 163
+Buying_189_Conditions 3
+Buying_189_Condition_0_Type Flag_Short
+Buying_189_Condition_0_ID 24202
+Buying_189_Condition_0_Value 700
+Buying_189_Condition_0_Allow_Unset 
+Buying_189_Condition_0_Logic Less_Than
+
+Buying_189_Condition_1_Type Flag_Short
+Buying_189_Condition_1_ID 24202
+Buying_189_Condition_1_Value 650
+Buying_189_Condition_1_Allow_Unset 
+Buying_189_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_189_Condition_2_Type Quest
+Buying_189_Condition_2_ID 24203
+Buying_189_Condition_2_Status Completed
+Buying_189_Condition_2_Logic Equal
+Buying_189_Condition_2_Ignore_NPC True
+
+Buying_189_Rewards 1
+Buying_189_Reward_0_Type Flag_Short
+Buying_189_Reward_0_ID 24202
+Buying_189_Reward_0_Value 1
+Buying_189_Reward_0_Modification Increment
+
+Buying_190_ID 43110
+Buying_190_Cost 164
+Buying_190_Conditions 3
+Buying_190_Condition_0_Type Flag_Short
+Buying_190_Condition_0_ID 24202
+Buying_190_Condition_0_Value 750
+Buying_190_Condition_0_Allow_Unset 
+Buying_190_Condition_0_Logic Less_Than
+
+Buying_190_Condition_1_Type Flag_Short
+Buying_190_Condition_1_ID 24202
+Buying_190_Condition_1_Value 700
+Buying_190_Condition_1_Allow_Unset 
+Buying_190_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_190_Condition_2_Type Quest
+Buying_190_Condition_2_ID 24203
+Buying_190_Condition_2_Status Completed
+Buying_190_Condition_2_Logic Equal
+Buying_190_Condition_2_Ignore_NPC True
+
+Buying_190_Rewards 1
+Buying_190_Reward_0_Type Flag_Short
+Buying_190_Reward_0_ID 24202
+Buying_190_Reward_0_Value 1
+Buying_190_Reward_0_Modification Increment
+
+Buying_191_ID 43110
+Buying_191_Cost 165
+Buying_191_Conditions 2
+Buying_191_Condition_0_Type Flag_Short
+Buying_191_Condition_0_ID 24202
+Buying_191_Condition_0_Value 750
+Buying_191_Condition_0_Allow_Unset 
+Buying_191_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_191_Condition_1_Type Quest
+Buying_191_Condition_1_ID 24203
+Buying_191_Condition_1_Status Completed
+Buying_191_Condition_1_Logic Equal
+Buying_191_Condition_1_Ignore_NPC True
+
+Buying_192_ID 43116
+Buying_192_Cost 300
+Buying_192_Conditions 2
+Buying_192_Condition_0_Type Flag_Short
+Buying_192_Condition_0_ID 24202
+Buying_192_Condition_0_Value 50
+Buying_192_Condition_0_Allow_Unset 
+Buying_192_Condition_0_Logic Less_Than
+
+Buying_192_Condition_1_Type Quest
+Buying_192_Condition_1_ID 24203
+Buying_192_Condition_1_Status Completed
+Buying_192_Condition_1_Logic Equal
+Buying_192_Condition_1_Ignore_NPC True
+
+Buying_192_Rewards 1
+Buying_192_Reward_0_Type Flag_Short
+Buying_192_Reward_0_ID 24202
+Buying_192_Reward_0_Value 1
+Buying_192_Reward_0_Modification Increment
+
+Buying_193_ID 43116
+Buying_193_Cost 301
+Buying_193_Conditions 3
+Buying_193_Condition_0_Type Flag_Short
+Buying_193_Condition_0_ID 24202
+Buying_193_Condition_0_Value 100
+Buying_193_Condition_0_Allow_Unset 
+Buying_193_Condition_0_Logic Less_Than
+
+Buying_193_Condition_1_Type Flag_Short
+Buying_193_Condition_1_ID 24202
+Buying_193_Condition_1_Value 50
+Buying_193_Condition_1_Allow_Unset 
+Buying_193_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_193_Condition_2_Type Quest
+Buying_193_Condition_2_ID 24203
+Buying_193_Condition_2_Status Completed
+Buying_193_Condition_2_Logic Equal
+Buying_193_Condition_2_Ignore_NPC True
+
+Buying_193_Rewards 1
+Buying_193_Reward_0_Type Flag_Short
+Buying_193_Reward_0_ID 24202
+Buying_193_Reward_0_Value 1
+Buying_193_Reward_0_Modification Increment
+
+Buying_194_ID 43116
+Buying_194_Cost 302
+Buying_194_Conditions 3
+Buying_194_Condition_0_Type Flag_Short
+Buying_194_Condition_0_ID 24202
+Buying_194_Condition_0_Value 150
+Buying_194_Condition_0_Allow_Unset 
+Buying_194_Condition_0_Logic Less_Than
+
+Buying_194_Condition_1_Type Flag_Short
+Buying_194_Condition_1_ID 24202
+Buying_194_Condition_1_Value 100
+Buying_194_Condition_1_Allow_Unset 
+Buying_194_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_194_Condition_2_Type Quest
+Buying_194_Condition_2_ID 24203
+Buying_194_Condition_2_Status Completed
+Buying_194_Condition_2_Logic Equal
+Buying_194_Condition_2_Ignore_NPC True
+
+Buying_194_Rewards 1
+Buying_194_Reward_0_Type Flag_Short
+Buying_194_Reward_0_ID 24202
+Buying_194_Reward_0_Value 1
+Buying_194_Reward_0_Modification Increment
+
+Buying_195_ID 43116
+Buying_195_Cost 303
+Buying_195_Conditions 3
+Buying_195_Condition_0_Type Flag_Short
+Buying_195_Condition_0_ID 24202
+Buying_195_Condition_0_Value 200
+Buying_195_Condition_0_Allow_Unset 
+Buying_195_Condition_0_Logic Less_Than
+
+Buying_195_Condition_1_Type Flag_Short
+Buying_195_Condition_1_ID 24202
+Buying_195_Condition_1_Value 150
+Buying_195_Condition_1_Allow_Unset 
+Buying_195_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_195_Condition_2_Type Quest
+Buying_195_Condition_2_ID 24203
+Buying_195_Condition_2_Status Completed
+Buying_195_Condition_2_Logic Equal
+Buying_195_Condition_2_Ignore_NPC True
+
+Buying_195_Rewards 1
+Buying_195_Reward_0_Type Flag_Short
+Buying_195_Reward_0_ID 24202
+Buying_195_Reward_0_Value 1
+Buying_195_Reward_0_Modification Increment
+
+Buying_196_ID 43116
+Buying_196_Cost 304
+Buying_196_Conditions 3
+Buying_196_Condition_0_Type Flag_Short
+Buying_196_Condition_0_ID 24202
+Buying_196_Condition_0_Value 250
+Buying_196_Condition_0_Allow_Unset 
+Buying_196_Condition_0_Logic Less_Than
+
+Buying_196_Condition_1_Type Flag_Short
+Buying_196_Condition_1_ID 24202
+Buying_196_Condition_1_Value 200
+Buying_196_Condition_1_Allow_Unset 
+Buying_196_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_196_Condition_2_Type Quest
+Buying_196_Condition_2_ID 24203
+Buying_196_Condition_2_Status Completed
+Buying_196_Condition_2_Logic Equal
+Buying_196_Condition_2_Ignore_NPC True
+
+Buying_196_Rewards 1
+Buying_196_Reward_0_Type Flag_Short
+Buying_196_Reward_0_ID 24202
+Buying_196_Reward_0_Value 1
+Buying_196_Reward_0_Modification Increment
+
+Buying_197_ID 43116
+Buying_197_Cost 305
+Buying_197_Conditions 3
+Buying_197_Condition_0_Type Flag_Short
+Buying_197_Condition_0_ID 24202
+Buying_197_Condition_0_Value 300
+Buying_197_Condition_0_Allow_Unset 
+Buying_197_Condition_0_Logic Less_Than
+
+Buying_197_Condition_1_Type Flag_Short
+Buying_197_Condition_1_ID 24202
+Buying_197_Condition_1_Value 250
+Buying_197_Condition_1_Allow_Unset 
+Buying_197_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_197_Condition_2_Type Quest
+Buying_197_Condition_2_ID 24203
+Buying_197_Condition_2_Status Completed
+Buying_197_Condition_2_Logic Equal
+Buying_197_Condition_2_Ignore_NPC True
+
+Buying_197_Rewards 1
+Buying_197_Reward_0_Type Flag_Short
+Buying_197_Reward_0_ID 24202
+Buying_197_Reward_0_Value 1
+Buying_197_Reward_0_Modification Increment
+
+Buying_198_ID 43116
+Buying_198_Cost 306
+Buying_198_Conditions 3
+Buying_198_Condition_0_Type Flag_Short
+Buying_198_Condition_0_ID 24202
+Buying_198_Condition_0_Value 350
+Buying_198_Condition_0_Allow_Unset 
+Buying_198_Condition_0_Logic Less_Than
+
+Buying_198_Condition_1_Type Flag_Short
+Buying_198_Condition_1_ID 24202
+Buying_198_Condition_1_Value 300
+Buying_198_Condition_1_Allow_Unset 
+Buying_198_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_198_Condition_2_Type Quest
+Buying_198_Condition_2_ID 24203
+Buying_198_Condition_2_Status Completed
+Buying_198_Condition_2_Logic Equal
+Buying_198_Condition_2_Ignore_NPC True
+
+Buying_198_Rewards 1
+Buying_198_Reward_0_Type Flag_Short
+Buying_198_Reward_0_ID 24202
+Buying_198_Reward_0_Value 1
+Buying_198_Reward_0_Modification Increment
+
+Buying_199_ID 43116
+Buying_199_Cost 307
+Buying_199_Conditions 3
+Buying_199_Condition_0_Type Flag_Short
+Buying_199_Condition_0_ID 24202
+Buying_199_Condition_0_Value 400
+Buying_199_Condition_0_Allow_Unset 
+Buying_199_Condition_0_Logic Less_Than
+
+Buying_199_Condition_1_Type Flag_Short
+Buying_199_Condition_1_ID 24202
+Buying_199_Condition_1_Value 350
+Buying_199_Condition_1_Allow_Unset 
+Buying_199_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_199_Condition_2_Type Quest
+Buying_199_Condition_2_ID 24203
+Buying_199_Condition_2_Status Completed
+Buying_199_Condition_2_Logic Equal
+Buying_199_Condition_2_Ignore_NPC True
+
+Buying_199_Rewards 1
+Buying_199_Reward_0_Type Flag_Short
+Buying_199_Reward_0_ID 24202
+Buying_199_Reward_0_Value 1
+Buying_199_Reward_0_Modification Increment
+
+Buying_200_ID 43116
+Buying_200_Cost 308
+Buying_200_Conditions 3
+Buying_200_Condition_0_Type Flag_Short
+Buying_200_Condition_0_ID 24202
+Buying_200_Condition_0_Value 450
+Buying_200_Condition_0_Allow_Unset 
+Buying_200_Condition_0_Logic Less_Than
+
+Buying_200_Condition_1_Type Flag_Short
+Buying_200_Condition_1_ID 24202
+Buying_200_Condition_1_Value 400
+Buying_200_Condition_1_Allow_Unset 
+Buying_200_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_200_Condition_2_Type Quest
+Buying_200_Condition_2_ID 24203
+Buying_200_Condition_2_Status Completed
+Buying_200_Condition_2_Logic Equal
+Buying_200_Condition_2_Ignore_NPC True
+
+Buying_200_Rewards 1
+Buying_200_Reward_0_Type Flag_Short
+Buying_200_Reward_0_ID 24202
+Buying_200_Reward_0_Value 1
+Buying_200_Reward_0_Modification Increment
+
+Buying_201_ID 43116
+Buying_201_Cost 309
+Buying_201_Conditions 3
+Buying_201_Condition_0_Type Flag_Short
+Buying_201_Condition_0_ID 24202
+Buying_201_Condition_0_Value 500
+Buying_201_Condition_0_Allow_Unset 
+Buying_201_Condition_0_Logic Less_Than
+
+Buying_201_Condition_1_Type Flag_Short
+Buying_201_Condition_1_ID 24202
+Buying_201_Condition_1_Value 450
+Buying_201_Condition_1_Allow_Unset 
+Buying_201_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_201_Condition_2_Type Quest
+Buying_201_Condition_2_ID 24203
+Buying_201_Condition_2_Status Completed
+Buying_201_Condition_2_Logic Equal
+Buying_201_Condition_2_Ignore_NPC True
+
+Buying_201_Rewards 1
+Buying_201_Reward_0_Type Flag_Short
+Buying_201_Reward_0_ID 24202
+Buying_201_Reward_0_Value 1
+Buying_201_Reward_0_Modification Increment
+
+Buying_202_ID 43116
+Buying_202_Cost 310
+Buying_202_Conditions 3
+Buying_202_Condition_0_Type Flag_Short
+Buying_202_Condition_0_ID 24202
+Buying_202_Condition_0_Value 550
+Buying_202_Condition_0_Allow_Unset 
+Buying_202_Condition_0_Logic Less_Than
+
+Buying_202_Condition_1_Type Flag_Short
+Buying_202_Condition_1_ID 24202
+Buying_202_Condition_1_Value 500
+Buying_202_Condition_1_Allow_Unset 
+Buying_202_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_202_Condition_2_Type Quest
+Buying_202_Condition_2_ID 24203
+Buying_202_Condition_2_Status Completed
+Buying_202_Condition_2_Logic Equal
+Buying_202_Condition_2_Ignore_NPC True
+
+Buying_202_Rewards 1
+Buying_202_Reward_0_Type Flag_Short
+Buying_202_Reward_0_ID 24202
+Buying_202_Reward_0_Value 1
+Buying_202_Reward_0_Modification Increment
+
+Buying_203_ID 43116
+Buying_203_Cost 311
+Buying_203_Conditions 3
+Buying_203_Condition_0_Type Flag_Short
+Buying_203_Condition_0_ID 24202
+Buying_203_Condition_0_Value 600
+Buying_203_Condition_0_Allow_Unset 
+Buying_203_Condition_0_Logic Less_Than
+
+Buying_203_Condition_1_Type Flag_Short
+Buying_203_Condition_1_ID 24202
+Buying_203_Condition_1_Value 550
+Buying_203_Condition_1_Allow_Unset 
+Buying_203_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_203_Condition_2_Type Quest
+Buying_203_Condition_2_ID 24203
+Buying_203_Condition_2_Status Completed
+Buying_203_Condition_2_Logic Equal
+Buying_203_Condition_2_Ignore_NPC True
+
+Buying_203_Rewards 1
+Buying_203_Reward_0_Type Flag_Short
+Buying_203_Reward_0_ID 24202
+Buying_203_Reward_0_Value 1
+Buying_203_Reward_0_Modification Increment
+
+Buying_204_ID 43116
+Buying_204_Cost 312
+Buying_204_Conditions 3
+Buying_204_Condition_0_Type Flag_Short
+Buying_204_Condition_0_ID 24202
+Buying_204_Condition_0_Value 650
+Buying_204_Condition_0_Allow_Unset 
+Buying_204_Condition_0_Logic Less_Than
+
+Buying_204_Condition_1_Type Flag_Short
+Buying_204_Condition_1_ID 24202
+Buying_204_Condition_1_Value 600
+Buying_204_Condition_1_Allow_Unset 
+Buying_204_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_204_Condition_2_Type Quest
+Buying_204_Condition_2_ID 24203
+Buying_204_Condition_2_Status Completed
+Buying_204_Condition_2_Logic Equal
+Buying_204_Condition_2_Ignore_NPC True
+
+Buying_204_Rewards 1
+Buying_204_Reward_0_Type Flag_Short
+Buying_204_Reward_0_ID 24202
+Buying_204_Reward_0_Value 1
+Buying_204_Reward_0_Modification Increment
+
+Buying_205_ID 43116
+Buying_205_Cost 313
+Buying_205_Conditions 3
+Buying_205_Condition_0_Type Flag_Short
+Buying_205_Condition_0_ID 24202
+Buying_205_Condition_0_Value 700
+Buying_205_Condition_0_Allow_Unset 
+Buying_205_Condition_0_Logic Less_Than
+
+Buying_205_Condition_1_Type Flag_Short
+Buying_205_Condition_1_ID 24202
+Buying_205_Condition_1_Value 650
+Buying_205_Condition_1_Allow_Unset 
+Buying_205_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_205_Condition_2_Type Quest
+Buying_205_Condition_2_ID 24203
+Buying_205_Condition_2_Status Completed
+Buying_205_Condition_2_Logic Equal
+Buying_205_Condition_2_Ignore_NPC True
+
+Buying_205_Rewards 1
+Buying_205_Reward_0_Type Flag_Short
+Buying_205_Reward_0_ID 24202
+Buying_205_Reward_0_Value 1
+Buying_205_Reward_0_Modification Increment
+
+Buying_206_ID 43116
+Buying_206_Cost 314
+Buying_206_Conditions 3
+Buying_206_Condition_0_Type Flag_Short
+Buying_206_Condition_0_ID 24202
+Buying_206_Condition_0_Value 750
+Buying_206_Condition_0_Allow_Unset 
+Buying_206_Condition_0_Logic Less_Than
+
+Buying_206_Condition_1_Type Flag_Short
+Buying_206_Condition_1_ID 24202
+Buying_206_Condition_1_Value 700
+Buying_206_Condition_1_Allow_Unset 
+Buying_206_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_206_Condition_2_Type Quest
+Buying_206_Condition_2_ID 24203
+Buying_206_Condition_2_Status Completed
+Buying_206_Condition_2_Logic Equal
+Buying_206_Condition_2_Ignore_NPC True
+
+Buying_206_Rewards 1
+Buying_206_Reward_0_Type Flag_Short
+Buying_206_Reward_0_ID 24202
+Buying_206_Reward_0_Value 1
+Buying_206_Reward_0_Modification Increment
+
+Buying_207_ID 43116
+Buying_207_Cost 315
+Buying_207_Conditions 2
+Buying_207_Condition_0_Type Flag_Short
+Buying_207_Condition_0_ID 24202
+Buying_207_Condition_0_Value 750
+Buying_207_Condition_0_Allow_Unset 
+Buying_207_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_207_Condition_1_Type Quest
+Buying_207_Condition_1_ID 24203
+Buying_207_Condition_1_Status Completed
+Buying_207_Condition_1_Logic Equal
+Buying_207_Condition_1_Ignore_NPC True
+
+Selling 3
+Selling_0_ID 503
+Selling_0_Cost 200
+Selling_0_Rewards 1
+Selling_0_Reward_0_Type Flag_Short
+Selling_0_Reward_0_ID 24202
+Selling_0_Reward_0_Value 1
+Selling_0_Reward_0_Modification Increment
+
+Selling_1_ID 1432
+Selling_1_Cost 1000
+Selling_1_Rewards 1
+Selling_1_Reward_0_Type Flag_Short
+Selling_1_Reward_0_ID 24202
+Selling_1_Reward_0_Value 1
+Selling_1_Reward_0_Modification Increment
+
+Selling_2_ID 43101
+Selling_2_Cost 1000
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_ID 24203
+Selling_2_Condition_0_Status Completed
+Selling_2_Condition_0_Logic Equal
+Selling_2_Condition_0_Ignore_NPC True
+
+Selling_2_Rewards 1
+Selling_2_Reward_0_Type Flag_Short
+Selling_2_Reward_0_ID 24202
+Selling_2_Reward_0_Value 1
+Selling_2_Reward_0_Modification Increment
+

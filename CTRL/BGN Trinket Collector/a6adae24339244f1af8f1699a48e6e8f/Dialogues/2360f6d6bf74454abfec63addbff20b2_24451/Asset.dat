@@ -1,0 +1,38 @@
+﻿// Made in NPC Maker by BowieD
+GUID 2360f6d6bf74454abfec63addbff20b2
+Type Dialogue
+ID 24451
+Messages 2
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 24424
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Condition_0_Ignore_NPC False
+
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 24424
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Ignore_NPC False
+
+Responses 3
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Rewards 1
+Response_0_Reward_0_Type Hint
+Response_0_Reward_0_Duration 4
+
+Response_1_Messages 1
+Response_1_Message_0 1
+Response_1_Vendor 24452
+Response_2_Messages 1
+Response_2_Message_0 1

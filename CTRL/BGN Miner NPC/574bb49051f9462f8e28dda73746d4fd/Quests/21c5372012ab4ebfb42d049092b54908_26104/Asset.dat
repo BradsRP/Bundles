@@ -1,0 +1,29 @@
+﻿// Made in NPC Maker by BowieD
+GUID 21c5372012ab4ebfb42d049092b54908
+Type Quest
+ID 26104
+Conditions 3
+Condition_0_Type Kills_Tree
+Condition_0_ID 26105
+Condition_0_Value 30
+Condition_0_Tree f85433f6f29a444aa856bfd7004c8f13
+
+Condition_1_Type Item
+Condition_1_ID 49119
+Condition_1_Amount 1
+Condition_1_Reset 
+
+Condition_2_Type Item
+Condition_2_ID 46553
+Condition_2_Amount 1
+Condition_2_Reset 
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 46533
+Reward_0_Amount 1
+Reward_0_Auto_Equip True
+
+Reward_1_Type Experience
+Reward_1_Value 10000
+

@@ -1,0 +1,22 @@
+﻿// Made in NPC Maker by BowieD
+GUID 284482a5a4d744bbb064d7d7364f391d
+ID 24151
+Type NPC
+Shirt 19153
+Pants 19109
+Mask 19168
+Backpack 1597
+Glasses 19219
+Primary 59235
+Secondary 58564
+Face 14
+Beard 0
+Hair 5
+Color_Skin #191919
+Color_Hair #000000
+Pose Stand
+Dialogue 24151
+Conditions 1
+Condition_0_Type Is_Full_Moon
+Condition_0_Value True
+

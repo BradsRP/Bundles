@@ -1,0 +1,10 @@
+﻿// Made in NPC Maker by BowieD
+GUID f98378ced7744b65b9f42d1c8e0246bc
+Type Quest
+ID 24427
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 24907
+Condition_0_Amount 20
+Condition_0_Reset 
+

@@ -1,0 +1,15 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.16-alpha.5
+"Metadata"
+{
+	"GUID" "d3279fb1329f4733bca13f3f8012683d"
+	"Type" "SDG.Unturned.SpawnAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Roots" "0"
+	"Tables" "1"
+	"Table_0_Weight" "1"
+	"Table_0_GUID" "abbf56f07bbb4fe3a2100cfdf951b7cc"
+	"ID" "25015"
+	"Asset_Bundle_Version" "5"
+}

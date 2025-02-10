@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Hello <color=rare><name_char></color>. Let me know when you're ready to order.</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Please come back when you have a <color=legendary>BGN-State Gun License</color>!</b></color>
+Response_0 <color=legendary>Assault Rifles</color>
+Response_1 <color=epic>Secondary Carbines</color>
+Response_2 <color=rare>Shotguns</color>
+Response_3 <color=uncommon>SMGs</color>
+Response_4 <color=common>Sidearms</color>
+Response_5 <color=uncommon>Ammo</color>
+Response_6 <color=rare>Attachments</color>
+Response_7 <color=rare>Weapon Mounts</color>
+Response_8 <color=#fc052a>Buy-back</color>
+Response_9 Exit

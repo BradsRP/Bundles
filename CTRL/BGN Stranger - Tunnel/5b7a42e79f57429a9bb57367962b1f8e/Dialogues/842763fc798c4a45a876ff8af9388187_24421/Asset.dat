@@ -1,0 +1,474 @@
+﻿// Made in NPC Maker by BowieD
+GUID 842763fc798c4a45a876ff8af9388187
+Type Dialogue
+ID 24421
+Messages 4
+Message_0_Pages 1
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 26
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 24421
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 26
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 24421
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+
+Message_2_Pages 1
+Message_2_Responses 2
+Message_2_Response_0 2
+Message_2_Response_1 26
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 24421
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+
+Message_3_Pages 1
+Message_3_Responses 24
+Message_3_Response_0 3
+Message_3_Response_1 4
+Message_3_Response_2 5
+Message_3_Response_3 6
+Message_3_Response_4 7
+Message_3_Response_5 8
+Message_3_Response_6 9
+Message_3_Response_7 10
+Message_3_Response_8 11
+Message_3_Response_9 12
+Message_3_Response_10 13
+Message_3_Response_11 14
+Message_3_Response_12 15
+Message_3_Response_13 16
+Message_3_Response_14 17
+Message_3_Response_15 18
+Message_3_Response_16 19
+Message_3_Response_17 20
+Message_3_Response_18 21
+Message_3_Response_19 22
+Message_3_Response_20 23
+Message_3_Response_21 24
+Message_3_Response_22 25
+Message_3_Response_23 26
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 24421
+Message_3_Condition_0_Value 3
+Message_3_Condition_0_Logic Equal
+
+Responses 27
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24421
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 24421
+Response_0_Reward_0_Value 1
+Response_0_Reward_0_Modification Assign
+
+Response_1_Messages 1
+Response_1_Message_0 1
+Response_1_Dialogue 24421
+Response_1_Rewards 1
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 24421
+Response_1_Reward_0_Value 2
+Response_1_Reward_0_Modification Assign
+
+Response_2_Messages 1
+Response_2_Message_0 2
+Response_2_Dialogue 24421
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Short
+Response_2_Reward_0_ID 24421
+Response_2_Reward_0_Value 3
+Response_2_Reward_0_Modification Assign
+
+Response_3_Messages 1
+Response_3_Message_0 3
+Response_3_Rewards 1
+Response_3_Reward_0_Type Teleport
+Response_3_Reward_0_Spawnpoint DMZ_1
+
+Response_4_Messages 1
+Response_4_Message_0 3
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 24423
+Response_4_Condition_0_Status None
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+
+Response_4_Rewards 2
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 24423
+
+Response_4_Reward_1_Type Hint
+Response_4_Reward_1_Duration 4
+
+Response_5_Messages 1
+Response_5_Message_0 3
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 24423
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Ignore_NPC False
+Response_5_Condition_0_Reset 
+
+Response_5_Rewards 1
+Response_5_Reward_0_Type Hint
+Response_5_Reward_0_Duration 4
+
+Response_6_Messages 1
+Response_6_Message_0 3
+Response_6_Conditions 2
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 24423
+Response_6_Condition_0_Status Completed
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_Ignore_NPC False
+
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_ID 24424
+Response_6_Condition_1_Status None
+Response_6_Condition_1_Logic Equal
+Response_6_Condition_1_Ignore_NPC False
+
+Response_6_Rewards 2
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 24424
+
+Response_6_Reward_1_Type Hint
+Response_6_Reward_1_Duration 4
+
+Response_7_Messages 1
+Response_7_Message_0 3
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 24424
+Response_7_Condition_0_Status Ready
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Ignore_NPC False
+Response_7_Condition_0_Reset 
+
+Response_7_Rewards 1
+Response_7_Reward_0_Type Hint
+Response_7_Reward_0_Duration 6
+
+Response_8_Messages 1
+Response_8_Message_0 3
+Response_8_Conditions 2
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 24424
+Response_8_Condition_0_Status Completed
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Ignore_NPC False
+
+Response_8_Condition_1_Type Quest
+Response_8_Condition_1_ID 24425
+Response_8_Condition_1_Status None
+Response_8_Condition_1_Logic Equal
+Response_8_Condition_1_Ignore_NPC False
+
+Response_8_Rewards 2
+Response_8_Reward_0_Type Quest
+Response_8_Reward_0_ID 24425
+
+Response_8_Reward_1_Type Hint
+Response_8_Reward_1_Duration 4
+
+Response_9_Messages 1
+Response_9_Message_0 3
+Response_9_Conditions 1
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 24425
+Response_9_Condition_0_Status Ready
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_Ignore_NPC False
+Response_9_Condition_0_Reset 
+
+Response_9_Rewards 1
+Response_9_Reward_0_Type Hint
+Response_9_Reward_0_Duration 6
+
+Response_10_Messages 1
+Response_10_Message_0 3
+Response_10_Conditions 2
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 24425
+Response_10_Condition_0_Status Completed
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_Ignore_NPC False
+
+Response_10_Condition_1_Type Quest
+Response_10_Condition_1_ID 24426
+Response_10_Condition_1_Status None
+Response_10_Condition_1_Logic Equal
+Response_10_Condition_1_Ignore_NPC False
+
+Response_10_Rewards 2
+Response_10_Reward_0_Type Quest
+Response_10_Reward_0_ID 24426
+
+Response_10_Reward_1_Type Hint
+Response_10_Reward_1_Duration 4
+
+Response_11_Messages 1
+Response_11_Message_0 3
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 24426
+Response_11_Condition_0_Status Ready
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Ignore_NPC False
+Response_11_Condition_0_Reset 
+
+Response_11_Rewards 1
+Response_11_Reward_0_Type Hint
+Response_11_Reward_0_Duration 6
+
+Response_12_Messages 1
+Response_12_Message_0 3
+Response_12_Conditions 1
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_ID 24426
+Response_12_Condition_0_Status Completed
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_Ignore_NPC False
+
+Response_12_Rewards 1
+Response_12_Reward_0_Type Teleport
+Response_12_Reward_0_Spawnpoint DMZ_2
+
+Response_13_Messages 1
+Response_13_Message_0 3
+Response_13_Conditions 2
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_ID 24426
+Response_13_Condition_0_Status Completed
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_Ignore_NPC False
+
+Response_13_Condition_1_Type Quest
+Response_13_Condition_1_ID 24427
+Response_13_Condition_1_Status None
+Response_13_Condition_1_Logic Equal
+Response_13_Condition_1_Ignore_NPC False
+
+Response_13_Rewards 2
+Response_13_Reward_0_Type Quest
+Response_13_Reward_0_ID 24427
+
+Response_13_Reward_1_Type Hint
+Response_13_Reward_1_Duration 4
+
+Response_14_Messages 1
+Response_14_Message_0 3
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_ID 24427
+Response_14_Condition_0_Status Ready
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_Ignore_NPC False
+Response_14_Condition_0_Reset 
+
+Response_14_Rewards 1
+Response_14_Reward_0_Type Hint
+Response_14_Reward_0_Duration 6
+
+Response_15_Messages 1
+Response_15_Message_0 3
+Response_15_Conditions 2
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_ID 24427
+Response_15_Condition_0_Status Completed
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_Ignore_NPC False
+
+Response_15_Condition_1_Type Quest
+Response_15_Condition_1_ID 24428
+Response_15_Condition_1_Status None
+Response_15_Condition_1_Logic Equal
+Response_15_Condition_1_Ignore_NPC False
+
+Response_15_Rewards 2
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 24428
+
+Response_15_Reward_1_Type Hint
+Response_15_Reward_1_Duration 4
+
+Response_16_Messages 1
+Response_16_Message_0 3
+Response_16_Conditions 1
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_ID 24428
+Response_16_Condition_0_Status Ready
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_Ignore_NPC False
+Response_16_Condition_0_Reset 
+
+Response_16_Rewards 1
+Response_16_Reward_0_Type Hint
+Response_16_Reward_0_Duration 6
+
+Response_17_Messages 1
+Response_17_Message_0 3
+Response_17_Conditions 2
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_ID 24428
+Response_17_Condition_0_Status Completed
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_Ignore_NPC False
+
+Response_17_Condition_1_Type Quest
+Response_17_Condition_1_ID 24429
+Response_17_Condition_1_Status None
+Response_17_Condition_1_Logic Equal
+Response_17_Condition_1_Ignore_NPC False
+
+Response_17_Rewards 2
+Response_17_Reward_0_Type Quest
+Response_17_Reward_0_ID 24429
+
+Response_17_Reward_1_Type Hint
+Response_17_Reward_1_Duration 4
+
+Response_18_Messages 1
+Response_18_Message_0 3
+Response_18_Conditions 1
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_ID 24429
+Response_18_Condition_0_Status Ready
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_Ignore_NPC False
+Response_18_Condition_0_Reset 
+
+Response_18_Rewards 3
+Response_18_Reward_0_Type Hint
+Response_18_Reward_0_Duration 8
+
+Response_18_Reward_1_Type Item
+Response_18_Reward_1_ID 1271
+Response_18_Reward_1_Amount 1
+Response_18_Reward_1_Auto_Equip False
+
+Response_18_Reward_2_Type Item
+Response_18_Reward_2_ID 1270
+Response_18_Reward_2_Amount 1
+Response_18_Reward_2_Auto_Equip False
+
+Response_19_Messages 1
+Response_19_Message_0 3
+Response_19_Conditions 1
+Response_19_Condition_0_Type Quest
+Response_19_Condition_0_ID 24429
+Response_19_Condition_0_Status Completed
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_0_Ignore_NPC False
+
+Response_19_Rewards 1
+Response_19_Reward_0_Type Teleport
+Response_19_Reward_0_Spawnpoint DMZ_3
+
+Response_20_Messages 1
+Response_20_Message_0 3
+Response_20_Conditions 2
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_ID 24429
+Response_20_Condition_0_Status Completed
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_Ignore_NPC False
+
+Response_20_Condition_1_Type Quest
+Response_20_Condition_1_ID 24430
+Response_20_Condition_1_Status None
+Response_20_Condition_1_Logic Equal
+Response_20_Condition_1_Ignore_NPC False
+
+Response_20_Rewards 2
+Response_20_Reward_0_Type Quest
+Response_20_Reward_0_ID 24430
+
+Response_20_Reward_1_Type Hint
+Response_20_Reward_1_Duration 4
+
+Response_21_Messages 1
+Response_21_Message_0 3
+Response_21_Conditions 1
+Response_21_Condition_0_Type Quest
+Response_21_Condition_0_ID 24430
+Response_21_Condition_0_Status Ready
+Response_21_Condition_0_Logic Equal
+Response_21_Condition_0_Ignore_NPC False
+Response_21_Condition_0_Reset 
+
+Response_21_Rewards 1
+Response_21_Reward_0_Type Hint
+Response_21_Reward_0_Duration 3
+
+Response_22_Messages 1
+Response_22_Message_0 3
+Response_22_Dialogue 24422
+Response_22_Conditions 2
+Response_22_Condition_0_Type Quest
+Response_22_Condition_0_ID 24430
+Response_22_Condition_0_Status Completed
+Response_22_Condition_0_Logic Equal
+Response_22_Condition_0_Ignore_NPC False
+
+Response_22_Condition_1_Type Flag_Bool
+Response_22_Condition_1_ID 24422
+Response_22_Condition_1_Value False
+Response_22_Condition_1_Allow_Unset 
+Response_22_Condition_1_Logic Equal
+
+Response_23_Messages 1
+Response_23_Message_0 3
+Response_23_Conditions 2
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_ID 24431
+Response_23_Condition_0_Status None
+Response_23_Condition_0_Logic Equal
+Response_23_Condition_0_Ignore_NPC False
+
+Response_23_Condition_1_Type Flag_Bool
+Response_23_Condition_1_ID 24422
+Response_23_Condition_1_Value True
+Response_23_Condition_1_Logic Equal
+
+Response_23_Rewards 2
+Response_23_Reward_0_Type Quest
+Response_23_Reward_0_ID 24431
+
+Response_23_Reward_1_Type Hint
+Response_23_Reward_1_Duration 4
+
+Response_24_Messages 1
+Response_24_Message_0 3
+Response_24_Conditions 1
+Response_24_Condition_0_Type Quest
+Response_24_Condition_0_ID 24431
+Response_24_Condition_0_Status Ready
+Response_24_Condition_0_Logic Equal
+Response_24_Condition_0_Ignore_NPC False
+Response_24_Condition_0_Reset 
+
+Response_24_Rewards 1
+Response_24_Reward_0_Type Hint
+Response_24_Reward_0_Duration 6
+
+Response_25_Messages 1
+Response_25_Message_0 3
+Response_25_Vendor 24432

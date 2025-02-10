@@ -1,0 +1,190 @@
+﻿// Made in NPC Maker by BowieD
+GUID 94d94cc43ef945e4b170e12cd02d92c5
+Type Dialogue
+ID 24232
+Messages 1
+Message_0_Pages 1
+Responses 6
+Response_0_Dialogue 24231
+Response_0_Conditions 1
+Response_0_Condition_0_Type Experience
+Response_0_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_0_Condition_0_Value 6000
+Response_0_Condition_0_Reset 
+
+Response_0_Rewards 7
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 19111
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Auto_Equip True
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 19118
+Response_0_Reward_1_Amount 1
+Response_0_Reward_1_Auto_Equip True
+
+Response_0_Reward_2_Type Item
+Response_0_Reward_2_ID 19113
+Response_0_Reward_2_Amount 1
+Response_0_Reward_2_Auto_Equip True
+
+Response_0_Reward_3_Type Item
+Response_0_Reward_3_ID 19115
+Response_0_Reward_3_Amount 1
+Response_0_Reward_3_Auto_Equip True
+
+Response_0_Reward_4_Type Item
+Response_0_Reward_4_ID 19259
+Response_0_Reward_4_Amount 1
+Response_0_Reward_4_Auto_Equip True
+
+Response_0_Reward_5_Type Item
+Response_0_Reward_5_ID 19168
+Response_0_Reward_5_Amount 1
+Response_0_Reward_5_Auto_Equip True
+
+Response_0_Reward_6_Type Item
+Response_0_Reward_6_ID 19203
+Response_0_Reward_6_Amount 1
+Response_0_Reward_6_Auto_Equip True
+
+Response_1_Dialogue 24231
+Response_1_Conditions 1
+Response_1_Condition_0_Type Experience
+Response_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_1_Condition_0_Value 6000
+Response_1_Condition_0_Reset 
+
+Response_1_Rewards 7
+Response_1_Reward_0_Type Item
+Response_1_Reward_0_ID 19297
+Response_1_Reward_0_Amount 1
+Response_1_Reward_0_Auto_Equip True
+
+Response_1_Reward_1_Type Item
+Response_1_Reward_1_ID 19165
+Response_1_Reward_1_Amount 1
+Response_1_Reward_1_Auto_Equip True
+
+Response_1_Reward_2_Type Item
+Response_1_Reward_2_ID 19259
+Response_1_Reward_2_Amount 1
+Response_1_Reward_2_Auto_Equip True
+
+Response_1_Reward_3_Type Item
+Response_1_Reward_3_ID 19295
+Response_1_Reward_3_Amount 1
+Response_1_Reward_3_Auto_Equip True
+
+Response_1_Reward_4_Type Item
+Response_1_Reward_4_ID 19293
+Response_1_Reward_4_Amount 1
+Response_1_Reward_4_Auto_Equip True
+
+Response_1_Reward_5_Type Item
+Response_1_Reward_5_ID 19292
+Response_1_Reward_5_Amount 1
+Response_1_Reward_5_Auto_Equip True
+
+Response_1_Reward_6_Type Item
+Response_1_Reward_6_ID 19291
+Response_1_Reward_6_Amount 1
+Response_1_Reward_6_Auto_Equip True
+
+Response_2_Dialogue 24231
+Response_2_Conditions 1
+Response_2_Condition_0_Type Experience
+Response_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_2_Condition_0_Value 7000
+Response_2_Condition_0_Reset 
+
+Response_2_Rewards 11
+Response_2_Reward_0_Type Item
+Response_2_Reward_0_ID 19197
+Response_2_Reward_0_Amount 1
+Response_2_Reward_0_Auto_Equip True
+
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_ID 19193
+Response_2_Reward_1_Amount 1
+Response_2_Reward_1_Auto_Equip True
+
+Response_2_Reward_2_Type Item
+Response_2_Reward_2_ID 19309
+Response_2_Reward_2_Amount 1
+Response_2_Reward_2_Auto_Equip True
+
+Response_2_Reward_3_Type Item
+Response_2_Reward_3_ID 19312
+Response_2_Reward_3_Amount 1
+Response_2_Reward_3_Auto_Equip True
+
+Response_2_Reward_4_Type Item
+Response_2_Reward_4_ID 19259
+Response_2_Reward_4_Amount 1
+Response_2_Reward_4_Auto_Equip True
+
+Response_2_Reward_5_Type Item
+Response_2_Reward_5_ID 19162
+Response_2_Reward_5_Amount 1
+Response_2_Reward_5_Auto_Equip True
+
+Response_2_Reward_6_Type Item
+Response_2_Reward_6_ID 19302
+Response_2_Reward_6_Amount 1
+Response_2_Reward_6_Auto_Equip True
+
+Response_2_Reward_7_Type Item
+Response_2_Reward_7_ID 19304
+Response_2_Reward_7_Amount 1
+Response_2_Reward_7_Auto_Equip False
+
+Response_2_Reward_8_Type Item
+Response_2_Reward_8_ID 19305
+Response_2_Reward_8_Amount 1
+Response_2_Reward_8_Auto_Equip False
+
+Response_2_Reward_9_Type Item
+Response_2_Reward_9_ID 19308
+Response_2_Reward_9_Amount 1
+Response_2_Reward_9_Auto_Equip False
+
+Response_2_Reward_10_Type Item
+Response_2_Reward_10_ID 19299
+Response_2_Reward_10_Amount 1
+Response_2_Reward_10_Auto_Equip False
+
+Response_3_Dialogue 24231
+Response_3_Conditions 1
+Response_3_Condition_0_Type Experience
+Response_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_3_Condition_0_Value 4000
+Response_3_Condition_0_Reset 
+
+Response_3_Rewards 5
+Response_3_Reward_0_Type Item
+Response_3_Reward_0_ID 19189
+Response_3_Reward_0_Amount 1
+Response_3_Reward_0_Auto_Equip True
+
+Response_3_Reward_1_Type Item
+Response_3_Reward_1_ID 19177
+Response_3_Reward_1_Amount 1
+Response_3_Reward_1_Auto_Equip True
+
+Response_3_Reward_2_Type Item
+Response_3_Reward_2_ID 19181
+Response_3_Reward_2_Amount 1
+Response_3_Reward_2_Auto_Equip True
+
+Response_3_Reward_3_Type Item
+Response_3_Reward_3_ID 19190
+Response_3_Reward_3_Amount 1
+Response_3_Reward_3_Auto_Equip True
+
+Response_3_Reward_4_Type Item
+Response_3_Reward_4_ID 19119
+Response_3_Reward_4_Amount 1
+Response_3_Reward_4_Auto_Equip True
+
+Response_4_Dialogue 24231

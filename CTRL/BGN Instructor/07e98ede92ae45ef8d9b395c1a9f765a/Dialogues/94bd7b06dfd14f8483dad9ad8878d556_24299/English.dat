@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>I'm pleased to say you have passed the written test! You will now be taking your practical test.</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Unfortunately you have failed the test as you got at least one question wrong. You will have to attempt taking another test.</b></color>
+Response_0 <color=#FFFFFF><b>Take me there.</b></color>
+Response_1 <color=#FFFFFF><b>Thanks for your time.</b></color>

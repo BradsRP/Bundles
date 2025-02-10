@@ -1,0 +1,104 @@
+﻿// Made in NPC Maker by BowieD
+GUID 2714812809eb47f7aa3b14de18694b0d
+Type Dialogue
+ID 24201
+Messages 2
+Message_0_Pages 1
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 3
+Message_0_Response_2 4
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 24201
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 4
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Response_2 3
+Message_1_Response_3 4
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 24201
+Message_1_Condition_0_Value True
+Message_1_Condition_0_Allow_Unset 
+Message_1_Condition_0_Logic Equal
+
+Responses 5
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24201
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 2540
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Allow_Unset 
+Response_0_Condition_0_Logic Equal
+
+Response_0_Rewards 4
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 24201
+Response_0_Reward_0_Value True
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_Sight 0
+Response_0_Reward_1_Grip 0
+Response_0_Reward_1_Magazine 0
+Response_0_Reward_1_Barrel 0
+Response_0_Reward_1_Tactical 0
+Response_0_Reward_1_ID 503
+Response_0_Reward_1_Amount 1
+Response_0_Reward_1_Ammo 0
+Response_0_Reward_1_Auto_Equip True
+
+Response_0_Reward_2_Type Flag_Short
+Response_0_Reward_2_ID 24202
+Response_0_Reward_2_Value 0
+Response_0_Reward_2_Modification Assign
+
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 2543
+Response_0_Reward_3_Value False
+
+Response_1_Messages 1
+Response_1_Message_0 1
+Response_1_Vendor 24202
+Response_1_Conditions 1
+Response_1_Condition_0_Type Flag_Bool
+Response_1_Condition_0_ID 2540
+Response_1_Condition_0_Value True
+Response_1_Condition_0_Allow_Unset 
+Response_1_Condition_0_Logic Equal
+
+Response_2_Messages 1
+Response_2_Message_0 1
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 24203
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC True
+
+Response_2_Rewards 2
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 24203
+
+Response_2_Reward_1_Type Hint
+Response_2_Reward_1_Duration 10
+
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 24203
+Response_3_Condition_0_Status Ready
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC True
+Response_3_Condition_0_Reset 
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Hint
+Response_3_Reward_0_Duration 10
+

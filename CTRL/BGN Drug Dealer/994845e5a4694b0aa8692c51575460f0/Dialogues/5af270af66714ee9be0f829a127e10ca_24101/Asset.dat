@@ -1,0 +1,226 @@
+﻿// Made in NPC Maker by BowieD
+GUID 5af270af66714ee9be0f829a127e10ca
+Type Dialogue
+ID 24101
+Messages 7
+Message_0_Pages 1
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 8
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 24101
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Allow_Unset 
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Responses 3
+Message_1_Response_0 2
+Message_1_Response_1 3
+Message_1_Response_2 8
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 24101
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+
+Message_2_Pages 1
+Message_2_Responses 3
+Message_2_Response_0 2
+Message_2_Response_1 3
+Message_2_Response_2 8
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 24101
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+
+Message_3_Pages 1
+Message_3_Responses 2
+Message_3_Response_0 4
+Message_3_Response_1 8
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 24101
+Message_3_Condition_0_Value 3
+Message_3_Condition_0_Logic Equal
+
+Message_4_Pages 1
+Message_4_Responses 2
+Message_4_Response_0 5
+Message_4_Response_1 8
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 24101
+Message_4_Condition_0_Value 4
+Message_4_Condition_0_Logic Equal
+
+Message_5_Pages 1
+Message_5_Responses 3
+Message_5_Response_0 6
+Message_5_Response_1 7
+Message_5_Response_2 8
+Message_5_Conditions 1
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 24101
+Message_5_Condition_0_Value 5
+Message_5_Condition_0_Logic Equal
+
+Message_6_Pages 1
+Message_6_Responses 3
+Message_6_Response_0 6
+Message_6_Response_1 7
+Message_6_Response_2 8
+Message_6_Conditions 1
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 24101
+Message_6_Condition_0_Value 6
+Message_6_Condition_0_Logic Equal
+
+Responses 9
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24101
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 24101
+Response_0_Reward_0_Value 1
+Response_0_Reward_0_Modification Assign
+
+Response_1_Messages 1
+Response_1_Message_0 0
+Response_1_Dialogue 24101
+Response_1_Rewards 1
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 24101
+Response_1_Reward_0_Value 2
+Response_1_Reward_0_Modification Assign
+
+Response_2_Messages 2
+Response_2_Message_0 1
+Response_2_Message_1 2
+Response_2_Dialogue 24101
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Short
+Response_2_Reward_0_ID 24101
+Response_2_Reward_0_Value 4
+Response_2_Reward_0_Modification Assign
+
+Response_3_Messages 2
+Response_3_Message_0 1
+Response_3_Message_1 2
+Response_3_Dialogue 24101
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Short
+Response_3_Reward_0_ID 24101
+Response_3_Reward_0_Value 3
+Response_3_Reward_0_Modification Assign
+
+Response_4_Messages 1
+Response_4_Message_0 3
+Response_4_Dialogue 24101
+Response_4_Rewards 9
+Response_4_Reward_0_Type Flag_Short
+Response_4_Reward_0_ID 24101
+Response_4_Reward_0_Value 6
+Response_4_Reward_0_Modification Assign
+
+Response_4_Reward_1_Type Item
+Response_4_Reward_1_ID 1107
+Response_4_Reward_1_Amount 1
+Response_4_Reward_1_Auto_Equip False
+
+Response_4_Reward_2_Type Item
+Response_4_Reward_2_ID 1106
+Response_4_Reward_2_Amount 1
+Response_4_Reward_2_Auto_Equip False
+
+Response_4_Reward_3_Type Item
+Response_4_Reward_3_ID 1104
+Response_4_Reward_3_Amount 1
+Response_4_Reward_3_Auto_Equip False
+
+Response_4_Reward_4_Type Item
+Response_4_Reward_4_ID 1108
+Response_4_Reward_4_Amount 1
+Response_4_Reward_4_Auto_Equip False
+
+Response_4_Reward_5_Type Item
+Response_4_Reward_5_ID 1109
+Response_4_Reward_5_Amount 1
+Response_4_Reward_5_Auto_Equip False
+
+Response_4_Reward_6_Type Item
+Response_4_Reward_6_ID 1105
+Response_4_Reward_6_Amount 1
+Response_4_Reward_6_Auto_Equip False
+
+Response_4_Reward_7_Type Item
+Response_4_Reward_7_ID 4744
+Response_4_Reward_7_Amount 1
+Response_4_Reward_7_Auto_Equip False
+
+Response_4_Reward_8_Type Item
+Response_4_Reward_8_ID 1107
+Response_4_Reward_8_Amount 1
+Response_4_Reward_8_Auto_Equip False
+
+Response_5_Messages 1
+Response_5_Message_0 4
+Response_5_Dialogue 24101
+Response_5_Rewards 9
+Response_5_Reward_0_Type Flag_Short
+Response_5_Reward_0_ID 24101
+Response_5_Reward_0_Value 6
+Response_5_Reward_0_Modification Assign
+
+Response_5_Reward_1_Type Item
+Response_5_Reward_1_ID 1107
+Response_5_Reward_1_Amount 1
+Response_5_Reward_1_Auto_Equip False
+
+Response_5_Reward_2_Type Item
+Response_5_Reward_2_ID 1106
+Response_5_Reward_2_Amount 1
+Response_5_Reward_2_Auto_Equip False
+
+Response_5_Reward_3_Type Item
+Response_5_Reward_3_ID 1104
+Response_5_Reward_3_Amount 1
+Response_5_Reward_3_Auto_Equip False
+
+Response_5_Reward_4_Type Item
+Response_5_Reward_4_ID 1108
+Response_5_Reward_4_Amount 1
+Response_5_Reward_4_Auto_Equip False
+
+Response_5_Reward_5_Type Item
+Response_5_Reward_5_ID 1109
+Response_5_Reward_5_Amount 1
+Response_5_Reward_5_Auto_Equip False
+
+Response_5_Reward_6_Type Item
+Response_5_Reward_6_ID 1105
+Response_5_Reward_6_Amount 1
+Response_5_Reward_6_Auto_Equip False
+
+Response_5_Reward_7_Type Item
+Response_5_Reward_7_ID 4744
+Response_5_Reward_7_Amount 1
+Response_5_Reward_7_Auto_Equip False
+
+Response_5_Reward_8_Type Item
+Response_5_Reward_8_ID 1107
+Response_5_Reward_8_Amount 1
+Response_5_Reward_8_Auto_Equip False
+
+Response_6_Messages 2
+Response_6_Message_0 5
+Response_6_Message_1 6
+Response_6_Vendor 24102
+Response_7_Messages 2
+Response_7_Message_0 5
+Response_7_Message_1 6
+Response_7_Vendor 24103

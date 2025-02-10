@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 3037248148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c02ee2f747a0e24609b66ec576ccd37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3420fe742640b4ef844a06e04c1a91b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Zorvoan/Black_NEI_Top/Item.prefab
+- Assets/Zorvoan/Black_NEI_Top_Old/Item.prefab
+- Assets/Zorvoan/Black_NEI_Top_Old/Shirt.png
+- Assets/Zorvoan/Green_NEI_Top/Animations.prefab
+- Assets/Zorvoan/Ducky_Bottom/Pants.png
+- Assets/Zorvoan/Green_NEI_Top_Old/Item.prefab
+- Assets/Zorvoan/Purple_Hawaii_Top/Shirt.png
+- Assets/Zorvoan/Pink_Hawaii_Shorts/Material.mat
+- Assets/Zorvoan/Black_NEI_Top/Material.mat
+- Assets/Zorvoan/Purple_Hawaii_Shorts/Pants.png
+- Assets/Zorvoan/Blue_Hawaii_Top/Item.prefab
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Material.mat
+- Assets/Zorvoan/Ducky_Top/Shirt.png
+- Assets/Zorvoan/Black_NEI_Top/Shirt.png
+- Assets/Zorvoan/Ducky_Top/Item.prefab
+- Assets/Zorvoan/DMZ_Top/Item.prefab
+- Assets/Zorvoan/Green_NEI_Bottom/Animations.prefab
+- Assets/Zorvoan/Green_NEI_Top_Old/Material.mat
+- Assets/Zorvoan/White_NEI_Bottom/Pants.png
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Item.prefab
+- Assets/Zorvoan/DMZ_Bottom/Animations.prefab
+- Assets/Zorvoan/Green_NEI_Bottom/Material.mat
+- Assets/Zorvoan/White_NEI_Top/Shirt.png
+- Assets/Zorvoan/Green_NEI_Bottom/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Top/Material.mat
+- Assets/Zorvoan/Purple_Hawaii_Top/Animations.prefab
+- Assets/Zorvoan/Black_NEI_Bottom/Item.prefab
+- Assets/Zorvoan/Ducky_Bottom/Material.mat
+- Assets/Zorvoan/Green_NEI_Bottom/Pants.png
+- Assets/Zorvoan/Green_NEI_Top_Old/Animations.prefab
+- Assets/Zorvoan/Black_NEI_Top_Old/Material.mat
+- Assets/Zorvoan/Blue_Hawaii_Top/Animations.prefab
+- Assets/Zorvoan/Purple_Hawaii_Shorts/Animations.prefab
+- Assets/Zorvoan/Pink_Hawaii_Shorts/Animations.prefab
+- Assets/Zorvoan/Pink_Hawaii_Shorts/Item.prefab
+- Assets/Zorvoan/Purple_Hawaii_Top/Item.prefab
+- Assets/Zorvoan/White_NEI_Top_Old/Item.prefab
+- Assets/Zorvoan/Purple_Hawaii_Shorts/Material.mat
+- Assets/Zorvoan/Black_NEI_Bottom/Pants.png
+- Assets/Zorvoan/White_NEI_Top_Old/Material.mat
+- Assets/Zorvoan/Ducky_Bottom/Item.prefab
+- Assets/Zorvoan/Ducky_Top/Animations.prefab
+- Assets/Zorvoan/Black_NEI_Top_Old/Animations.prefab
+- Assets/Zorvoan/Green_NEI_Top_Old/Shirt.png
+- Assets/Zorvoan/Pink_Hawaii_Top/Animations.prefab
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Animations.prefab
+- Assets/Zorvoan/Blue_Hawaii_Top/Shirt.png
+- Assets/Zorvoan/DMZ_Top/Material.mat
+- Assets/Zorvoan/Pink_Hawaii_Top/Item.prefab
+- Assets/Zorvoan/Pink_Hawaii_Top/Shirt.png
+- Assets/Zorvoan/DMZ_Bottom/Material.mat
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Pants.png
+- Assets/Zorvoan/Green_NEI_Top/Shirt.png
+- Assets/Zorvoan/Pink_Hawaii_Top/Material.mat
+- Assets/Zorvoan/White_NEI_Top/Material.mat
+- Assets/Zorvoan/Ducky_Bottom/Animations.prefab
+- Assets/Zorvoan/White_NEI_Bottom/Material.mat
+- Assets/Zorvoan/Green_NEI_Top/Material.mat
+- Assets/Zorvoan/DMZ_Top/Shirt.png
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Material.mat
+- Assets/Zorvoan/Green_NEI_Top/Item.prefab
+- Assets/Zorvoan/White_NEI_Bottom/Animations.prefab
+- Assets/Zorvoan/Purple_Hawaii_Top/Material.mat
+- Assets/Zorvoan/DMZ_Bottom/Item.prefab
+- Assets/Zorvoan/Pink_Hawaii_Shorts/Pants.png
+- Assets/Zorvoan/White_NEI_Top/Item.prefab
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Animations.prefab
+- Assets/Zorvoan/Purple_Hawaii_Shorts/Item.prefab
+- Assets/Zorvoan/Black_NEI_Bottom/Material.mat
+- Assets/Zorvoan/White_NEI_Bottom/Item.prefab
+- Assets/Zorvoan/DMZ_Top/Animations.prefab
+- Assets/Zorvoan/White_NEI_Top_Old/Animations.prefab
+- Assets/Zorvoan/White_NEI_Top/Animations.prefab
+- Assets/Zorvoan/DMZ_Bottom/Pants.png
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Item.prefab
+- Assets/Zorvoan/Black_NEI_Bottom/Animations.prefab
+- Assets/Zorvoan/Black_NEI_Top/Animations.prefab
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Shirt.png
+- Assets/Zorvoan/Ducky_Top/Material.mat
+- Assets/Zorvoan/White_NEI_Top_Old/Shirt.png
+Dependencies: []

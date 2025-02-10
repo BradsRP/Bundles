@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 <color=#FFFFFF><b>Hello Officer <name_char>! What helicopter are you looking for?</b></color>
+Message_1_Page_0 <color=#FFFFFF><b>Please bring your personal <color=#ffee00>Taser</color> in order to access my shop.</b></color>
+Response_0 <color=#69cedb><b>PD Helicopter Shop</b></color>
+Response_1 Leave

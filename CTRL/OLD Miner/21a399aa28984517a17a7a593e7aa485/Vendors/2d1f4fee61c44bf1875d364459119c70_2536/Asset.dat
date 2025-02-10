@@ -1,0 +1,1506 @@
+﻿// Made in NPC Maker by BowieD
+GUID 2d1f4fee61c44bf1875d364459119c70
+Type Vendor
+ID 2536
+Buying 80
+Buying_0_ID 67
+Buying_0_Cost 30
+Buying_0_Conditions 1
+Buying_0_Condition_0_Type Flag_Short
+Buying_0_Condition_0_ID 2567
+Buying_0_Condition_0_Value 1000
+Buying_0_Condition_0_Allow_Unset 
+Buying_0_Condition_0_Logic Less_Than
+
+Buying_0_Rewards 1
+Buying_0_Reward_0_Type Flag_Short
+Buying_0_Reward_0_ID 2567
+Buying_0_Reward_0_Value 1
+Buying_0_Reward_0_Modification Increment
+
+Buying_1_ID 49101
+Buying_1_Cost 300
+Buying_1_Conditions 1
+Buying_1_Condition_0_Type Flag_Short
+Buying_1_Condition_0_ID 2567
+Buying_1_Condition_0_Value 1000
+Buying_1_Condition_0_Allow_Unset 
+Buying_1_Condition_0_Logic Less_Than
+
+Buying_1_Rewards 1
+Buying_1_Reward_0_Type Flag_Short
+Buying_1_Reward_0_ID 2567
+Buying_1_Reward_0_Value 10
+Buying_1_Reward_0_Modification Increment
+
+Buying_2_ID 49102
+Buying_2_Cost 3000
+Buying_2_Conditions 1
+Buying_2_Condition_0_Type Flag_Short
+Buying_2_Condition_0_ID 2567
+Buying_2_Condition_0_Value 1000
+Buying_2_Condition_0_Allow_Unset 
+Buying_2_Condition_0_Logic Less_Than
+
+Buying_2_Rewards 1
+Buying_2_Reward_0_Type Flag_Short
+Buying_2_Reward_0_ID 2567
+Buying_2_Reward_0_Value 100
+Buying_2_Reward_0_Modification Increment
+
+Buying_3_ID 56252
+Buying_3_Cost 50
+Buying_3_Conditions 1
+Buying_3_Condition_0_Type Flag_Short
+Buying_3_Condition_0_ID 2568
+Buying_3_Condition_0_Value 500
+Buying_3_Condition_0_Allow_Unset 
+Buying_3_Condition_0_Logic Less_Than
+
+Buying_3_Rewards 1
+Buying_3_Reward_0_Type Flag_Short
+Buying_3_Reward_0_ID 2568
+Buying_3_Reward_0_Value 1
+Buying_3_Reward_0_Modification Increment
+
+Buying_4_ID 56253
+Buying_4_Cost 50
+Buying_4_Conditions 1
+Buying_4_Condition_0_Type Flag_Short
+Buying_4_Condition_0_ID 2568
+Buying_4_Condition_0_Value 500
+Buying_4_Condition_0_Allow_Unset 
+Buying_4_Condition_0_Logic Less_Than
+
+Buying_4_Rewards 1
+Buying_4_Reward_0_Type Flag_Short
+Buying_4_Reward_0_ID 2568
+Buying_4_Reward_0_Value 1
+Buying_4_Reward_0_Modification Increment
+
+Buying_5_ID 67
+Buying_5_Cost 31
+Buying_5_Conditions 2
+Buying_5_Condition_0_Type Flag_Short
+Buying_5_Condition_0_ID 2567
+Buying_5_Condition_0_Value 2000
+Buying_5_Condition_0_Allow_Unset 
+Buying_5_Condition_0_Logic Less_Than
+
+Buying_5_Condition_1_Type Flag_Short
+Buying_5_Condition_1_ID 2567
+Buying_5_Condition_1_Value 1000
+Buying_5_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_5_Rewards 1
+Buying_5_Reward_0_Type Flag_Short
+Buying_5_Reward_0_ID 2567
+Buying_5_Reward_0_Value 1
+Buying_5_Reward_0_Modification Increment
+
+Buying_6_ID 49101
+Buying_6_Cost 310
+Buying_6_Conditions 2
+Buying_6_Condition_0_Type Flag_Short
+Buying_6_Condition_0_ID 2567
+Buying_6_Condition_0_Value 2000
+Buying_6_Condition_0_Allow_Unset 
+Buying_6_Condition_0_Logic Less_Than
+
+Buying_6_Condition_1_Type Flag_Short
+Buying_6_Condition_1_ID 2567
+Buying_6_Condition_1_Value 1000
+Buying_6_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_6_Rewards 1
+Buying_6_Reward_0_Type Flag_Short
+Buying_6_Reward_0_ID 2567
+Buying_6_Reward_0_Value 10
+Buying_6_Reward_0_Modification Increment
+
+Buying_7_ID 49102
+Buying_7_Cost 3100
+Buying_7_Conditions 2
+Buying_7_Condition_0_Type Flag_Short
+Buying_7_Condition_0_ID 2567
+Buying_7_Condition_0_Value 2000
+Buying_7_Condition_0_Allow_Unset 
+Buying_7_Condition_0_Logic Less_Than
+
+Buying_7_Condition_1_Type Flag_Short
+Buying_7_Condition_1_ID 2567
+Buying_7_Condition_1_Value 1000
+Buying_7_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_7_Rewards 1
+Buying_7_Reward_0_Type Flag_Short
+Buying_7_Reward_0_ID 2567
+Buying_7_Reward_0_Value 100
+Buying_7_Reward_0_Modification Increment
+
+Buying_8_ID 56252
+Buying_8_Cost 51
+Buying_8_Conditions 2
+Buying_8_Condition_0_Type Flag_Short
+Buying_8_Condition_0_ID 2568
+Buying_8_Condition_0_Value 1000
+Buying_8_Condition_0_Allow_Unset 
+Buying_8_Condition_0_Logic Less_Than
+
+Buying_8_Condition_1_Type Flag_Short
+Buying_8_Condition_1_ID 2568
+Buying_8_Condition_1_Value 500
+Buying_8_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_8_Rewards 1
+Buying_8_Reward_0_Type Flag_Short
+Buying_8_Reward_0_ID 2568
+Buying_8_Reward_0_Value 1
+Buying_8_Reward_0_Modification Increment
+
+Buying_9_ID 56253
+Buying_9_Cost 51
+Buying_9_Conditions 2
+Buying_9_Condition_0_Type Flag_Short
+Buying_9_Condition_0_ID 2568
+Buying_9_Condition_0_Value 1000
+Buying_9_Condition_0_Allow_Unset 
+Buying_9_Condition_0_Logic Less_Than
+
+Buying_9_Condition_1_Type Flag_Short
+Buying_9_Condition_1_ID 2568
+Buying_9_Condition_1_Value 500
+Buying_9_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_9_Rewards 1
+Buying_9_Reward_0_Type Flag_Short
+Buying_9_Reward_0_ID 2568
+Buying_9_Reward_0_Value 1
+Buying_9_Reward_0_Modification Increment
+
+Buying_10_ID 67
+Buying_10_Cost 32
+Buying_10_Conditions 2
+Buying_10_Condition_0_Type Flag_Short
+Buying_10_Condition_0_ID 2567
+Buying_10_Condition_0_Value 3000
+Buying_10_Condition_0_Allow_Unset 
+Buying_10_Condition_0_Logic Less_Than
+
+Buying_10_Condition_1_Type Flag_Short
+Buying_10_Condition_1_ID 2567
+Buying_10_Condition_1_Value 2000
+Buying_10_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_10_Rewards 1
+Buying_10_Reward_0_Type Flag_Short
+Buying_10_Reward_0_ID 2567
+Buying_10_Reward_0_Value 1
+Buying_10_Reward_0_Modification Increment
+
+Buying_11_ID 49101
+Buying_11_Cost 320
+Buying_11_Conditions 2
+Buying_11_Condition_0_Type Flag_Short
+Buying_11_Condition_0_ID 2567
+Buying_11_Condition_0_Value 3000
+Buying_11_Condition_0_Allow_Unset 
+Buying_11_Condition_0_Logic Less_Than
+
+Buying_11_Condition_1_Type Flag_Short
+Buying_11_Condition_1_ID 2567
+Buying_11_Condition_1_Value 2000
+Buying_11_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_11_Rewards 1
+Buying_11_Reward_0_Type Flag_Short
+Buying_11_Reward_0_ID 2567
+Buying_11_Reward_0_Value 10
+Buying_11_Reward_0_Modification Increment
+
+Buying_12_ID 49102
+Buying_12_Cost 3200
+Buying_12_Conditions 2
+Buying_12_Condition_0_Type Flag_Short
+Buying_12_Condition_0_ID 2567
+Buying_12_Condition_0_Value 3000
+Buying_12_Condition_0_Allow_Unset 
+Buying_12_Condition_0_Logic Less_Than
+
+Buying_12_Condition_1_Type Flag_Short
+Buying_12_Condition_1_ID 2567
+Buying_12_Condition_1_Value 2000
+Buying_12_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_12_Rewards 1
+Buying_12_Reward_0_Type Flag_Short
+Buying_12_Reward_0_ID 2567
+Buying_12_Reward_0_Value 100
+Buying_12_Reward_0_Modification Increment
+
+Buying_13_ID 56252
+Buying_13_Cost 52
+Buying_13_Conditions 2
+Buying_13_Condition_0_Type Flag_Short
+Buying_13_Condition_0_ID 2568
+Buying_13_Condition_0_Value 1500
+Buying_13_Condition_0_Allow_Unset 
+Buying_13_Condition_0_Logic Less_Than
+
+Buying_13_Condition_1_Type Flag_Short
+Buying_13_Condition_1_ID 2568
+Buying_13_Condition_1_Value 1000
+Buying_13_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_13_Rewards 1
+Buying_13_Reward_0_Type Flag_Short
+Buying_13_Reward_0_ID 2568
+Buying_13_Reward_0_Value 1
+Buying_13_Reward_0_Modification Increment
+
+Buying_14_ID 56253
+Buying_14_Cost 52
+Buying_14_Conditions 2
+Buying_14_Condition_0_Type Flag_Short
+Buying_14_Condition_0_ID 2568
+Buying_14_Condition_0_Value 1500
+Buying_14_Condition_0_Allow_Unset 
+Buying_14_Condition_0_Logic Less_Than
+
+Buying_14_Condition_1_Type Flag_Short
+Buying_14_Condition_1_ID 2568
+Buying_14_Condition_1_Value 1000
+Buying_14_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_14_Rewards 1
+Buying_14_Reward_0_Type Flag_Short
+Buying_14_Reward_0_ID 2568
+Buying_14_Reward_0_Value 1
+Buying_14_Reward_0_Modification Increment
+
+Buying_15_ID 67
+Buying_15_Cost 33
+Buying_15_Conditions 2
+Buying_15_Condition_0_Type Flag_Short
+Buying_15_Condition_0_ID 2567
+Buying_15_Condition_0_Value 4000
+Buying_15_Condition_0_Allow_Unset 
+Buying_15_Condition_0_Logic Less_Than
+
+Buying_15_Condition_1_Type Flag_Short
+Buying_15_Condition_1_ID 2567
+Buying_15_Condition_1_Value 3000
+Buying_15_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_15_Rewards 1
+Buying_15_Reward_0_Type Flag_Short
+Buying_15_Reward_0_ID 2567
+Buying_15_Reward_0_Value 1
+Buying_15_Reward_0_Modification Increment
+
+Buying_16_ID 49101
+Buying_16_Cost 330
+Buying_16_Conditions 2
+Buying_16_Condition_0_Type Flag_Short
+Buying_16_Condition_0_ID 2567
+Buying_16_Condition_0_Value 4000
+Buying_16_Condition_0_Allow_Unset 
+Buying_16_Condition_0_Logic Less_Than
+
+Buying_16_Condition_1_Type Flag_Short
+Buying_16_Condition_1_ID 2567
+Buying_16_Condition_1_Value 3000
+Buying_16_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_16_Rewards 1
+Buying_16_Reward_0_Type Flag_Short
+Buying_16_Reward_0_ID 2567
+Buying_16_Reward_0_Value 10
+Buying_16_Reward_0_Modification Increment
+
+Buying_17_ID 49102
+Buying_17_Cost 3300
+Buying_17_Conditions 2
+Buying_17_Condition_0_Type Flag_Short
+Buying_17_Condition_0_ID 2567
+Buying_17_Condition_0_Value 4000
+Buying_17_Condition_0_Allow_Unset 
+Buying_17_Condition_0_Logic Less_Than
+
+Buying_17_Condition_1_Type Flag_Short
+Buying_17_Condition_1_ID 2567
+Buying_17_Condition_1_Value 3000
+Buying_17_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_17_Rewards 1
+Buying_17_Reward_0_Type Flag_Short
+Buying_17_Reward_0_ID 2567
+Buying_17_Reward_0_Value 100
+Buying_17_Reward_0_Modification Increment
+
+Buying_18_ID 56252
+Buying_18_Cost 53
+Buying_18_Conditions 2
+Buying_18_Condition_0_Type Flag_Short
+Buying_18_Condition_0_ID 2568
+Buying_18_Condition_0_Value 2000
+Buying_18_Condition_0_Allow_Unset 
+Buying_18_Condition_0_Logic Less_Than
+
+Buying_18_Condition_1_Type Flag_Short
+Buying_18_Condition_1_ID 2568
+Buying_18_Condition_1_Value 1500
+Buying_18_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_18_Rewards 1
+Buying_18_Reward_0_Type Flag_Short
+Buying_18_Reward_0_ID 2568
+Buying_18_Reward_0_Value 1
+Buying_18_Reward_0_Modification Increment
+
+Buying_19_ID 56253
+Buying_19_Cost 53
+Buying_19_Conditions 2
+Buying_19_Condition_0_Type Flag_Short
+Buying_19_Condition_0_ID 2568
+Buying_19_Condition_0_Value 2000
+Buying_19_Condition_0_Allow_Unset 
+Buying_19_Condition_0_Logic Less_Than
+
+Buying_19_Condition_1_Type Flag_Short
+Buying_19_Condition_1_ID 2568
+Buying_19_Condition_1_Value 1500
+Buying_19_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_19_Rewards 1
+Buying_19_Reward_0_Type Flag_Short
+Buying_19_Reward_0_ID 2568
+Buying_19_Reward_0_Value 1
+Buying_19_Reward_0_Modification Increment
+
+Buying_20_ID 67
+Buying_20_Cost 34
+Buying_20_Conditions 2
+Buying_20_Condition_0_Type Flag_Short
+Buying_20_Condition_0_ID 2567
+Buying_20_Condition_0_Value 5000
+Buying_20_Condition_0_Allow_Unset 
+Buying_20_Condition_0_Logic Less_Than
+
+Buying_20_Condition_1_Type Flag_Short
+Buying_20_Condition_1_ID 2567
+Buying_20_Condition_1_Value 4000
+Buying_20_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_20_Rewards 1
+Buying_20_Reward_0_Type Flag_Short
+Buying_20_Reward_0_ID 2567
+Buying_20_Reward_0_Value 1
+Buying_20_Reward_0_Modification Increment
+
+Buying_21_ID 49101
+Buying_21_Cost 340
+Buying_21_Conditions 2
+Buying_21_Condition_0_Type Flag_Short
+Buying_21_Condition_0_ID 2567
+Buying_21_Condition_0_Value 5000
+Buying_21_Condition_0_Allow_Unset 
+Buying_21_Condition_0_Logic Less_Than
+
+Buying_21_Condition_1_Type Flag_Short
+Buying_21_Condition_1_ID 2567
+Buying_21_Condition_1_Value 4000
+Buying_21_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_21_Rewards 1
+Buying_21_Reward_0_Type Flag_Short
+Buying_21_Reward_0_ID 2567
+Buying_21_Reward_0_Value 10
+Buying_21_Reward_0_Modification Increment
+
+Buying_22_ID 49102
+Buying_22_Cost 3400
+Buying_22_Conditions 2
+Buying_22_Condition_0_Type Flag_Short
+Buying_22_Condition_0_ID 2567
+Buying_22_Condition_0_Value 5000
+Buying_22_Condition_0_Logic Less_Than
+
+Buying_22_Condition_1_Type Flag_Short
+Buying_22_Condition_1_ID 2567
+Buying_22_Condition_1_Value 4000
+Buying_22_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_22_Rewards 1
+Buying_22_Reward_0_Type Flag_Short
+Buying_22_Reward_0_ID 2567
+Buying_22_Reward_0_Value 100
+Buying_22_Reward_0_Modification Increment
+
+Buying_23_ID 56252
+Buying_23_Cost 54
+Buying_23_Conditions 2
+Buying_23_Condition_0_Type Flag_Short
+Buying_23_Condition_0_ID 2568
+Buying_23_Condition_0_Value 2500
+Buying_23_Condition_0_Allow_Unset 
+Buying_23_Condition_0_Logic Less_Than
+
+Buying_23_Condition_1_Type Flag_Short
+Buying_23_Condition_1_ID 2568
+Buying_23_Condition_1_Value 2000
+Buying_23_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_23_Rewards 1
+Buying_23_Reward_0_Type Flag_Short
+Buying_23_Reward_0_ID 2568
+Buying_23_Reward_0_Value 1
+Buying_23_Reward_0_Modification Increment
+
+Buying_24_ID 56253
+Buying_24_Cost 54
+Buying_24_Conditions 2
+Buying_24_Condition_0_Type Flag_Short
+Buying_24_Condition_0_ID 2568
+Buying_24_Condition_0_Value 2500
+Buying_24_Condition_0_Allow_Unset 
+Buying_24_Condition_0_Logic Less_Than
+
+Buying_24_Condition_1_Type Flag_Short
+Buying_24_Condition_1_ID 2568
+Buying_24_Condition_1_Value 2000
+Buying_24_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_24_Rewards 1
+Buying_24_Reward_0_Type Flag_Short
+Buying_24_Reward_0_ID 2568
+Buying_24_Reward_0_Value 1
+Buying_24_Reward_0_Modification Increment
+
+Buying_25_ID 67
+Buying_25_Cost 35
+Buying_25_Conditions 2
+Buying_25_Condition_0_Type Flag_Short
+Buying_25_Condition_0_ID 2567
+Buying_25_Condition_0_Value 6000
+Buying_25_Condition_0_Allow_Unset 
+Buying_25_Condition_0_Logic Less_Than
+
+Buying_25_Condition_1_Type Flag_Short
+Buying_25_Condition_1_ID 2567
+Buying_25_Condition_1_Value 5000
+Buying_25_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_25_Rewards 1
+Buying_25_Reward_0_Type Flag_Short
+Buying_25_Reward_0_ID 2567
+Buying_25_Reward_0_Value 1
+Buying_25_Reward_0_Modification Increment
+
+Buying_26_ID 49101
+Buying_26_Cost 350
+Buying_26_Conditions 2
+Buying_26_Condition_0_Type Flag_Short
+Buying_26_Condition_0_ID 2567
+Buying_26_Condition_0_Value 6000
+Buying_26_Condition_0_Allow_Unset 
+Buying_26_Condition_0_Logic Less_Than
+
+Buying_26_Condition_1_Type Flag_Short
+Buying_26_Condition_1_ID 2567
+Buying_26_Condition_1_Value 5000
+Buying_26_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_26_Rewards 1
+Buying_26_Reward_0_Type Flag_Short
+Buying_26_Reward_0_ID 2567
+Buying_26_Reward_0_Value 10
+Buying_26_Reward_0_Modification Increment
+
+Buying_27_ID 49102
+Buying_27_Cost 3500
+Buying_27_Conditions 2
+Buying_27_Condition_0_Type Flag_Short
+Buying_27_Condition_0_ID 2567
+Buying_27_Condition_0_Value 6000
+Buying_27_Condition_0_Logic Less_Than
+
+Buying_27_Condition_1_Type Flag_Short
+Buying_27_Condition_1_ID 2567
+Buying_27_Condition_1_Value 5000
+Buying_27_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_27_Rewards 1
+Buying_27_Reward_0_Type Flag_Short
+Buying_27_Reward_0_ID 2567
+Buying_27_Reward_0_Value 100
+Buying_27_Reward_0_Modification Increment
+
+Buying_28_ID 56252
+Buying_28_Cost 55
+Buying_28_Conditions 2
+Buying_28_Condition_0_Type Flag_Short
+Buying_28_Condition_0_ID 2568
+Buying_28_Condition_0_Value 3000
+Buying_28_Condition_0_Allow_Unset 
+Buying_28_Condition_0_Logic Less_Than
+
+Buying_28_Condition_1_Type Flag_Short
+Buying_28_Condition_1_ID 2568
+Buying_28_Condition_1_Value 2500
+Buying_28_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_28_Rewards 1
+Buying_28_Reward_0_Type Flag_Short
+Buying_28_Reward_0_ID 2568
+Buying_28_Reward_0_Value 1
+Buying_28_Reward_0_Modification Increment
+
+Buying_29_ID 56253
+Buying_29_Cost 55
+Buying_29_Conditions 2
+Buying_29_Condition_0_Type Flag_Short
+Buying_29_Condition_0_ID 2568
+Buying_29_Condition_0_Value 3000
+Buying_29_Condition_0_Logic Less_Than
+
+Buying_29_Condition_1_Type Flag_Short
+Buying_29_Condition_1_ID 2568
+Buying_29_Condition_1_Value 2500
+Buying_29_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_29_Rewards 1
+Buying_29_Reward_0_Type Flag_Short
+Buying_29_Reward_0_ID 2568
+Buying_29_Reward_0_Value 1
+Buying_29_Reward_0_Modification Increment
+
+Buying_30_ID 67
+Buying_30_Cost 36
+Buying_30_Conditions 2
+Buying_30_Condition_0_Type Flag_Short
+Buying_30_Condition_0_ID 2567
+Buying_30_Condition_0_Value 7000
+Buying_30_Condition_0_Allow_Unset 
+Buying_30_Condition_0_Logic Less_Than
+
+Buying_30_Condition_1_Type Flag_Short
+Buying_30_Condition_1_ID 2567
+Buying_30_Condition_1_Value 6000
+Buying_30_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_30_Rewards 1
+Buying_30_Reward_0_Type Flag_Short
+Buying_30_Reward_0_ID 2567
+Buying_30_Reward_0_Value 1
+Buying_30_Reward_0_Modification Increment
+
+Buying_31_ID 49101
+Buying_31_Cost 360
+Buying_31_Conditions 2
+Buying_31_Condition_0_Type Flag_Short
+Buying_31_Condition_0_ID 2567
+Buying_31_Condition_0_Value 7000
+Buying_31_Condition_0_Allow_Unset 
+Buying_31_Condition_0_Logic Less_Than
+
+Buying_31_Condition_1_Type Flag_Short
+Buying_31_Condition_1_ID 2567
+Buying_31_Condition_1_Value 6000
+Buying_31_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_31_Rewards 1
+Buying_31_Reward_0_Type Flag_Short
+Buying_31_Reward_0_ID 2567
+Buying_31_Reward_0_Value 10
+Buying_31_Reward_0_Modification Increment
+
+Buying_32_ID 49102
+Buying_32_Cost 3600
+Buying_32_Conditions 2
+Buying_32_Condition_0_Type Flag_Short
+Buying_32_Condition_0_ID 2567
+Buying_32_Condition_0_Value 7000
+Buying_32_Condition_0_Logic Less_Than
+
+Buying_32_Condition_1_Type Flag_Short
+Buying_32_Condition_1_ID 2567
+Buying_32_Condition_1_Value 6000
+Buying_32_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_32_Rewards 1
+Buying_32_Reward_0_Type Flag_Short
+Buying_32_Reward_0_ID 2567
+Buying_32_Reward_0_Value 100
+Buying_32_Reward_0_Modification Increment
+
+Buying_33_ID 56252
+Buying_33_Cost 56
+Buying_33_Conditions 2
+Buying_33_Condition_0_Type Flag_Short
+Buying_33_Condition_0_ID 2568
+Buying_33_Condition_0_Value 3500
+Buying_33_Condition_0_Allow_Unset 
+Buying_33_Condition_0_Logic Less_Than
+
+Buying_33_Condition_1_Type Flag_Short
+Buying_33_Condition_1_ID 2568
+Buying_33_Condition_1_Value 3000
+Buying_33_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_33_Rewards 1
+Buying_33_Reward_0_Type Flag_Short
+Buying_33_Reward_0_ID 2568
+Buying_33_Reward_0_Value 1
+Buying_33_Reward_0_Modification Increment
+
+Buying_34_ID 56253
+Buying_34_Cost 56
+Buying_34_Conditions 2
+Buying_34_Condition_0_Type Flag_Short
+Buying_34_Condition_0_ID 2568
+Buying_34_Condition_0_Value 3500
+Buying_34_Condition_0_Logic Less_Than
+
+Buying_34_Condition_1_Type Flag_Short
+Buying_34_Condition_1_ID 2568
+Buying_34_Condition_1_Value 3000
+Buying_34_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_34_Rewards 1
+Buying_34_Reward_0_Type Flag_Short
+Buying_34_Reward_0_ID 2568
+Buying_34_Reward_0_Value 1
+Buying_34_Reward_0_Modification Increment
+
+Buying_35_ID 67
+Buying_35_Cost 37
+Buying_35_Conditions 2
+Buying_35_Condition_0_Type Flag_Short
+Buying_35_Condition_0_ID 2567
+Buying_35_Condition_0_Value 8000
+Buying_35_Condition_0_Allow_Unset 
+Buying_35_Condition_0_Logic Less_Than
+
+Buying_35_Condition_1_Type Flag_Short
+Buying_35_Condition_1_ID 2567
+Buying_35_Condition_1_Value 7000
+Buying_35_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_35_Rewards 1
+Buying_35_Reward_0_Type Flag_Short
+Buying_35_Reward_0_ID 2567
+Buying_35_Reward_0_Value 1
+Buying_35_Reward_0_Modification Increment
+
+Buying_36_ID 49101
+Buying_36_Cost 370
+Buying_36_Conditions 2
+Buying_36_Condition_0_Type Flag_Short
+Buying_36_Condition_0_ID 2567
+Buying_36_Condition_0_Value 8000
+Buying_36_Condition_0_Allow_Unset 
+Buying_36_Condition_0_Logic Less_Than
+
+Buying_36_Condition_1_Type Flag_Short
+Buying_36_Condition_1_ID 2567
+Buying_36_Condition_1_Value 7000
+Buying_36_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_36_Rewards 1
+Buying_36_Reward_0_Type Flag_Short
+Buying_36_Reward_0_ID 2567
+Buying_36_Reward_0_Value 10
+Buying_36_Reward_0_Modification Increment
+
+Buying_37_ID 49102
+Buying_37_Cost 3700
+Buying_37_Conditions 2
+Buying_37_Condition_0_Type Flag_Short
+Buying_37_Condition_0_ID 2567
+Buying_37_Condition_0_Value 8000
+Buying_37_Condition_0_Logic Less_Than
+
+Buying_37_Condition_1_Type Flag_Short
+Buying_37_Condition_1_ID 2567
+Buying_37_Condition_1_Value 7000
+Buying_37_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_37_Rewards 1
+Buying_37_Reward_0_Type Flag_Short
+Buying_37_Reward_0_ID 2567
+Buying_37_Reward_0_Value 100
+Buying_37_Reward_0_Modification Increment
+
+Buying_38_ID 56252
+Buying_38_Cost 57
+Buying_38_Conditions 2
+Buying_38_Condition_0_Type Flag_Short
+Buying_38_Condition_0_ID 2568
+Buying_38_Condition_0_Value 4000
+Buying_38_Condition_0_Allow_Unset 
+Buying_38_Condition_0_Logic Less_Than
+
+Buying_38_Condition_1_Type Flag_Short
+Buying_38_Condition_1_ID 2568
+Buying_38_Condition_1_Value 3500
+Buying_38_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_38_Rewards 1
+Buying_38_Reward_0_Type Flag_Short
+Buying_38_Reward_0_ID 2568
+Buying_38_Reward_0_Value 1
+Buying_38_Reward_0_Modification Increment
+
+Buying_39_ID 56253
+Buying_39_Cost 57
+Buying_39_Conditions 2
+Buying_39_Condition_0_Type Flag_Short
+Buying_39_Condition_0_ID 2568
+Buying_39_Condition_0_Value 4000
+Buying_39_Condition_0_Logic Less_Than
+
+Buying_39_Condition_1_Type Flag_Short
+Buying_39_Condition_1_ID 2568
+Buying_39_Condition_1_Value 3500
+Buying_39_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_39_Rewards 1
+Buying_39_Reward_0_Type Flag_Short
+Buying_39_Reward_0_ID 2568
+Buying_39_Reward_0_Value 1
+Buying_39_Reward_0_Modification Increment
+
+Buying_40_ID 67
+Buying_40_Cost 38
+Buying_40_Conditions 2
+Buying_40_Condition_0_Type Flag_Short
+Buying_40_Condition_0_ID 2567
+Buying_40_Condition_0_Value 9000
+Buying_40_Condition_0_Allow_Unset 
+Buying_40_Condition_0_Logic Less_Than
+
+Buying_40_Condition_1_Type Flag_Short
+Buying_40_Condition_1_ID 2567
+Buying_40_Condition_1_Value 8000
+Buying_40_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_40_Rewards 1
+Buying_40_Reward_0_Type Flag_Short
+Buying_40_Reward_0_ID 2567
+Buying_40_Reward_0_Value 1
+Buying_40_Reward_0_Modification Increment
+
+Buying_41_ID 49101
+Buying_41_Cost 380
+Buying_41_Conditions 2
+Buying_41_Condition_0_Type Flag_Short
+Buying_41_Condition_0_ID 2567
+Buying_41_Condition_0_Value 9000
+Buying_41_Condition_0_Allow_Unset 
+Buying_41_Condition_0_Logic Less_Than
+
+Buying_41_Condition_1_Type Flag_Short
+Buying_41_Condition_1_ID 2567
+Buying_41_Condition_1_Value 8000
+Buying_41_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_41_Rewards 1
+Buying_41_Reward_0_Type Flag_Short
+Buying_41_Reward_0_ID 2567
+Buying_41_Reward_0_Value 10
+Buying_41_Reward_0_Modification Increment
+
+Buying_42_ID 49102
+Buying_42_Cost 3800
+Buying_42_Conditions 2
+Buying_42_Condition_0_Type Flag_Short
+Buying_42_Condition_0_ID 2567
+Buying_42_Condition_0_Value 9000
+Buying_42_Condition_0_Logic Less_Than
+
+Buying_42_Condition_1_Type Flag_Short
+Buying_42_Condition_1_ID 2567
+Buying_42_Condition_1_Value 8000
+Buying_42_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_42_Rewards 1
+Buying_42_Reward_0_Type Flag_Short
+Buying_42_Reward_0_ID 2567
+Buying_42_Reward_0_Value 100
+Buying_42_Reward_0_Modification Increment
+
+Buying_43_ID 56252
+Buying_43_Cost 58
+Buying_43_Conditions 2
+Buying_43_Condition_0_Type Flag_Short
+Buying_43_Condition_0_ID 2568
+Buying_43_Condition_0_Value 4500
+Buying_43_Condition_0_Allow_Unset 
+Buying_43_Condition_0_Logic Less_Than
+
+Buying_43_Condition_1_Type Flag_Short
+Buying_43_Condition_1_ID 2568
+Buying_43_Condition_1_Value 4000
+Buying_43_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_43_Rewards 1
+Buying_43_Reward_0_Type Flag_Short
+Buying_43_Reward_0_ID 2568
+Buying_43_Reward_0_Value 1
+Buying_43_Reward_0_Modification Increment
+
+Buying_44_ID 56253
+Buying_44_Cost 58
+Buying_44_Conditions 2
+Buying_44_Condition_0_Type Flag_Short
+Buying_44_Condition_0_ID 2568
+Buying_44_Condition_0_Value 4500
+Buying_44_Condition_0_Logic Less_Than
+
+Buying_44_Condition_1_Type Flag_Short
+Buying_44_Condition_1_ID 2568
+Buying_44_Condition_1_Value 4000
+Buying_44_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_44_Rewards 1
+Buying_44_Reward_0_Type Flag_Short
+Buying_44_Reward_0_ID 2568
+Buying_44_Reward_0_Value 1
+Buying_44_Reward_0_Modification Increment
+
+Buying_45_ID 67
+Buying_45_Cost 39
+Buying_45_Conditions 2
+Buying_45_Condition_0_Type Flag_Short
+Buying_45_Condition_0_ID 2567
+Buying_45_Condition_0_Value 10000
+Buying_45_Condition_0_Allow_Unset 
+Buying_45_Condition_0_Logic Less_Than
+
+Buying_45_Condition_1_Type Flag_Short
+Buying_45_Condition_1_ID 2567
+Buying_45_Condition_1_Value 9000
+Buying_45_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_45_Rewards 1
+Buying_45_Reward_0_Type Flag_Short
+Buying_45_Reward_0_ID 2567
+Buying_45_Reward_0_Value 1
+Buying_45_Reward_0_Modification Increment
+
+Buying_46_ID 49101
+Buying_46_Cost 390
+Buying_46_Conditions 2
+Buying_46_Condition_0_Type Flag_Short
+Buying_46_Condition_0_ID 2567
+Buying_46_Condition_0_Value 10000
+Buying_46_Condition_0_Allow_Unset 
+Buying_46_Condition_0_Logic Less_Than
+
+Buying_46_Condition_1_Type Flag_Short
+Buying_46_Condition_1_ID 2567
+Buying_46_Condition_1_Value 9000
+Buying_46_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_46_Rewards 1
+Buying_46_Reward_0_Type Flag_Short
+Buying_46_Reward_0_ID 2567
+Buying_46_Reward_0_Value 10
+Buying_46_Reward_0_Modification Increment
+
+Buying_47_ID 49102
+Buying_47_Cost 3900
+Buying_47_Conditions 2
+Buying_47_Condition_0_Type Flag_Short
+Buying_47_Condition_0_ID 2567
+Buying_47_Condition_0_Value 10000
+Buying_47_Condition_0_Logic Less_Than
+
+Buying_47_Condition_1_Type Flag_Short
+Buying_47_Condition_1_ID 2567
+Buying_47_Condition_1_Value 9000
+Buying_47_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_47_Rewards 1
+Buying_47_Reward_0_Type Flag_Short
+Buying_47_Reward_0_ID 2567
+Buying_47_Reward_0_Value 100
+Buying_47_Reward_0_Modification Increment
+
+Buying_48_ID 56252
+Buying_48_Cost 59
+Buying_48_Conditions 2
+Buying_48_Condition_0_Type Flag_Short
+Buying_48_Condition_0_ID 2568
+Buying_48_Condition_0_Value 5000
+Buying_48_Condition_0_Allow_Unset 
+Buying_48_Condition_0_Logic Less_Than
+
+Buying_48_Condition_1_Type Flag_Short
+Buying_48_Condition_1_ID 2568
+Buying_48_Condition_1_Value 4500
+Buying_48_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_48_Rewards 1
+Buying_48_Reward_0_Type Flag_Short
+Buying_48_Reward_0_ID 2568
+Buying_48_Reward_0_Value 1
+Buying_48_Reward_0_Modification Increment
+
+Buying_49_ID 56253
+Buying_49_Cost 59
+Buying_49_Conditions 2
+Buying_49_Condition_0_Type Flag_Short
+Buying_49_Condition_0_ID 2568
+Buying_49_Condition_0_Value 5000
+Buying_49_Condition_0_Logic Less_Than
+
+Buying_49_Condition_1_Type Flag_Short
+Buying_49_Condition_1_ID 2568
+Buying_49_Condition_1_Value 4500
+Buying_49_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_49_Rewards 1
+Buying_49_Reward_0_Type Flag_Short
+Buying_49_Reward_0_ID 2568
+Buying_49_Reward_0_Value 1
+Buying_49_Reward_0_Modification Increment
+
+Buying_50_ID 67
+Buying_50_Cost 40
+Buying_50_Conditions 2
+Buying_50_Condition_0_Type Flag_Short
+Buying_50_Condition_0_ID 2567
+Buying_50_Condition_0_Value 11000
+Buying_50_Condition_0_Allow_Unset 
+Buying_50_Condition_0_Logic Less_Than
+
+Buying_50_Condition_1_Type Flag_Short
+Buying_50_Condition_1_ID 2567
+Buying_50_Condition_1_Value 10000
+Buying_50_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_50_Rewards 1
+Buying_50_Reward_0_Type Flag_Short
+Buying_50_Reward_0_ID 2567
+Buying_50_Reward_0_Value 1
+Buying_50_Reward_0_Modification Increment
+
+Buying_51_ID 49101
+Buying_51_Cost 400
+Buying_51_Conditions 2
+Buying_51_Condition_0_Type Flag_Short
+Buying_51_Condition_0_ID 2567
+Buying_51_Condition_0_Value 11000
+Buying_51_Condition_0_Allow_Unset 
+Buying_51_Condition_0_Logic Less_Than
+
+Buying_51_Condition_1_Type Flag_Short
+Buying_51_Condition_1_ID 2567
+Buying_51_Condition_1_Value 10000
+Buying_51_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_51_Rewards 1
+Buying_51_Reward_0_Type Flag_Short
+Buying_51_Reward_0_ID 2567
+Buying_51_Reward_0_Value 10
+Buying_51_Reward_0_Modification Increment
+
+Buying_52_ID 49102
+Buying_52_Cost 4000
+Buying_52_Conditions 2
+Buying_52_Condition_0_Type Flag_Short
+Buying_52_Condition_0_ID 2567
+Buying_52_Condition_0_Value 11000
+Buying_52_Condition_0_Logic Less_Than
+
+Buying_52_Condition_1_Type Flag_Short
+Buying_52_Condition_1_ID 2567
+Buying_52_Condition_1_Value 10000
+Buying_52_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_52_Rewards 1
+Buying_52_Reward_0_Type Flag_Short
+Buying_52_Reward_0_ID 2567
+Buying_52_Reward_0_Value 100
+Buying_52_Reward_0_Modification Increment
+
+Buying_53_ID 56252
+Buying_53_Cost 60
+Buying_53_Conditions 2
+Buying_53_Condition_0_Type Flag_Short
+Buying_53_Condition_0_ID 2568
+Buying_53_Condition_0_Value 5500
+Buying_53_Condition_0_Allow_Unset 
+Buying_53_Condition_0_Logic Less_Than
+
+Buying_53_Condition_1_Type Flag_Short
+Buying_53_Condition_1_ID 2568
+Buying_53_Condition_1_Value 5000
+Buying_53_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_53_Rewards 1
+Buying_53_Reward_0_Type Flag_Short
+Buying_53_Reward_0_ID 2568
+Buying_53_Reward_0_Value 1
+Buying_53_Reward_0_Modification Increment
+
+Buying_54_ID 56253
+Buying_54_Cost 60
+Buying_54_Conditions 2
+Buying_54_Condition_0_Type Flag_Short
+Buying_54_Condition_0_ID 2568
+Buying_54_Condition_0_Value 5500
+Buying_54_Condition_0_Logic Less_Than
+
+Buying_54_Condition_1_Type Flag_Short
+Buying_54_Condition_1_ID 2568
+Buying_54_Condition_1_Value 5000
+Buying_54_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_54_Rewards 1
+Buying_54_Reward_0_Type Flag_Short
+Buying_54_Reward_0_ID 2568
+Buying_54_Reward_0_Value 1
+Buying_54_Reward_0_Modification Increment
+
+Buying_55_ID 67
+Buying_55_Cost 41
+Buying_55_Conditions 2
+Buying_55_Condition_0_Type Flag_Short
+Buying_55_Condition_0_ID 2567
+Buying_55_Condition_0_Value 12000
+Buying_55_Condition_0_Allow_Unset 
+Buying_55_Condition_0_Logic Less_Than
+
+Buying_55_Condition_1_Type Flag_Short
+Buying_55_Condition_1_ID 2567
+Buying_55_Condition_1_Value 11000
+Buying_55_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_55_Rewards 1
+Buying_55_Reward_0_Type Flag_Short
+Buying_55_Reward_0_ID 2567
+Buying_55_Reward_0_Value 1
+Buying_55_Reward_0_Modification Increment
+
+Buying_56_ID 49101
+Buying_56_Cost 410
+Buying_56_Conditions 2
+Buying_56_Condition_0_Type Flag_Short
+Buying_56_Condition_0_ID 2567
+Buying_56_Condition_0_Value 12000
+Buying_56_Condition_0_Allow_Unset 
+Buying_56_Condition_0_Logic Less_Than
+
+Buying_56_Condition_1_Type Flag_Short
+Buying_56_Condition_1_ID 2567
+Buying_56_Condition_1_Value 11000
+Buying_56_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_56_Rewards 1
+Buying_56_Reward_0_Type Flag_Short
+Buying_56_Reward_0_ID 2567
+Buying_56_Reward_0_Value 10
+Buying_56_Reward_0_Modification Increment
+
+Buying_57_ID 49102
+Buying_57_Cost 4100
+Buying_57_Conditions 2
+Buying_57_Condition_0_Type Flag_Short
+Buying_57_Condition_0_ID 2567
+Buying_57_Condition_0_Value 12000
+Buying_57_Condition_0_Logic Less_Than
+
+Buying_57_Condition_1_Type Flag_Short
+Buying_57_Condition_1_ID 2567
+Buying_57_Condition_1_Value 11000
+Buying_57_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_57_Rewards 1
+Buying_57_Reward_0_Type Flag_Short
+Buying_57_Reward_0_ID 2567
+Buying_57_Reward_0_Value 100
+Buying_57_Reward_0_Modification Increment
+
+Buying_58_ID 56252
+Buying_58_Cost 61
+Buying_58_Conditions 2
+Buying_58_Condition_0_Type Flag_Short
+Buying_58_Condition_0_ID 2568
+Buying_58_Condition_0_Value 6000
+Buying_58_Condition_0_Allow_Unset 
+Buying_58_Condition_0_Logic Less_Than
+
+Buying_58_Condition_1_Type Flag_Short
+Buying_58_Condition_1_ID 2568
+Buying_58_Condition_1_Value 5500
+Buying_58_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_58_Rewards 1
+Buying_58_Reward_0_Type Flag_Short
+Buying_58_Reward_0_ID 2568
+Buying_58_Reward_0_Value 1
+Buying_58_Reward_0_Modification Increment
+
+Buying_59_ID 56253
+Buying_59_Cost 61
+Buying_59_Conditions 2
+Buying_59_Condition_0_Type Flag_Short
+Buying_59_Condition_0_ID 2568
+Buying_59_Condition_0_Value 6000
+Buying_59_Condition_0_Logic Less_Than
+
+Buying_59_Condition_1_Type Flag_Short
+Buying_59_Condition_1_ID 2568
+Buying_59_Condition_1_Value 5500
+Buying_59_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_59_Rewards 1
+Buying_59_Reward_0_Type Flag_Short
+Buying_59_Reward_0_ID 2568
+Buying_59_Reward_0_Value 1
+Buying_59_Reward_0_Modification Increment
+
+Buying_60_ID 67
+Buying_60_Cost 42
+Buying_60_Conditions 2
+Buying_60_Condition_0_Type Flag_Short
+Buying_60_Condition_0_ID 2567
+Buying_60_Condition_0_Value 13000
+Buying_60_Condition_0_Allow_Unset 
+Buying_60_Condition_0_Logic Less_Than
+
+Buying_60_Condition_1_Type Flag_Short
+Buying_60_Condition_1_ID 2567
+Buying_60_Condition_1_Value 12000
+Buying_60_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_60_Rewards 1
+Buying_60_Reward_0_Type Flag_Short
+Buying_60_Reward_0_ID 2567
+Buying_60_Reward_0_Value 1
+Buying_60_Reward_0_Modification Increment
+
+Buying_61_ID 49101
+Buying_61_Cost 420
+Buying_61_Conditions 2
+Buying_61_Condition_0_Type Flag_Short
+Buying_61_Condition_0_ID 2567
+Buying_61_Condition_0_Value 13000
+Buying_61_Condition_0_Allow_Unset 
+Buying_61_Condition_0_Logic Less_Than
+
+Buying_61_Condition_1_Type Flag_Short
+Buying_61_Condition_1_ID 2567
+Buying_61_Condition_1_Value 12000
+Buying_61_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_61_Rewards 1
+Buying_61_Reward_0_Type Flag_Short
+Buying_61_Reward_0_ID 2567
+Buying_61_Reward_0_Value 10
+Buying_61_Reward_0_Modification Increment
+
+Buying_62_ID 49102
+Buying_62_Cost 4200
+Buying_62_Conditions 2
+Buying_62_Condition_0_Type Flag_Short
+Buying_62_Condition_0_ID 2567
+Buying_62_Condition_0_Value 13000
+Buying_62_Condition_0_Logic Less_Than
+
+Buying_62_Condition_1_Type Flag_Short
+Buying_62_Condition_1_ID 2567
+Buying_62_Condition_1_Value 12000
+Buying_62_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_62_Rewards 1
+Buying_62_Reward_0_Type Flag_Short
+Buying_62_Reward_0_ID 2567
+Buying_62_Reward_0_Value 100
+Buying_62_Reward_0_Modification Increment
+
+Buying_63_ID 56252
+Buying_63_Cost 62
+Buying_63_Conditions 2
+Buying_63_Condition_0_Type Flag_Short
+Buying_63_Condition_0_ID 2568
+Buying_63_Condition_0_Value 6500
+Buying_63_Condition_0_Allow_Unset 
+Buying_63_Condition_0_Logic Less_Than
+
+Buying_63_Condition_1_Type Flag_Short
+Buying_63_Condition_1_ID 2568
+Buying_63_Condition_1_Value 6000
+Buying_63_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_63_Rewards 1
+Buying_63_Reward_0_Type Flag_Short
+Buying_63_Reward_0_ID 2568
+Buying_63_Reward_0_Value 1
+Buying_63_Reward_0_Modification Increment
+
+Buying_64_ID 56253
+Buying_64_Cost 62
+Buying_64_Conditions 2
+Buying_64_Condition_0_Type Flag_Short
+Buying_64_Condition_0_ID 2568
+Buying_64_Condition_0_Value 6500
+Buying_64_Condition_0_Logic Less_Than
+
+Buying_64_Condition_1_Type Flag_Short
+Buying_64_Condition_1_ID 2568
+Buying_64_Condition_1_Value 6000
+Buying_64_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_64_Rewards 1
+Buying_64_Reward_0_Type Flag_Short
+Buying_64_Reward_0_ID 2568
+Buying_64_Reward_0_Value 1
+Buying_64_Reward_0_Modification Increment
+
+Buying_65_ID 67
+Buying_65_Cost 43
+Buying_65_Conditions 2
+Buying_65_Condition_0_Type Flag_Short
+Buying_65_Condition_0_ID 2567
+Buying_65_Condition_0_Value 14000
+Buying_65_Condition_0_Allow_Unset 
+Buying_65_Condition_0_Logic Less_Than
+
+Buying_65_Condition_1_Type Flag_Short
+Buying_65_Condition_1_ID 2567
+Buying_65_Condition_1_Value 13000
+Buying_65_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_65_Rewards 1
+Buying_65_Reward_0_Type Flag_Short
+Buying_65_Reward_0_ID 2567
+Buying_65_Reward_0_Value 1
+Buying_65_Reward_0_Modification Increment
+
+Buying_66_ID 49101
+Buying_66_Cost 430
+Buying_66_Conditions 2
+Buying_66_Condition_0_Type Flag_Short
+Buying_66_Condition_0_ID 2567
+Buying_66_Condition_0_Value 14000
+Buying_66_Condition_0_Allow_Unset 
+Buying_66_Condition_0_Logic Less_Than
+
+Buying_66_Condition_1_Type Flag_Short
+Buying_66_Condition_1_ID 2567
+Buying_66_Condition_1_Value 13000
+Buying_66_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_66_Rewards 1
+Buying_66_Reward_0_Type Flag_Short
+Buying_66_Reward_0_ID 2567
+Buying_66_Reward_0_Value 10
+Buying_66_Reward_0_Modification Increment
+
+Buying_67_ID 49102
+Buying_67_Cost 4300
+Buying_67_Conditions 2
+Buying_67_Condition_0_Type Flag_Short
+Buying_67_Condition_0_ID 2567
+Buying_67_Condition_0_Value 14000
+Buying_67_Condition_0_Logic Less_Than
+
+Buying_67_Condition_1_Type Flag_Short
+Buying_67_Condition_1_ID 2567
+Buying_67_Condition_1_Value 13000
+Buying_67_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_67_Rewards 1
+Buying_67_Reward_0_Type Flag_Short
+Buying_67_Reward_0_ID 2567
+Buying_67_Reward_0_Value 100
+Buying_67_Reward_0_Modification Increment
+
+Buying_68_ID 56252
+Buying_68_Cost 63
+Buying_68_Conditions 2
+Buying_68_Condition_0_Type Flag_Short
+Buying_68_Condition_0_ID 2568
+Buying_68_Condition_0_Value 7000
+Buying_68_Condition_0_Allow_Unset 
+Buying_68_Condition_0_Logic Less_Than
+
+Buying_68_Condition_1_Type Flag_Short
+Buying_68_Condition_1_ID 2568
+Buying_68_Condition_1_Value 6500
+Buying_68_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_68_Rewards 1
+Buying_68_Reward_0_Type Flag_Short
+Buying_68_Reward_0_ID 2568
+Buying_68_Reward_0_Value 1
+Buying_68_Reward_0_Modification Increment
+
+Buying_69_ID 56253
+Buying_69_Cost 63
+Buying_69_Conditions 2
+Buying_69_Condition_0_Type Flag_Short
+Buying_69_Condition_0_ID 2568
+Buying_69_Condition_0_Value 7000
+Buying_69_Condition_0_Logic Less_Than
+
+Buying_69_Condition_1_Type Flag_Short
+Buying_69_Condition_1_ID 2568
+Buying_69_Condition_1_Value 6500
+Buying_69_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_69_Rewards 1
+Buying_69_Reward_0_Type Flag_Short
+Buying_69_Reward_0_ID 2568
+Buying_69_Reward_0_Value 1
+Buying_69_Reward_0_Modification Increment
+
+Buying_70_ID 67
+Buying_70_Cost 44
+Buying_70_Conditions 2
+Buying_70_Condition_0_Type Flag_Short
+Buying_70_Condition_0_ID 2567
+Buying_70_Condition_0_Value 15000
+Buying_70_Condition_0_Allow_Unset 
+Buying_70_Condition_0_Logic Less_Than
+
+Buying_70_Condition_1_Type Flag_Short
+Buying_70_Condition_1_ID 2567
+Buying_70_Condition_1_Value 14000
+Buying_70_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_70_Rewards 1
+Buying_70_Reward_0_Type Flag_Short
+Buying_70_Reward_0_ID 2567
+Buying_70_Reward_0_Value 1
+Buying_70_Reward_0_Modification Increment
+
+Buying_71_ID 49101
+Buying_71_Cost 440
+Buying_71_Conditions 2
+Buying_71_Condition_0_Type Flag_Short
+Buying_71_Condition_0_ID 2567
+Buying_71_Condition_0_Value 15000
+Buying_71_Condition_0_Allow_Unset 
+Buying_71_Condition_0_Logic Less_Than
+
+Buying_71_Condition_1_Type Flag_Short
+Buying_71_Condition_1_ID 2567
+Buying_71_Condition_1_Value 14000
+Buying_71_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_71_Rewards 1
+Buying_71_Reward_0_Type Flag_Short
+Buying_71_Reward_0_ID 2567
+Buying_71_Reward_0_Value 10
+Buying_71_Reward_0_Modification Increment
+
+Buying_72_ID 49102
+Buying_72_Cost 4400
+Buying_72_Conditions 2
+Buying_72_Condition_0_Type Flag_Short
+Buying_72_Condition_0_ID 2567
+Buying_72_Condition_0_Value 15000
+Buying_72_Condition_0_Logic Less_Than
+
+Buying_72_Condition_1_Type Flag_Short
+Buying_72_Condition_1_ID 2567
+Buying_72_Condition_1_Value 14000
+Buying_72_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_72_Rewards 1
+Buying_72_Reward_0_Type Flag_Short
+Buying_72_Reward_0_ID 2567
+Buying_72_Reward_0_Value 100
+Buying_72_Reward_0_Modification Increment
+
+Buying_73_ID 56252
+Buying_73_Cost 64
+Buying_73_Conditions 2
+Buying_73_Condition_0_Type Flag_Short
+Buying_73_Condition_0_ID 2568
+Buying_73_Condition_0_Value 7500
+Buying_73_Condition_0_Allow_Unset 
+Buying_73_Condition_0_Logic Less_Than
+
+Buying_73_Condition_1_Type Flag_Short
+Buying_73_Condition_1_ID 2568
+Buying_73_Condition_1_Value 7000
+Buying_73_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_73_Rewards 1
+Buying_73_Reward_0_Type Flag_Short
+Buying_73_Reward_0_ID 2568
+Buying_73_Reward_0_Value 1
+Buying_73_Reward_0_Modification Increment
+
+Buying_74_ID 56253
+Buying_74_Cost 64
+Buying_74_Conditions 2
+Buying_74_Condition_0_Type Flag_Short
+Buying_74_Condition_0_ID 2568
+Buying_74_Condition_0_Value 7500
+Buying_74_Condition_0_Logic Less_Than
+
+Buying_74_Condition_1_Type Flag_Short
+Buying_74_Condition_1_ID 2568
+Buying_74_Condition_1_Value 7000
+Buying_74_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Buying_74_Rewards 1
+Buying_74_Reward_0_Type Flag_Short
+Buying_74_Reward_0_ID 2568
+Buying_74_Reward_0_Value 1
+Buying_74_Reward_0_Modification Increment
+
+Buying_75_ID 67
+Buying_75_Cost 45
+Buying_75_Conditions 1
+Buying_75_Condition_0_Type Flag_Short
+Buying_75_Condition_0_ID 2567
+Buying_75_Condition_0_Value 15000
+Buying_75_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_76_ID 49101
+Buying_76_Cost 450
+Buying_76_Conditions 1
+Buying_76_Condition_0_Type Flag_Short
+Buying_76_Condition_0_ID 2567
+Buying_76_Condition_0_Value 15000
+Buying_76_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_77_ID 49102
+Buying_77_Cost 4500
+Buying_77_Conditions 1
+Buying_77_Condition_0_Type Flag_Short
+Buying_77_Condition_0_ID 2567
+Buying_77_Condition_0_Value 15000
+Buying_77_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_78_ID 56252
+Buying_78_Cost 65
+Buying_78_Conditions 1
+Buying_78_Condition_0_Type Flag_Short
+Buying_78_Condition_0_ID 2568
+Buying_78_Condition_0_Value 7500
+Buying_78_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Buying_79_ID 56253
+Buying_79_Cost 65
+Buying_79_Conditions 1
+Buying_79_Condition_0_Type Flag_Short
+Buying_79_Condition_0_ID 2568
+Buying_79_Condition_0_Value 7500
+Buying_79_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Selling 3
+Selling_0_ID 1198
+Selling_0_Cost 100
+Selling_1_ID 1475
+Selling_1_Cost 1000
+Selling_2_ID 1199
+Selling_2_Cost 750

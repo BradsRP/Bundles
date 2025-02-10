@@ -1,0 +1,21 @@
+// This file was generated in BowieD's AssetEditor 0.0.14-alpha
+"Metadata"
+{
+	"GUID" "78e9616d0d414b6aa10d38fc663aad10"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions" "0"
+	"Type" "MEDIUM"
+	"Chart" "IGNORE"
+	"Causes_Fall_Damage" "true"
+	"LOD" "NONE"
+	"Add_Kill_Triggers" "false"
+	"Landmark_Quality" "LOW"
+	"Has_Clip_Prefab" "false"
+	"Exclude_From_Level_Batching" "false"
+	"ID" "37"
+	"Asset_Bundle_Version" "1"
+}
